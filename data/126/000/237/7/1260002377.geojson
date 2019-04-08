@@ -1,0 +1,70 @@
+{
+  "id": 1260002377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.48917,77.22444,-69.48917,77.22444",
+    "geom:latitude":77.22444,
+    "geom:longitude":-69.48917,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Itilleq",
+    "gn:country_code":"GL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831365,
+    "gn:latitude":77.22444,
+    "gn:longitude":-69.48917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Itilleq",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itivdleq",
+        "Itivdlek",
+        "Itilleq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831365
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"d1db985ae230f854903a0497f2dbff39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1260002377,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1260002377,
+    "wof:lastmodified":1537623868,
+    "wof:name":"Itilleq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48917,
+    77.22444,
+    -69.48917,
+    77.22444
+],
+  "geometry": {"coordinates":[-69.48917,77.22444],"type":"Point"}
+}

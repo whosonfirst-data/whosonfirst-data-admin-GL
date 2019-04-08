@@ -1,0 +1,143 @@
+{
+  "id": 101870657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.528473,72.158424,-55.528473,72.158424",
+    "geom:latitude":72.158424,
+    "geom:longitude":-55.528473,
+    "gn:population":205,
+    "iso:country":"GL",
+    "lbl:latitude":72.158424,
+    "lbl:longitude":-55.528473,
+    "mps:latitude":72.158424,
+    "mps:longitude":-55.528473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:dan_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:dan_x_variant":[
+        "S\u00f8ndre Upernavik"
+    ],
+    "name:dut_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:eng_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:fra_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:fre_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10de\u10d4\u10e0\u10dc\u10d0\u10d5\u10d8\u10d9-\u10d9\u10e3\u10d8\u10d0\u10da\u10d4\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:ita_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:kal_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10de\u10d4\u10e0\u10dc\u10d0\u10d5\u10d8\u10d9-\u10d9\u10e3\u10d8\u10d0\u10da\u10d4\u10d9\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:nor_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:pol_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:por_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043f\u0435\u0440\u043d\u0430\u0432\u0438\u043a-\u041a\u0443\u044f\u043b\u043b\u0435\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:swe_x_preferred":[
+        "Upernavik Kujalleq"
+    ],
+    "name:unk_x_variant":[
+        "S\u00f8ndre Upernivik"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Upernavik Kujalleq",
+    "qs:loc_alt":"Upernavik Kujalleq",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3419712,
+        "gp:id":473051,
+        "qs:id":1044556,
+        "qs_pg:id":1044556,
+        "wd:id":"Q2291016",
+        "wk:page":"Upernavik Kujalleq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"baffaba4f9ede9528457b2cd8f406bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870657,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870657,
+    "wof:lastmodified":1544750750,
+    "wof:name":"Upernavik Kujalleq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.528473,
+    72.158424,
+    -55.528473,
+    72.158424
+],
+  "geometry": {"coordinates":[-55.528473,72.158424],"type":"Point"}
+}

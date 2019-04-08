@@ -1,0 +1,155 @@
+{
+  "id": 101870683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.716675,77.783333,-70.716675,77.783333",
+    "geom:latitude":77.783333,
+    "geom:longitude":-70.716675,
+    "gn:population":75,
+    "iso:country":"GL",
+    "lbl:latitude":77.783333,
+    "lbl:longitude":-70.716675,
+    "mps:latitude":77.783333,
+    "mps:longitude":-70.716675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:cze_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:dan_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:deu_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:dut_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:eng_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:fra_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:fre_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d8\u10dd\u10e0\u10d0\u10de\u10d0\u10da\u10e3\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:ita_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30aa\u30e9\u30d1\u30eb\u30af"
+    ],
+    "name:kal_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dd\u10e0\u10d0\u10de\u10d0\u10da\u10e3\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:nob_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:nor_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:pol_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:por_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043e\u0440\u0430\u043f\u0430\u043b\u0443\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:spa_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:swe_x_preferred":[
+        "Siorapaluk"
+    ],
+    "name:unk_x_variant":[
+        "Igdluluarssuit"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Siorapaluk",
+    "qs:loc_alt":"Siorapaluk",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831128,
+        "gp:id":473042,
+        "qs:id":585443,
+        "qs_pg:id":585443,
+        "wd:id":"Q1001361",
+        "wk:page":"Siorapaluk"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"7f5ec689c0a66585cd24167692cd3828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870683,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870683,
+    "wof:lastmodified":1544750765,
+    "wof:name":"Siorapaluk",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.716675,
+    77.783333,
+    -70.716675,
+    77.783333
+],
+  "geometry": {"coordinates":[-70.716675,77.783333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276869999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.46667,66.7,-53.46667,66.7",
+    "geom:latitude":66.7,
+    "geom:longitude":-53.46667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Saqqaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3420096,
+    "gn:latitude":66.7,
+    "gn:longitude":-53.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saqqaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sarkak",
+        "Sarqaq",
+        "Saqqaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420096
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"1215d04ad65c1e0e03a6e2b6d2ee6493",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276869999,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276869999,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Saqqaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.46666999999999,
+    66.7,
+    -53.46666999999999,
+    66.7
+],
+  "geometry": {"coordinates":[-53.46666999999999,66.7],"type":"Point"}
+}

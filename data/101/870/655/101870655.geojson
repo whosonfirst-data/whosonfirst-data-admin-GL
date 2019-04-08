@@ -1,0 +1,137 @@
+{
+  "id": 101870655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.223445,71.537484,-53.223445,71.537484",
+    "geom:latitude":71.537484,
+    "geom:longitude":-53.223445,
+    "gn:population":99,
+    "iso:country":"GL",
+    "lbl:latitude":71.537484,
+    "lbl:longitude":-53.223445,
+    "mps:latitude":71.537484,
+    "mps:longitude":-53.223445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:dan_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:dut_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:eng_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:fra_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:fre_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10e3\u10e3\u10d2\u10d0\u10d0\u10e2\u10e1\u10d8\u10d0\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:ita_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e3\u10d2\u10d0\u10d0\u10e2\u10e1\u10d8\u10d0\u10d9\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:nor_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:pol_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:por_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0443\u0433\u0430\u0430\u0442\u0441\u0438\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:swe_x_preferred":[
+        "Nuugaatsiaq"
+    ],
+    "name:unk_x_variant":[
+        "N\u00fbg\u00e2tsiaq"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nuugaatsiaq",
+    "qs:loc_alt":"Nuugaatsiaq",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421327,
+        "gp:id":472884,
+        "qs:id":95516,
+        "qs_pg:id":95516,
+        "wd:id":"Q663104",
+        "wk:page":"Nuugaatsiaq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"2d66acc64f2d36127e4df181bddc54b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870655,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870655,
+    "wof:lastmodified":1544750749,
+    "wof:name":"Nuugaatsiaq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.223445,
+    71.537484,
+    -53.223445,
+    71.537484
+],
+  "geometry": {"coordinates":[-53.223445,71.53748400000001],"type":"Point"}
+}

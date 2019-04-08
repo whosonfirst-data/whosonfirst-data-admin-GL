@@ -1,0 +1,67 @@
+{
+  "id": 1259789669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-43.93222,59.99083,-43.93222,59.99083",
+    "geom:latitude":59.99083,
+    "geom:longitude":-43.93222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sammisoq",
+    "gn:country_code":"GL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3420130,
+    "gn:latitude":59.99083,
+    "gn:longitude":-43.93222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sammisoq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangmisok",
+        "Sangmissoq",
+        "Sangmissok",
+        "Sammisoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420130
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"ae40416a7c1372671f1de6ac5b461906",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259789669,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259789669,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Sammisoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -43.93222,
+    59.99083,
+    -43.93222,
+    59.99083
+],
+  "geometry": {"coordinates":[-43.93222,59.99083],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125376179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.75,65.5,-51.75,65.5",
+    "geom:latitude":65.5,
+    "geom:longitude":-51.75,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3587,
+    "gn:population":3587,
+    "iso:country":"GL",
+    "lbl:latitude":65.5,
+    "lbl:longitude":-51.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kal_x_preferred":[
+        "Maniitsup Kommunia"
+    ],
+    "name:unk_x_variant":[
+        "Sukkertoppen District"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3421992,
+    "qs_pg:gn_pop":3587,
+    "qs_pg:name":"Maniitsoq Kommune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":583167,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421992,
+        "qs_pg:id":583167
+    },
+    "wof:country":"GL",
+    "wof:created":1497047757,
+    "wof:geomhash":"d994ca785f0ca494f53dbf53937383a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "localadmin_id":1125376179,
+            "region_id":85684717
+        }
+    ],
+    "wof:id":1125376179,
+    "wof:lastmodified":1509389464,
+    "wof:name":"Maniitsoq Kommune",
+    "wof:parent_id":85684717,
+    "wof:placetype":"localadmin",
+    "wof:population":3587,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.75,
+    65.5,
+    -51.75,
+    65.5
+],
+  "geometry": {"coordinates":[-51.75,65.5],"type":"Point"}
+}

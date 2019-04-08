@@ -1,0 +1,80 @@
+{
+  "id": 1125903187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.08617,69.210906,-51.08617,69.210906",
+    "geom:latitude":69.210906,
+    "geom:longitude":-51.08617,
+    "gn:gn_country":null,
+    "iso:country":"GL",
+    "lbl:latitude":69.210906,
+    "lbl:longitude":-51.08617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jakobshavn",
+    "qs_pg:name_adm0":"Gr\u00f8nland",
+    "qs_pg:name_adm1":"Vestgronland",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":895241,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424828,
+    "qs_pg:woe_id":472901,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424828,
+    "woe:name_adm0":"Gr\u00f8nland",
+    "woe:name_adm1":"Vestgronland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472901,
+        "qs_pg:id":895241
+    },
+    "wof:country":"GL",
+    "wof:created":1497295887,
+    "wof:geomhash":"75bb686ed1558386765a92cedb356e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125903187,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1125903187,
+    "wof:lastmodified":1509399571,
+    "wof:name":"Jakobshavn",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.08617,
+    69.210906,
+    -51.08617,
+    69.210906
+],
+  "geometry": {"coordinates":[-51.08617,69.21090599999999],"type":"Point"}
+}

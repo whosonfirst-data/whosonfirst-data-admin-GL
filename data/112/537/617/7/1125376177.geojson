@@ -1,0 +1,82 @@
+{
+  "id": 1125376177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.0,74.0,-52.0,74.0",
+    "geom:latitude":74.0,
+    "geom:longitude":-52.0,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2907,
+    "gn:population":2907,
+    "iso:country":"GL",
+    "lbl:latitude":74.0,
+    "lbl:longitude":-52.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kal_x_preferred":[
+        "Upernaviup Kommunia"
+    ],
+    "name:unk_x_variant":[
+        "Upernivik Distrikt"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3418913,
+    "qs_pg:gn_pop":2907,
+    "qs_pg:name":"Upernavik Kommune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":583165,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418913,
+        "qs_pg:id":583165
+    },
+    "wof:country":"GL",
+    "wof:created":1497047757,
+    "wof:geomhash":"155bc4c64a138e2c1d4a9bb2f7f8843c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "localadmin_id":1125376177,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1125376177,
+    "wof:lastmodified":1509389463,
+    "wof:name":"Upernavik Kommune",
+    "wof:parent_id":85684721,
+    "wof:placetype":"localadmin",
+    "wof:population":2907,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.0,
+    74.0,
+    -52.0,
+    74.0
+],
+  "geometry": {"coordinates":[-52.0,74.0],"type":"Point"}
+}

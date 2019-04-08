@@ -1,0 +1,123 @@
+{
+  "id": 101870709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.116665,69.083328,-51.116665,69.083328",
+    "geom:latitude":69.083328,
+    "geom:longitude":-51.116665,
+    "gn:population":84,
+    "iso:country":"GL",
+    "lbl:latitude":69.083328,
+    "lbl:longitude":-51.116665,
+    "mps:latitude":69.083328,
+    "mps:longitude":-51.116665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:dan_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:deu_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:eng_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:fra_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:ita_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10d8\u10db\u10d0\u10dc\u10d0\u10d9\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:pol_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:por_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u043c\u0430\u043d\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:swe_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:unk_x_variant":[
+        "Ilulisat"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ilimanaq",
+    "qs:loc_alt":"Ilimanaq",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":277,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424108,
+        "gp:id":472840,
+        "qs:id":1044582,
+        "wd:id":"Q1020305",
+        "wk:page":"Ilimanaq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"e8b05b7744e173c4818ffe92af4ffc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870709,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870709,
+    "wof:lastmodified":1544750778,
+    "wof:name":"Ilimanaq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.116665,
+    69.083328,
+    -51.116665,
+    69.083328
+],
+  "geometry": {"coordinates":[-51.116665,69.08332799999999],"type":"Point"}
+}

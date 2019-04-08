@@ -1,0 +1,67 @@
+{
+  "id": 1327332781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.73333,73.95,-56.73333,73.95",
+    "geom:latitude":73.95,
+    "geom:longitude":-56.73333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kittorsaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3422376,
+    "gn:latitude":73.95,
+    "gn:longitude":-56.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kittorsaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kigtorsaq",
+        "Kitorsak",
+        "Kigtorsak",
+        "Kittorsaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422376
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"48d91a513e615c777256e0903c2afd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327332781,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327332781,
+    "wof:lastmodified":1537623863,
+    "wof:name":"Kittorsaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.73333,
+    73.95,
+    -56.73333,
+    73.95
+],
+  "geometry": {"coordinates":[-56.73333,73.95],"type":"Point"}
+}

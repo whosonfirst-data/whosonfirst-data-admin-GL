@@ -1,0 +1,66 @@
+{
+  "id": 1343565871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.68333,70.56667,-51.68333,70.56667",
+    "geom:latitude":70.56667,
+    "geom:longitude":-51.68333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Uummannatsiaq",
+    "gn:country_code":"GL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3418841,
+    "gn:latitude":70.56667,
+    "gn:longitude":-51.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uummannatsiaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dbm\u00e1natsiaq",
+        "Umanatsiak",
+        "Uummannatsiaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418841
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"eca9f01b019b6029d6511e2db02be505",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343565871,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343565871,
+    "wof:lastmodified":1537623858,
+    "wof:name":"Uummannatsiaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.68333,
+    70.56667,
+    -51.68333,
+    70.56667
+],
+  "geometry": {"coordinates":[-51.68333,70.56667],"type":"Point"}
+}

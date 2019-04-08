@@ -1,0 +1,70 @@
+{
+  "id": 1293132633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.57472,77.42389,-66.57472,77.42389",
+    "geom:latitude":77.42389,
+    "geom:longitude":-66.57472,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nunatarsuaq",
+    "gn:country_code":"GL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831257,
+    "gn:latitude":77.42389,
+    "gn:longitude":-66.57472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nunatarsuaq",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nunatarssuaq",
+        "Nunatarssuak",
+        "Nunatarsuaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831257
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"26fbdf456136b11539e2f711d5825671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1293132633,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1293132633,
+    "wof:lastmodified":1537623868,
+    "wof:name":"Nunatarsuaq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.57472,
+    77.42389,
+    -66.57472,
+    77.42389
+],
+  "geometry": {"coordinates":[-66.57472,77.42389],"type":"Point"}
+}

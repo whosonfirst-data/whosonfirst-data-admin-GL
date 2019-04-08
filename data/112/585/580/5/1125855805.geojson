@@ -1,0 +1,81 @@
+{
+  "id": 1125855805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.46667,60.55,-45.46667,60.55",
+    "geom:latitude":60.55,
+    "geom:longitude":-45.46667,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"GL",
+    "lbl:latitude":60.55,
+    "lbl:longitude":-45.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Lichtenau"
+    ],
+    "name:kal_x_preferred":[
+        "Alluitsoq"
+    ],
+    "name:unk_x_variant":[
+        "Agdluitsoq"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3422101,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Lichtenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":583169,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422101,
+        "qs_pg:id":583169
+    },
+    "wof:country":"GL",
+    "wof:created":1497293612,
+    "wof:geomhash":"dbe5d97e19aa0193312a92fbf9d9b225",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125855805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125855805,
+    "wof:lastmodified":1509396205,
+    "wof:name":"Lichtenau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.46667,
+    60.55,
+    -45.46667,
+    60.55
+],
+  "geometry": {"coordinates":[-45.46667,60.55],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1125820241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.66667,76.76667,-18.66667,76.76667",
+    "geom:latitude":76.76667,
+    "geom:longitude":-18.66667,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"STNM",
+    "gn:gn_pop":8,
+    "gn:population":8,
+    "iso:country":"GL",
+    "lbl:latitude":76.76667,
+    "lbl:longitude":-18.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0645\u0627\u0631\u0643\u0633\u0647\u0627\u0641\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043d\u043c\u0430\u0440\u043a\u0441\u0445\u0430\u045e\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:dut_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:eng_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:fre_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:ger_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:ita_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30f3\u30de\u30fc\u30af\u30b7\u30e3\u30a6\u30f3"
+    ],
+    "name:nob_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Danmarkshavn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u043c\u0430\u0440\u043a\u0441\u0445\u0430\u0432\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Danmarkshavn"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"STNM",
+    "qs_pg:gn_id":6295693,
+    "qs_pg:gn_pop":8,
+    "qs_pg:name":"Danmarkshavn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":621276,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6295693,
+        "qs_pg:id":621276,
+        "wd:id":"Q1164352"
+    },
+    "wof:country":"GL",
+    "wof:created":1497292012,
+    "wof:geomhash":"2c850432f2eab90a1b5df2502151c6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125820241,
+            "region_id":85684705
+        }
+    ],
+    "wof:id":1125820241,
+    "wof:lastmodified":1514443795,
+    "wof:name":"Danmarkshavn",
+    "wof:parent_id":85684705,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.66667,
+    76.76667,
+    -18.66667,
+    76.76667
+],
+  "geometry": {"coordinates":[-18.66667,76.76667],"type":"Point"}
+}

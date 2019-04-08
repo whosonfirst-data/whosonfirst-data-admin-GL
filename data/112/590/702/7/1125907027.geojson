@@ -1,0 +1,89 @@
+{
+  "id": 1125907027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.98333,70.41667,-21.98333,70.41667",
+    "geom:latitude":70.41667,
+    "geom:longitude":-21.98333,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GL",
+    "lbl:latitude":70.41667,
+    "lbl:longitude":-21.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "\u00dbnarteq"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3418835,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Uunartoq",
+    "qs_pg:name_adm0":"Gr\u00f8nland",
+    "qs_pg:name_adm1":"Ostgronland",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475572,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424828,
+    "qs_pg:woe_id":473090,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424828,
+    "woe:name_adm0":"Gr\u00f8nland",
+    "woe:name_adm1":"Ostgronland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418835,
+        "gp:id":473090,
+        "qs_pg:id":475572
+    },
+    "wof:country":"GL",
+    "wof:created":1497296022,
+    "wof:geomhash":"239a2e956957ba16d4c0a2da736892ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125907027,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1125907027,
+    "wof:lastmodified":1509399816,
+    "wof:name":"Uunartoq",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.98333,
+    70.41667,
+    -21.98333,
+    70.41667
+],
+  "geometry": {"coordinates":[-21.98333,70.41667],"type":"Point"}
+}

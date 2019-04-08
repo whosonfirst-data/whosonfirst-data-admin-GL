@@ -1,0 +1,65 @@
+{
+  "id": 1242873283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.13333,70.83333,-54.13333,70.83333",
+    "geom:latitude":70.83333,
+    "geom:longitude":-54.13333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kanissut",
+    "gn:country_code":"GL",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3422521,
+    "gn:latitude":70.83333,
+    "gn:longitude":-54.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanissut",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kan\u00edsut",
+        "Kanissut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422521
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"4f5ce0a493c171b6d0a1ddf908162483",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242873283,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242873283,
+    "wof:lastmodified":1537623863,
+    "wof:name":"Kanissut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.13333000000001,
+    70.83333,
+    -54.13333000000001,
+    70.83333
+],
+  "geometry": {"coordinates":[-54.13333000000001,70.83333],"type":"Point"}
+}

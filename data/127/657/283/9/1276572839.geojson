@@ -1,0 +1,71 @@
+{
+  "id": 1276572839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.63378,64.00167,-51.63378,64.00167",
+    "geom:latitude":64.00167,
+    "geom:longitude":-51.63378,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Narsaq",
+    "gn:country_code":"GL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3421718,
+    "gn:latitude":64.00167,
+    "gn:longitude":-51.63378,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Narsaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Narssaq",
+        "Narssak",
+        "Narsak",
+        "Narsaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421718
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"26e37b0428c96f155d45e04b6f9a0ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1276572839,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1276572839,
+    "wof:lastmodified":1537623862,
+    "wof:name":"Narsaq",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.63378,
+    64.00166999999999,
+    -51.63378,
+    64.00166999999999
+],
+  "geometry": {"coordinates":[-51.63378,64.00166999999999],"type":"Point"}
+}

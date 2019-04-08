@@ -1,0 +1,65 @@
+{
+  "id": 1310500693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.31667,69.76667,-51.31667,69.76667",
+    "geom:latitude":69.76667,
+    "geom:longitude":-51.31667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ritenbenk",
+    "gn:country_code":"GL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3420293,
+    "gn:latitude":69.76667,
+    "gn:longitude":-51.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ritenbenk",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agpat",
+        "Ritenbenk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420293
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"ba9120f90d8aa649dff737229e22705f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310500693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310500693,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Ritenbenk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.31667,
+    69.76666999999999,
+    -51.31667,
+    69.76666999999999
+],
+  "geometry": {"coordinates":[-51.31667,69.76666999999999],"type":"Point"}
+}

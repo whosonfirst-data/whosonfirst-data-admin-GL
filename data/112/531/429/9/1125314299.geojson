@@ -1,0 +1,82 @@
+{
+  "id": 1125314299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-47.96667,61.2,-47.96667,61.2",
+    "geom:latitude":61.2,
+    "geom:longitude":-47.96667,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":188,
+    "gn:population":188,
+    "iso:country":"GL",
+    "lbl:latitude":61.2,
+    "lbl:longitude":-47.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kal_x_preferred":[
+        "Ivittuut Kommuniat"
+    ],
+    "name:unk_x_variant":[
+        "Ivittuut District"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3422865,
+    "qs_pg:gn_pop":188,
+    "qs_pg:name":"Ivittuut Kommune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":583173,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422865,
+        "qs_pg:id":583173
+    },
+    "wof:country":"GL",
+    "wof:created":1497044189,
+    "wof:geomhash":"9bf6c268845ff8d0ddaeab9813cf3c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "localadmin_id":1125314299,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1125314299,
+    "wof:lastmodified":1509387960,
+    "wof:name":"Ivittuut Kommune",
+    "wof:parent_id":85684729,
+    "wof:placetype":"localadmin",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -47.96667,
+    61.2,
+    -47.96667,
+    61.2
+],
+  "geometry": {"coordinates":[-47.96667,61.2],"type":"Point"}
+}

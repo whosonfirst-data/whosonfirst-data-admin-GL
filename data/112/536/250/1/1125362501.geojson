@@ -1,0 +1,82 @@
+{
+  "id": 1125362501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.75,69.96667,-53.75,69.96667",
+    "geom:latitude":69.96667,
+    "geom:longitude":-53.75,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1025,
+    "gn:population":1025,
+    "iso:country":"GL",
+    "lbl:latitude":69.96667,
+    "lbl:longitude":-53.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kal_x_preferred":[
+        "Qeqertarsuup Kommunia"
+    ],
+    "name:unk_x_variant":[
+        "Godhavn District"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3420657,
+    "qs_pg:gn_pop":1025,
+    "qs_pg:name":"Qeqertarsuaq Kommune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95509,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420657,
+        "qs_pg:id":95509
+    },
+    "wof:country":"GL",
+    "wof:created":1497046881,
+    "wof:geomhash":"9ed420892fad3958c666bb9382944be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "localadmin_id":1125362501,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1125362501,
+    "wof:lastmodified":1509389115,
+    "wof:name":"Qeqertarsuaq Kommune",
+    "wof:parent_id":85684721,
+    "wof:placetype":"localadmin",
+    "wof:population":1025,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.75,
+    69.96667,
+    -53.75,
+    69.96667
+],
+  "geometry": {"coordinates":[-53.75,69.96666999999999],"type":"Point"}
+}

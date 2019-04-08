@@ -1,0 +1,80 @@
+{
+  "id": 1125978773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.731014,64.181281,-51.731014,64.181281",
+    "geom:latitude":64.181281,
+    "geom:longitude":-51.731014,
+    "gn:gn_country":"GL",
+    "iso:country":"GL",
+    "lbl:latitude":64.181281,
+    "lbl:longitude":-51.731014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:name":"Godth\u00e5b",
+    "qs_pg:name_adm0":"Gr\u00f8nland",
+    "qs_pg:name_adm1":"Vestgronland",
+    "qs_pg:photos":1378,
+    "qs_pg:photos_1k":279,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1378,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421915,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424828,
+    "qs_pg:woe_id":472856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424828,
+    "woe:name_adm0":"Gr\u00f8nland",
+    "woe:name_adm1":"Vestgronland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472856,
+        "qs_pg:id":421915
+    },
+    "wof:country":"GL",
+    "wof:created":1497298460,
+    "wof:geomhash":"cb6cc7ca6973828c57d57073e76d9aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125978773,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1125978773,
+    "wof:lastmodified":1509404636,
+    "wof:name":"Godth\u00e5b",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.731014,
+    64.181281,
+    -51.731014,
+    64.181281
+],
+  "geometry": {"coordinates":[-51.731014,64.181281],"type":"Point"}
+}

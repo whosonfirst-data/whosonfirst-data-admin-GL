@@ -1,0 +1,65 @@
+{
+  "id": 1327465599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.25,70.98333,-52.25,70.98333",
+    "geom:latitude":70.98333,
+    "geom:longitude":-52.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qeqertat",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3420603,
+    "gn:latitude":70.98333,
+    "gn:longitude":-52.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qeqertat",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kekertat",
+        "Qeqertat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420603
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"a461c7b8621c2a608954e15fb9be8439",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327465599,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327465599,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Qeqertat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.25,
+    70.98333000000002,
+    -52.25,
+    70.98333000000002
+],
+  "geometry": {"coordinates":[-52.25,70.98333000000002],"type":"Point"}
+}

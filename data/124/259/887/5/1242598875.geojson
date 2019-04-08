@@ -1,0 +1,69 @@
+{
+  "id": 1242598875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-37.63333,66.08333,-37.63333,66.08333",
+    "geom:latitude":66.08333,
+    "geom:longitude":-37.63333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Paarnakajiit",
+    "gn:country_code":"GL",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3421190,
+    "gn:latitude":66.08333,
+    "gn:longitude":-37.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paarnakajiit",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paornakaj\u00eet",
+        "Paarnakajiit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421190
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"b2d04bf03c4407217fcc1c7e64293d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1242598875,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1242598875,
+    "wof:lastmodified":1537623861,
+    "wof:name":"Paarnakajiit",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -37.63333,
+    66.08333,
+    -37.63333,
+    66.08333
+],
+  "geometry": {"coordinates":[-37.63333,66.08333],"type":"Point"}
+}

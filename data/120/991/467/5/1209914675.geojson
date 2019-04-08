@@ -1,0 +1,65 @@
+{
+  "id": 1209914675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.21667,60.08333,-44.21667,60.08333",
+    "geom:latitude":60.08333,
+    "geom:longitude":-44.21667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anorliuitsoq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424537,
+    "gn:latitude":60.08333,
+    "gn:longitude":-44.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anorliuitsoq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anordliuitsoq",
+        "Anorliuitsoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424537
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"40edbaa9f4865f622a942f5db0a634f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209914675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209914675,
+    "wof:lastmodified":1537623866,
+    "wof:name":"Anorliuitsoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -44.21667,
+    60.08333,
+    -44.21667,
+    60.08333
+],
+  "geometry": {"coordinates":[-44.21667,60.08333],"type":"Point"}
+}

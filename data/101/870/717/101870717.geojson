@@ -1,0 +1,143 @@
+{
+  "id": 101870717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.450001,68.150002,-53.450001,68.150002",
+    "geom:latitude":68.150002,
+    "geom:longitude":-53.450001,
+    "gn:population":116,
+    "iso:country":"GL",
+    "lbl:latitude":68.150002,
+    "lbl:longitude":-53.450001,
+    "mps:latitude":68.150002,
+    "mps:longitude":-53.450001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:dan_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:dut_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:eng_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:fra_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:fre_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10d9\u10d4\u10e0\u10d0\u10e1\u10d0\u10d0\u10e0\u10e1\u10e3\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:ita_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:kal_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d9\u10d4\u10e0\u10d0\u10e1\u10d0\u10d0\u10e0\u10e1\u10e3\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:nob_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:nor_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:pol_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:por_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043a\u0435\u0440\u0430\u0441\u0430\u0430\u0440\u0441\u0443\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:swe_x_preferred":[
+        "Ikerasaarsuk"
+    ],
+    "name:unk_x_variant":[
+        "Ikeras\u00e2rssuk"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ikerasaarsuk",
+    "qs:loc_alt":"Ikerasaarsuk",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423278,
+        "gp:id":472863,
+        "qs:id":95524,
+        "qs_pg:id":95524,
+        "wd:id":"Q2325442",
+        "wk:page":"Ikerasaarsuk"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"61014b7773ffa959204ab665a33582b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870717,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870717,
+    "wof:lastmodified":1544750782,
+    "wof:name":"Ikerasaarsuk",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.450001,
+    68.150002,
+    -53.450001,
+    68.150002
+],
+  "geometry": {"coordinates":[-53.450001,68.150002],"type":"Point"}
+}

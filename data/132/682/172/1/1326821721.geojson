@@ -1,0 +1,61 @@
+{
+  "id": 1326821721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.11667,61.61667,-49.11667,61.61667",
+    "geom:latitude":61.61667,
+    "geom:longitude":-49.11667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Neria",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3421619,
+    "gn:latitude":61.61667,
+    "gn:longitude":-49.11667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Neria",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421619
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"e2896335b70fb65eb3f4f8cf4bc23834",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326821721,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326821721,
+    "wof:lastmodified":1537061265,
+    "wof:name":"Neria",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -49.11667,
+    61.61666999999999,
+    -49.11667,
+    61.61666999999999
+],
+  "geometry": {"coordinates":[-49.11667,61.61666999999999],"type":"Point"}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 101870551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.916664,60.633332,-45.916664,60.633332",
+    "geom:latitude":60.633332,
+    "geom:longitude":-45.916664,
+    "iso:country":"GL",
+    "lbl:latitude":60.633332,
+    "lbl:longitude":-45.916664,
+    "mps:latitude":60.633332,
+    "mps:longitude":-45.916664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:cze_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:dan_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:deu_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:dut_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:eng_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:fra_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:fre_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10d9\u10d0\u10da\u10e3\u10d2\u10d0\u10d0\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:ita_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:kal_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d9\u10d0\u10da\u10e3\u10d2\u10d0\u10d0\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:nob_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:nor_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:pol_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:por_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043a\u0430\u043b\u0443\u0433\u0430\u0430\u0440\u0441\u0443\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "name:swe_x_preferred":[
+        "Eqalugaarsuit"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Kommune Kujalleq",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Eqalugaarsuit",
+    "qs:loc_alt":"Eqalugaarsuit",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":301,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426195,
+        "gp:id":472845,
+        "qs:id":2,
+        "wd:id":"Q2325455",
+        "wk:page":"Eqalugaarsuit"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"45fd99d5b37975e60b4ed08d7b18f946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870551,
+            "region_id":85684711
+        }
+    ],
+    "wof:id":101870551,
+    "wof:lastmodified":1544750699,
+    "wof:name":"Eqalugaarsuit",
+    "wof:parent_id":85684711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.916664,
+    60.633332,
+    -45.916664,
+    60.633332
+],
+  "geometry": {"coordinates":[-45.916664,60.633332],"type":"Point"}
+}

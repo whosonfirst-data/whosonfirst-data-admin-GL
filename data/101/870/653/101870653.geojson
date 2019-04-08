@@ -1,0 +1,143 @@
+{
+  "id": 101870653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.56667,71.233338,-53.56667,71.233338",
+    "geom:latitude":71.233338,
+    "geom:longitude":-53.56667,
+    "gn:population":97,
+    "iso:country":"GL",
+    "lbl:latitude":71.233338,
+    "lbl:longitude":-53.56667,
+    "mps:latitude":71.233338,
+    "mps:longitude":-53.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:cze_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:dan_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:dut_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:eng_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:fra_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:fre_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10da\u10dd\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d5\u05e8\u05e1\u05d5\u05d5\u05d9\u05d8"
+    ],
+    "name:ita_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10dd\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:nor_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:pol_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:por_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u043b\u043e\u0440\u0441\u0443\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:swe_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:unk_x_variant":[
+        "Igdlorssuit"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Illorsuit",
+    "qs:loc_alt":"Illorsuit",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423179,
+        "gp:id":472884,
+        "qs:id":583175,
+        "qs_pg:id":583175,
+        "wd:id":"Q2336616",
+        "wk:page":"Illorsuit"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"62fac27b88edaae6720112ea2a2f721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870653,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870653,
+    "wof:lastmodified":1544750748,
+    "wof:name":"Illorsuit",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.56667,
+    71.233338,
+    -53.56667,
+    71.233338
+],
+  "geometry": {"coordinates":[-53.56667,71.233338],"type":"Point"}
+}

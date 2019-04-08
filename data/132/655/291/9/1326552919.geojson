@@ -1,0 +1,66 @@
+{
+  "id": 1326552919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.15,68.28333,-53.15,68.28333",
+    "geom:latitude":68.28333,
+    "geom:longitude":-53.15,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qipingasoq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3420495,
+    "gn:latitude":68.28333,
+    "gn:longitude":-53.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qipingasoq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kapingasok",
+        "Qipingassoq",
+        "Qipingasoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420495
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"ea1eb9c7877b2bd14009ad913c56f1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326552919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326552919,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Qipingasoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.15,
+    68.28333,
+    -53.15,
+    68.28333
+],
+  "geometry": {"coordinates":[-53.15,68.28333000000001],"type":"Point"}
+}

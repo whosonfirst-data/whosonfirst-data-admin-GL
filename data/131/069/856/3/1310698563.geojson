@@ -1,0 +1,65 @@
+{
+  "id": 1310698563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-38.01667,65.83333,-38.01667,65.83333",
+    "geom:latitude":65.83333,
+    "geom:longitude":-38.01667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Qeertartivatsiaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3420712,
+    "gn:latitude":65.83333,
+    "gn:longitude":-38.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qeertartivatsiaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qeqertarssuatsiaq",
+        "Qeertartivatsiaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420712
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"1e963ffaf30abb964d2530c24a66d20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310698563,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310698563,
+    "wof:lastmodified":1537623861,
+    "wof:name":"Qeertartivatsiaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -38.01667,
+    65.83333,
+    -38.01667,
+    65.83333
+],
+  "geometry": {"coordinates":[-38.01667,65.83333],"type":"Point"}
+}

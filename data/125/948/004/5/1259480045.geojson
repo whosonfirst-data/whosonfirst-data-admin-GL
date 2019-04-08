@@ -1,0 +1,66 @@
+{
+  "id": 1259480045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-41.11667,63.38333,-41.11667,63.38333",
+    "geom:latitude":63.38333,
+    "geom:longitude":-41.11667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tiniteqilaarmiit",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3419291,
+    "gn:latitude":63.38333,
+    "gn:longitude":-41.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiniteqilaarmiit",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinuteqiss\u00e2q",
+        "Tiniteqil\u00e2rm\u00eet",
+        "Tiniteqilaarmiit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3419291
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"75a6e2d2567deeb7f334ff20847e4f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259480045,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259480045,
+    "wof:lastmodified":1537623859,
+    "wof:name":"Tiniteqilaarmiit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -41.11667,
+    63.38333000000001,
+    -41.11667,
+    63.38333000000001
+],
+  "geometry": {"coordinates":[-41.11667,63.38333000000001],"type":"Point"}
+}

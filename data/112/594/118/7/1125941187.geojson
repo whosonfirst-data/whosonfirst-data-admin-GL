@@ -1,0 +1,76 @@
+{
+  "id": 1125941187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8,76.55,-68.8,76.55",
+    "geom:latitude":76.55,
+    "geom:longitude":-68.8,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":289,
+    "iso:country":"GL",
+    "lbl:latitude":76.55,
+    "lbl:longitude":-68.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3831682,
+    "qs_pg:gn_pop":289,
+    "qs_pg:name":"Dundas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1046729,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831682,
+        "qs_pg:id":1046729
+    },
+    "wof:country":"GL",
+    "wof:created":1497297122,
+    "wof:geomhash":"19e0c3886e0e2e407990e53ea5c16d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "empire_id":136253045,
+            "locality_id":1125941187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125941187,
+    "wof:lastmodified":1509402083,
+    "wof:name":"Dundas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8,
+    76.55,
+    -68.8,
+    76.55
+],
+  "geometry": {"coordinates":[-68.8,76.55],"type":"Point"}
+}

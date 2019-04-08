@@ -1,0 +1,75 @@
+{
+  "id": 1125848321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-37.3,65.71667,-37.3,65.71667",
+    "geom:latitude":65.71667,
+    "geom:longitude":-37.3,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1,
+    "gn:population":1,
+    "iso:country":"GL",
+    "lbl:latitude":65.71667,
+    "lbl:longitude":-37.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Qernertuarssivit"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3420591,
+    "qs_pg:gn_pop":1,
+    "qs_pg:name":"Qernertuarssuit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420591,
+        "qs_pg:id":95508
+    },
+    "wof:country":"GL",
+    "wof:created":1497293269,
+    "wof:geomhash":"5b5217ce98340fc2ba84c6dfec95c73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125848321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125848321,
+    "wof:lastmodified":1509395772,
+    "wof:name":"Qernertuarssuit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -37.3,
+    65.71667,
+    -37.3,
+    65.71667
+],
+  "geometry": {"coordinates":[-37.3,65.71666999999999],"type":"Point"}
+}

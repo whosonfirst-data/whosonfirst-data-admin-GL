@@ -1,0 +1,80 @@
+{
+  "id": 1310412113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.25,61.06667,-46.25,61.06667",
+    "geom:latitude":61.06667,
+    "geom:longitude":-46.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Illorsuit",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3423180,
+    "gn:latitude":61.06667,
+    "gn:longitude":-46.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Illorsuit",
+    "gn:population":4,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igdlorssuit",
+        "Illorsuit"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        136253045,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423180
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"d30c5bcde919294fcee426c7422fff67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "empire_id":136253045,
+            "locality_id":1310412113,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "empire_id":136253045,
+            "locality_id":1310412113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310412113,
+    "wof:lastmodified":1537623864,
+    "wof:name":"Illorsuit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -46.25,
+    61.06667,
+    -46.25,
+    61.06667
+],
+  "geometry": {"coordinates":[-46.25,61.06667],"type":"Point"}
+}

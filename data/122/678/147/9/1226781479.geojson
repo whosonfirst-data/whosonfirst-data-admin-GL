@@ -1,0 +1,61 @@
+{
+  "id": 1226781479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.58333,70.7,-54.58333,70.7",
+    "geom:latitude":70.7,
+    "geom:longitude":-54.58333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Autdlainiarfinguaq",
+    "gn:country_code":"GL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424381,
+    "gn:latitude":70.7,
+    "gn:longitude":-54.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Autdlainiarfinguaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424381
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"fa25e48ceb9d5875e907112453a114f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226781479,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226781479,
+    "wof:lastmodified":1536664164,
+    "wof:name":"Autdlainiarfinguaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.58333,
+    70.7,
+    -54.58333,
+    70.7
+],
+  "geometry": {"coordinates":[-54.58333,70.7],"type":"Point"}
+}

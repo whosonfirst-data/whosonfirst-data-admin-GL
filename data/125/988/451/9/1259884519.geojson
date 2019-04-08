@@ -1,0 +1,70 @@
+{
+  "id": 1259884519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61667,77.86667,-71.61667,77.86667",
+    "geom:latitude":77.86667,
+    "geom:longitude":-71.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Neqi",
+    "gn:country_code":"GL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831275,
+    "gn:latitude":77.86667,
+    "gn:longitude":-71.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Neqi",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neqe",
+        "Neke",
+        "Neqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831275
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"3902597b883c7061379450f4916f272d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1259884519,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1259884519,
+    "wof:lastmodified":1537623868,
+    "wof:name":"Neqi",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61667,
+    77.86667,
+    -71.61667,
+    77.86667
+],
+  "geometry": {"coordinates":[-71.61667,77.86667],"type":"Point"}
+}

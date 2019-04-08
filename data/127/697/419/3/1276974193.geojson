@@ -1,0 +1,71 @@
+{
+  "id": 1276974193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-41.40284,63.21955,-41.40284,63.21955",
+    "geom:latitude":63.21955,
+    "geom:longitude":-41.40284,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Skjoldungen",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3419793,
+    "gn:latitude":63.21955,
+    "gn:longitude":-41.40284,
+    "gn:modification_date":"2018-05-30",
+    "gn:name":"Skjoldungen",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Skjoldungen"
+    ],
+    "name:kal_x_preferred":[
+        "Saqqisikuik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3419793
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"8f2f3dfb9decd90968edaa540aad0496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1276974193,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1276974193,
+    "wof:lastmodified":1537623859,
+    "wof:name":"Skjoldungen",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -41.40284000000001,
+    63.21955,
+    -41.40284000000001,
+    63.21955
+],
+  "geometry": {"coordinates":[-41.40284000000001,63.21955],"type":"Point"}
+}

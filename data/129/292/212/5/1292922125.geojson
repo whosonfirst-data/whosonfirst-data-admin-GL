@@ -1,0 +1,67 @@
+{
+  "id": 1292922125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-38.45301,72.57929,-38.45301,72.57929",
+    "geom:latitude":72.57929,
+    "geom:longitude":-38.45301,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Summit Camp",
+    "gn:country_code":"GL",
+    "gn:dem":3181,
+    "gn:elevation":"3216.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6949601,
+    "gn:latitude":72.57929,
+    "gn:longitude":-38.45301,
+    "gn:modification_date":"2012-07-25",
+    "gn:name":"Summit Camp",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6949601,
+        "wk:page":"Summit_Camp"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"68d65540aa2bb3a47a51358ce30d8dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1292922125,
+            "region_id":85684705
+        }
+    ],
+    "wof:id":1292922125,
+    "wof:lastmodified":1537563067,
+    "wof:name":"Summit Camp",
+    "wof:parent_id":85684705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -38.45301,
+    72.57929,
+    -38.45301,
+    72.57929
+],
+  "geometry": {"coordinates":[-38.45301,72.57929],"type":"Point"}
+}

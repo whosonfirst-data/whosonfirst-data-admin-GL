@@ -1,0 +1,69 @@
+{
+  "id": 1225844183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06667,77.38333,-71.06667,77.38333",
+    "geom:latitude":77.38333,
+    "geom:longitude":-71.06667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ulussat",
+    "gn:country_code":"GL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831081,
+    "gn:latitude":77.38333,
+    "gn:longitude":-71.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ulussat",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulugssat",
+        "Ulussat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831081
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"9836e7a615bce666eca9fd87aca8f73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1225844183,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1225844183,
+    "wof:lastmodified":1537623867,
+    "wof:name":"Ulussat",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06667,
+    77.38333,
+    -71.06667,
+    77.38333
+],
+  "geometry": {"coordinates":[-71.06667,77.38333],"type":"Point"}
+}

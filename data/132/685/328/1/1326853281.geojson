@@ -1,0 +1,66 @@
+{
+  "id": 1326853281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.41667,68.61667,-52.41667,68.61667",
+    "geom:latitude":68.61667,
+    "geom:longitude":-52.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nivaaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3421522,
+    "gn:latitude":68.61667,
+    "gn:longitude":-52.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nivaaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nivak",
+        "Niv\u00e2q",
+        "Nivaaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421522
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"613bad605fe3acdc180dfbd5d0a9cbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326853281,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326853281,
+    "wof:lastmodified":1537623861,
+    "wof:name":"Nivaaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.41667,
+    68.61667,
+    -52.41667,
+    68.61667
+],
+  "geometry": {"coordinates":[-52.41667,68.61667],"type":"Point"}
+}

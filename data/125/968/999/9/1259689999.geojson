@@ -1,0 +1,66 @@
+{
+  "id": 1259689999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.41667,60.35,-45.41667,60.35",
+    "geom:latitude":60.35,
+    "geom:longitude":-45.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pingorsuaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3421066,
+    "gn:latitude":60.35,
+    "gn:longitude":-45.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pingorsuaq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Isua",
+        "Pingorssuaq",
+        "Pingorsuaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421066
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"bbe53be4563ff1cbdaa259d43cdeb5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259689999,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259689999,
+    "wof:lastmodified":1537623861,
+    "wof:name":"Pingorsuaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.41667,
+    60.35,
+    -45.41667,
+    60.35
+],
+  "geometry": {"coordinates":[-45.41667,60.35],"type":"Point"}
+}

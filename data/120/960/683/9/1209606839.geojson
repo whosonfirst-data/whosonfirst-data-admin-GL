@@ -1,0 +1,66 @@
+{
+  "id": 1209606839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.05,64.11667,-52.05,64.11667",
+    "geom:latitude":64.11667,
+    "geom:longitude":-52.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kangeq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3422665,
+    "gn:latitude":64.11667,
+    "gn:longitude":-52.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kangeq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangek",
+        "Kangeq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422665,
+        "wk:page":"Kangeq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"6f3edf5a773a4ad6269fbe73158bb2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633217,
+            "locality_id":1209606839
+        }
+    ],
+    "wof:id":1209606839,
+    "wof:lastmodified":1537623863,
+    "wof:name":"Kangeq",
+    "wof:parent_id":85633217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.05,
+    64.11667,
+    -52.05,
+    64.11667
+],
+  "geometry": {"coordinates":[-52.05,64.11667],"type":"Point"}
+}

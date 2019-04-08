@@ -1,0 +1,70 @@
+{
+  "id": 1326962117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18917,77.4275,-70.18917,77.4275",
+    "geom:latitude":77.4275,
+    "geom:longitude":-70.18917,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qeqertarsuaq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831185,
+    "gn:latitude":77.4275,
+    "gn:longitude":-70.18917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qeqertarsuaq",
+    "gn:population":2,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kekertarssuak",
+        "Qekertarssuaq",
+        "Qeqertarssuaq",
+        "Qeqertarsuaq"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831185
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"74726fbe191487502a731466797dfa03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326962117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326962117,
+    "wof:lastmodified":1537623867,
+    "wof:name":"Qeqertarsuaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18916999999999,
+    77.4275,
+    -70.18916999999999,
+    77.4275
+],
+  "geometry": {"coordinates":[-70.18916999999999,77.42749999999999],"type":"Point"}
+}

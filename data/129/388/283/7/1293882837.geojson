@@ -1,0 +1,65 @@
+{
+  "id": 1293882837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.31667,69.01667,-53.31667,69.01667",
+    "geom:latitude":69.01667,
+    "geom:longitude":-53.31667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kronprinsen Ejland",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3422290,
+    "gn:latitude":69.01667,
+    "gn:longitude":-53.31667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kronprinsen Ejland",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422290
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"6426b56f86cabccec03f8405421c14bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1293882837,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1293882837,
+    "wof:lastmodified":1536714638,
+    "wof:name":"Kronprinsen Ejland",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.31667,
+    69.01666999999999,
+    -53.31667,
+    69.01666999999999
+],
+  "geometry": {"coordinates":[-53.31667,69.01666999999999],"type":"Point"}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 101870705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.009659,69.339789,-51.009659,69.339789",
+    "geom:latitude":69.339789,
+    "geom:longitude":-51.009659,
+    "gn:population":55,
+    "iso:country":"GL",
+    "lbl:latitude":69.339789,
+    "lbl:longitude":-51.009659,
+    "mps:latitude":69.339789,
+    "mps:longitude":-51.009659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:cze_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:dan_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:deu_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:dut_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:eng_x_preferred":[
+        "Oqaitsut"
+    ],
+    "name:fra_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:fre_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10d0\u10e2\u10e1\u10e3\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:ita_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10d0\u10e2\u10e1\u10e3\u10e2\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:nor_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:pol_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:por_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0430\u0430\u0442\u0441\u0443\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:swe_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:unk_x_variant":[
+        "Rodebay"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oqaatsut",
+    "qs:loc_alt":"Oqaatsut",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":438,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420286,
+        "gp:id":473022,
+        "qs:id":1044563,
+        "wd:id":"Q1020079"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"e1deb4f52290afc5219b87ce08dcc058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870705,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870705,
+    "wof:lastmodified":1544750776,
+    "wof:name":"Oqaatsut",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.009659,
+    69.339789,
+    -51.009659,
+    69.339789
+],
+  "geometry": {"coordinates":[-51.009659,69.339789],"type":"Point"}
+}

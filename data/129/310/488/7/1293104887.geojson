@@ -1,0 +1,71 @@
+{
+  "id": 1293104887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.5,60.16667,-44.5,60.16667",
+    "geom:latitude":60.16667,
+    "geom:longitude":-44.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aappilattorq",
+    "gn:country_code":"GL",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424907,
+    "gn:latitude":60.16667,
+    "gn:longitude":-44.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aappilattorq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Augpalartok",
+        "Augpilagtok",
+        "Augpilagtoq",
+        "Aappilattorq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424907
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"d6e6d73ea352e26412deacdd4c2b6220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1293104887,
+            "region_id":85684711
+        }
+    ],
+    "wof:id":1293104887,
+    "wof:lastmodified":1537623866,
+    "wof:name":"Aappilattorq",
+    "wof:parent_id":85684711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -44.5,
+    60.16667,
+    -44.5,
+    60.16667
+],
+  "geometry": {"coordinates":[-44.5,60.16667],"type":"Point"}
+}

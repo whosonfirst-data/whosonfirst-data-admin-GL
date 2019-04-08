@@ -1,0 +1,66 @@
+{
+  "id": 1260173201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.46667,63.8,-51.46667,63.8",
+    "geom:latitude":63.8,
+    "geom:longitude":-51.46667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Utoqqarmiut",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3418881,
+    "gn:latitude":63.8,
+    "gn:longitude":-51.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Utoqqarmiut",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utorkarmiut",
+        "Utorqarmiut",
+        "Utoqqarmiut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418881
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"4bead797b90805260e2f28ebe5238f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260173201,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260173201,
+    "wof:lastmodified":1537623858,
+    "wof:name":"Utoqqarmiut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.46667,
+    63.8,
+    -51.46667,
+    63.8
+],
+  "geometry": {"coordinates":[-51.46667,63.8],"type":"Point"}
+}

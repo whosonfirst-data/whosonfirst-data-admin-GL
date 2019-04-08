@@ -1,0 +1,70 @@
+{
+  "id": 1327265371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.95,69.76667,-50.95,69.76667",
+    "geom:latitude":69.76667,
+    "geom:longitude":-50.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ataa",
+    "gn:country_code":"GL",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424427,
+    "gn:latitude":69.76667,
+    "gn:longitude":-50.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ataa",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At\u00e2",
+        "Ataa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424427,
+        "wk:page":"Ataa"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"bd09745a03995297d9734c4d3efa29c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1327265371,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1327265371,
+    "wof:lastmodified":1537623865,
+    "wof:name":"Ataa",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.95,
+    69.76666999999999,
+    -50.95,
+    69.76666999999999
+],
+  "geometry": {"coordinates":[-50.95,69.76666999999999],"type":"Point"}
+}

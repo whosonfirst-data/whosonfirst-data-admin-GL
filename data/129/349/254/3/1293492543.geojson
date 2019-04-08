@@ -1,0 +1,65 @@
+{
+  "id": 1293492543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.18333,68.1,-53.18333,68.1",
+    "geom:latitude":68.1,
+    "geom:longitude":-53.18333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tununngasoq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3419136,
+    "gn:latitude":68.1,
+    "gn:longitude":-53.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tununngasoq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tun\u00fangassoq",
+        "Tununngasoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3419136
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"fe76278c70971944c3ff37a153ebe1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293492543,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293492543,
+    "wof:lastmodified":1537623859,
+    "wof:name":"Tununngasoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.18333000000001,
+    68.1,
+    -53.18333000000001,
+    68.1
+],
+  "geometry": {"coordinates":[-53.18333000000001,68.09999999999999],"type":"Point"}
+}

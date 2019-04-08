@@ -1,0 +1,135 @@
+{
+  "id": 101870665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.006625,73.19399,-56.006625,73.19399",
+    "geom:latitude":73.19399,
+    "geom:longitude":-56.006625,
+    "iso:country":"GL",
+    "lbl:latitude":73.19399,
+    "lbl:longitude":-56.006625,
+    "mps:latitude":73.19399,
+    "mps:longitude":-56.006625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:cat_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:cze_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:dan_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:dut_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:eng_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:fra_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:fre_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10dc\u10d0\u10d0\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:ita_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:kal_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dc\u10d0\u10d0\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:nor_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:pol_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:por_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u043d\u0430\u0430\u0440\u0441\u0443\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Innaarsuit"
+    ],
+    "name:swe_x_preferred":[
+        "Innaarsuit"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Innaarsuit",
+    "qs:loc_alt":"Innaarsuit",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752645,
+        "qs:id":7,
+        "wd:id":"Q2045888"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"0c42577ab9ea057664d0a16d6e5a23e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870665,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870665,
+    "wof:lastmodified":1544750755,
+    "wof:name":"Innaarsuit",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.006625,
+    73.19399,
+    -56.006625,
+    73.19399
+],
+  "geometry": {"coordinates":[-56.006625,73.19399],"type":"Point"}
+}

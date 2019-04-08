@@ -1,0 +1,65 @@
+{
+  "id": 1277108521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.13333,72.26667,-55.13333,72.26667",
+    "geom:latitude":72.26667,
+    "geom:longitude":-55.13333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ikerasak",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3423259,
+    "gn:latitude":72.26667,
+    "gn:longitude":-55.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ikerasak",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423259
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"b9de8c1afdefb81a0fabb302ca452632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1277108521,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1277108521,
+    "wof:lastmodified":1536730863,
+    "wof:name":"Ikerasak",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.13333000000001,
+    72.26666999999998,
+    -55.13333000000001,
+    72.26666999999998
+],
+  "geometry": {"coordinates":[-55.13333000000001,72.26666999999998],"type":"Point"}
+}

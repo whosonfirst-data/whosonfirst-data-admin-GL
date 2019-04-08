@@ -1,0 +1,75 @@
+{
+  "id": 1125936269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.33333,60.7,-45.33333,60.7",
+    "geom:latitude":60.7,
+    "geom:longitude":-45.33333,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12,
+    "gn:population":12,
+    "iso:country":"GL",
+    "lbl:latitude":60.7,
+    "lbl:longitude":-45.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Qagdlimiut"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3420893,
+    "qs_pg:gn_pop":12,
+    "qs_pg:name":"Qallimiut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1044568,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420893,
+        "qs_pg:id":1044568
+    },
+    "wof:country":"GL",
+    "wof:created":1497296978,
+    "wof:geomhash":"4e60c0d2f567c95b3db0f8861a9a77ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125936269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125936269,
+    "wof:lastmodified":1509401729,
+    "wof:name":"Qallimiut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.33333,
+    60.7,
+    -45.33333,
+    60.7
+],
+  "geometry": {"coordinates":[-45.33333,60.7],"type":"Point"}
+}

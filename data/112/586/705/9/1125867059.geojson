@@ -1,0 +1,80 @@
+{
+  "id": 1125867059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-37.689542,65.60884,-37.689542,65.60884",
+    "geom:latitude":65.60884,
+    "geom:longitude":-37.689542,
+    "gn:gn_country":null,
+    "iso:country":"GL",
+    "lbl:latitude":65.60884,
+    "lbl:longitude":-37.689542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ammassalik",
+    "qs_pg:name_adm0":"Gr\u00f8nland",
+    "qs_pg:name_adm1":"Ostgronland",
+    "qs_pg:photos":616,
+    "qs_pg:photos_1k":125,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":616,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424828,
+    "qs_pg:woe_id":472819,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424828,
+    "woe:name_adm0":"Gr\u00f8nland",
+    "woe:name_adm1":"Ostgronland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472819,
+        "qs_pg:id":421903
+    },
+    "wof:country":"GL",
+    "wof:created":1497294095,
+    "wof:geomhash":"541c67712cff6855ae24bc50fd775934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125867059,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1125867059,
+    "wof:lastmodified":1509397055,
+    "wof:name":"Ammassalik",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -37.689542,
+    65.60884,
+    -37.689542,
+    65.60884
+],
+  "geometry": {"coordinates":[-37.689542,65.60884],"type":"Point"}
+}

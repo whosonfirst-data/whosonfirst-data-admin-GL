@@ -1,0 +1,66 @@
+{
+  "id": 1293521207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.585,77.55667,-68.585,77.55667",
+    "geom:latitude":77.55667,
+    "geom:longitude":-68.585,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kangerluarsuk",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831344,
+    "gn:latitude":77.55667,
+    "gn:longitude":-68.585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kangerluarsuk",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igdlorssuit",
+        "Kangerdluarssuk",
+        "Kangerluarsuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831344
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"aef3cfa0b6c792f20134b86ea64f4885",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293521207,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293521207,
+    "wof:lastmodified":1537623868,
+    "wof:name":"Kangerluarsuk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.585,
+    77.55667,
+    -68.585,
+    77.55667
+],
+  "geometry": {"coordinates":[-68.58499999999999,77.55667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1125936249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.01667,69.35,-51.01667,69.35",
+    "geom:latitude":69.35,
+    "geom:longitude":-51.01667,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":55,
+    "gn:population":55,
+    "iso:country":"GL",
+    "lbl:latitude":69.35,
+    "lbl:longitude":-51.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Oqaitsut"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3420286,
+    "qs_pg:gn_pop":55,
+    "qs_pg:name":"Rodebay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1044563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420286,
+        "qs_pg:id":1044563
+    },
+    "wof:country":"GL",
+    "wof:created":1497296977,
+    "wof:geomhash":"85f0aa0b0ebb64986f29a63f436a5764",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125936249,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125936249,
+    "wof:lastmodified":1509401728,
+    "wof:name":"Rodebay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.01667,
+    69.35,
+    -51.01667,
+    69.35
+],
+  "geometry": {"coordinates":[-51.01667,69.34999999999999],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125848315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.1,64.53333,-51.1,64.53333",
+    "geom:latitude":64.53333,
+    "geom:longitude":-51.1,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"GL",
+    "lbl:latitude":64.53333,
+    "lbl:longitude":-51.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:dan_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:dut_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:eng_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:fre_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:ger_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:ita_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:pol_x_preferred":[
+        "Qoornoq"
+    ],
+    "name:unk_x_variant":[
+        "Kornok"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3420458,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Qoornoq",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95506,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420458,
+        "qs_pg:id":95506,
+        "wd:id":"Q3926514"
+    },
+    "wof:country":"GL",
+    "wof:created":1497293269,
+    "wof:geomhash":"ec88c5770b18d5723ca58a7925c2843e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125848315,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125848315,
+    "wof:lastmodified":1514443834,
+    "wof:name":"Qoornoq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.1,
+    64.53333,
+    -51.1,
+    64.53333
+],
+  "geometry": {"coordinates":[-51.1,64.53333000000001],"type":"Point"}
+}

@@ -1,0 +1,152 @@
+{
+  "id": 101870587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.683334,63.083336,-50.683334,63.083336",
+    "geom:latitude":63.083336,
+    "geom:longitude":-50.683334,
+    "gn:population":261,
+    "iso:country":"GL",
+    "lbl:latitude":63.083336,
+    "lbl:longitude":-50.683334,
+    "mps:latitude":63.083336,
+    "mps:longitude":-50.683334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0643\u064a\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u062a\u0633\u064a\u0627\u062a"
+    ],
+    "name:cze_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:dan_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:dan_x_variant":[
+        "Fisken\u00e6sset"
+    ],
+    "name:deu_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:dut_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:eng_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:fra_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:fre_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10e2\u10e1\u10d8\u10d0\u10d0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:ita_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:kal_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10e2\u10e1\u10d8\u10d0\u10d0\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:nob_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:nor_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:pol_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:por_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u0442\u0441\u0438\u0430\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:swe_x_preferred":[
+        "Qeqertarsuatsiaat"
+    ],
+    "name:unk_x_variant":[
+        "Qeqertarssuatsiait"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Kommuneqarfik Sermersooq",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qeqertarsuatsiaat",
+    "qs:loc_alt":"Qeqertarsuatsiaat",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":576,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423823,
+        "gp:id":473068,
+        "qs:id":95529,
+        "qs_pg:id":95529,
+        "wd:id":"Q915924",
+        "wk:page":"Qeqertarsuatsiaat"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"2400f00646972e9e9ae1cad6d1f41e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870587,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":101870587,
+    "wof:lastmodified":1544750716,
+    "wof:name":"Qeqertarsuatsiaat",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.683334,
+    63.083336,
+    -50.683334,
+    63.083336
+],
+  "geometry": {"coordinates":[-50.683334,63.083336],"type":"Point"}
+}

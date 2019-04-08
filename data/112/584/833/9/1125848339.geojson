@@ -1,0 +1,76 @@
+{
+  "id": 1125848339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.31667,64.46667,-50.31667,64.46667",
+    "geom:latitude":64.46667,
+    "geom:longitude":-50.31667,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7,
+    "gn:population":7,
+    "iso:country":"GL",
+    "lbl:latitude":64.46667,
+    "lbl:longitude":-50.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3421618,
+    "qs_pg:gn_pop":7,
+    "qs_pg:name":"Neriunaq",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95517,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3421618,
+        "qs_pg:id":95517
+    },
+    "wof:country":"GL",
+    "wof:created":1497293270,
+    "wof:geomhash":"6eb9af671ca82fc9b60af7069f9f13ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1125848339,
+            "region_id":85684729
+        }
+    ],
+    "wof:id":1125848339,
+    "wof:lastmodified":1509395773,
+    "wof:name":"Neriunaq",
+    "wof:parent_id":85684729,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.31667,
+    64.46667,
+    -50.31667,
+    64.46667
+],
+  "geometry": {"coordinates":[-50.31667,64.46666999999999],"type":"Point"}
+}

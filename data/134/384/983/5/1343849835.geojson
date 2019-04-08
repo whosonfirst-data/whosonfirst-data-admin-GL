@@ -1,0 +1,65 @@
+{
+  "id": 1343849835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.66667,64.36667,-51.66667,64.36667",
+    "geom:latitude":64.36667,
+    "geom:longitude":-51.66667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Saarloq",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3420216,
+    "gn:latitude":64.36667,
+    "gn:longitude":-51.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saarloq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sardlok",
+        "Saarloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420216
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"e7f4cccd13397beb0c69cac29e443612",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343849835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343849835,
+    "wof:lastmodified":1537623860,
+    "wof:name":"Saarloq",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.66667,
+    64.36667,
+    -51.66667,
+    64.36667
+],
+  "geometry": {"coordinates":[-51.66667,64.36667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209638127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.25,68.66667,-51.25,68.66667",
+    "geom:latitude":68.66667,
+    "geom:longitude":-51.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Akulliit",
+    "gn:country_code":"GL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424725,
+    "gn:latitude":68.66667,
+    "gn:longitude":-51.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akulliit",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akugdl\u00eet",
+        "Akugdlek",
+        "Akulliit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424725
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"be61c1196c7c61c01f8f304b607ebfa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633217,
+            "locality_id":1209638127
+        }
+    ],
+    "wof:id":1209638127,
+    "wof:lastmodified":1537623866,
+    "wof:name":"Akulliit",
+    "wof:parent_id":85633217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.25,
+    68.66667,
+    -51.25,
+    68.66667
+],
+  "geometry": {"coordinates":[-51.25,68.66667],"type":"Point"}
+}

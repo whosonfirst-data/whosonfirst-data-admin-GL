@@ -1,0 +1,71 @@
+{
+  "id": 1276546191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.76667,69.38333,-52.76667,69.38333",
+    "geom:latitude":69.38333,
+    "geom:longitude":-52.76667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kigdlussat",
+    "gn:country_code":"GL",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3422467,
+    "gn:latitude":69.38333,
+    "gn:longitude":-52.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kigdl\u00fbssat",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitdlusat",
+        "Qigdl\u00fbssat",
+        "Qiqdlussat",
+        "Kigdl\u00fbssat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422467
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"a2595915c76e2dc16ab9fa5e97c11f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1276546191,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1276546191,
+    "wof:lastmodified":1537623863,
+    "wof:name":"Kigdlussat",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.76667,
+    69.38333,
+    -52.76667,
+    69.38333
+],
+  "geometry": {"coordinates":[-52.76667,69.38333],"type":"Point"}
+}

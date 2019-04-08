@@ -1,0 +1,152 @@
+{
+  "id": 101870725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.05,60.533337,-46.05,60.533337",
+    "geom:latitude":60.533337,
+    "geom:longitude":-46.05,
+    "gn:population":48,
+    "iso:country":"GL",
+    "lbl:latitude":60.533337,
+    "lbl:longitude":-46.05,
+    "mps:latitude":60.533337,
+    "mps:longitude":-46.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Saarloq"
+    ],
+    "name:cze_x_preferred":[
+        "Saarloq"
+    ],
+    "name:dan_x_preferred":[
+        "Saarloq"
+    ],
+    "name:deu_x_preferred":[
+        "Saarloq"
+    ],
+    "name:dut_x_preferred":[
+        "Saarloq"
+    ],
+    "name:eng_x_preferred":[
+        "Saarloq"
+    ],
+    "name:fra_x_preferred":[
+        "Saarloq"
+    ],
+    "name:fre_x_preferred":[
+        "Saarloq"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d0\u10e0\u10da\u10dd\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Saarloq"
+    ],
+    "name:ita_x_preferred":[
+        "Saarloq"
+    ],
+    "name:kal_x_preferred":[
+        "Saarloq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d0\u10e0\u10da\u10dd\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Saarloq"
+    ],
+    "name:nob_x_preferred":[
+        "Saarloq"
+    ],
+    "name:nor_x_preferred":[
+        "Saarloq"
+    ],
+    "name:pol_x_preferred":[
+        "Saarloq"
+    ],
+    "name:por_x_preferred":[
+        "Saarloq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0440\u043b\u043e\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Saarloq"
+    ],
+    "name:swe_x_preferred":[
+        "Saarloq"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2rdloq"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u0644\u0648\u0642"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Kommune Kujalleq",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Saarloq",
+    "qs:loc_alt":"Saarloq",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":307,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420217,
+        "gp:id":472845,
+        "qs:id":95505,
+        "qs_pg:id":95505,
+        "wd:id":"Q2325431",
+        "wk:page":"Saarloq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"362f45a9bb75e9d2cd0f9f92dc1296bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870725,
+            "region_id":85684711
+        }
+    ],
+    "wof:id":101870725,
+    "wof:lastmodified":1544750786,
+    "wof:name":"Saarloq",
+    "wof:parent_id":85684711,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -46.05,
+    60.533337,
+    -46.05,
+    60.533337
+],
+  "geometry": {"coordinates":[-46.05,60.533337],"type":"Point"}
+}

@@ -1,0 +1,164 @@
+{
+  "id": 101870569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.590251,60.476975,-45.590251,60.476975",
+    "geom:latitude":60.476975,
+    "geom:longitude":-45.590251,
+    "gn:population":364,
+    "iso:country":"GL",
+    "lbl:latitude":60.476975,
+    "lbl:longitude":-45.590251,
+    "mps:latitude":60.476975,
+    "mps:longitude":-45.590251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:cze_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:dan_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:dan_x_variant":[
+        "Sydpr\u00f8ven"
+    ],
+    "name:deu_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:dut_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:eng_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0648\u062a\u0633\u0627\u067e \u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:fre_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10e3\u10d8\u10e2\u10e1\u10e3\u10de-\u10de\u10d0\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:ita_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:kal_x_preferred":[
+        "Alluitsup-Paa"
+    ],
+    "name:kal_x_variant":[
+        "Alluitsup Paa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e3\u10d8\u10e2\u10e1\u10e3\u10de-\u10de\u10d0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:nob_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:nor_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06cc\u0648\u062a\u0633\u0627\u067e \u067e\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:por_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043b\u0443\u0438\u0442\u0441\u0443\u043f-\u041f\u0430\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:swe_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:tur_x_preferred":[
+        "Alluitsup Paa"
+    ],
+    "name:unk_x_variant":[
+        "South Proven"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Kommune Kujalleq",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Alluitsup Paa",
+    "qs:loc_alt":"Alluitsup Paa",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":738,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424682,
+        "gp:id":473053,
+        "qs:id":1044584,
+        "qs_pg:id":1044584,
+        "wd:id":"Q265489",
+        "wk:page":"Alluitsup Paa"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"d403b1c8b097314bccf91fc0ed22239a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870569,
+            "region_id":85684711
+        }
+    ],
+    "wof:id":101870569,
+    "wof:lastmodified":1544750707,
+    "wof:name":"Alluitsup Paa",
+    "wof:parent_id":85684711,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.590251,
+    60.476975,
+    -45.590251,
+    60.476975
+],
+  "geometry": {"coordinates":[-45.590251,60.476975],"type":"Point"}
+}

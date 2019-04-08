@@ -1,0 +1,136 @@
+{
+  "id": 101870635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.885316,68.6298,-51.885316,68.6298",
+    "geom:latitude":68.6298,
+    "geom:longitude":-51.885316,
+    "gn:population":92,
+    "iso:country":"GL",
+    "lbl:latitude":68.6298,
+    "lbl:longitude":-51.885316,
+    "mps:latitude":68.6298,
+    "mps:longitude":-51.885316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:dan_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:deu_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:dut_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:eng_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:fra_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:fre_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10d9\u10d0\u10db\u10d8\u10e3\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:ita_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d9\u10d0\u10db\u10d8\u10e3\u10e2\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:nor_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:pol_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:por_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043a\u0430\u043c\u0438\u0443\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Ikamiut"
+    ],
+    "name:swe_x_preferred":[
+        "Ikamiut"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ikamiut",
+    "qs:loc_alt":"Ikamiut",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423313,
+        "qs:id":95525,
+        "qs_pg:id":95525,
+        "wd:id":"Q2336629",
+        "wk:page":"Ikamiut"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"52abc3f7733cae27f1596a0603addb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870635,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870635,
+    "wof:lastmodified":1544750738,
+    "wof:name":"Ikamiut",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.885316,
+    68.6298,
+    -51.885316,
+    68.6298
+],
+  "geometry": {"coordinates":[-51.885316,68.6298],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326752385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.8,65.63333,-52.8,65.63333",
+    "geom:latitude":65.63333,
+    "geom:longitude":-52.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ikkamiut",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3423220,
+    "gn:latitude":65.63333,
+    "gn:longitude":-52.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ikkamiut",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikamiut",
+        "Ikkamiut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423220
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"b6ea56f81d21624d9065414925bca8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326752385,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326752385,
+    "wof:lastmodified":1537623864,
+    "wof:name":"Ikkamiut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.8,
+    65.63333,
+    -52.8,
+    65.63333
+],
+  "geometry": {"coordinates":[-52.8,65.63333],"type":"Point"}
+}

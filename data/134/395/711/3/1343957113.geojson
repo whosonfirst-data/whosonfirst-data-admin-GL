@@ -1,0 +1,73 @@
+{
+  "id": 1343957113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.7,69.85,-50.7,69.85",
+    "geom:latitude":69.85,
+    "geom:longitude":-50.7,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Arsivik",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3424453,
+    "gn:latitude":69.85,
+    "gn:longitude":-50.7,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Arsivik",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        136253045,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424453
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"bc41a9e7401f456e997c6a83620e56f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "empire_id":136253045,
+            "locality_id":1343957113,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "empire_id":136253045,
+            "locality_id":1343957113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343957113,
+    "wof:lastmodified":1537023810,
+    "wof:name":"Arsivik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.7,
+    69.85,
+    -50.7,
+    69.85
+],
+  "geometry": {"coordinates":[-50.7,69.84999999999999],"type":"Point"}
+}

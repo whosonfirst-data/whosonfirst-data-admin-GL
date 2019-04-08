@@ -1,0 +1,82 @@
+{
+  "id": 1125362513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.0,68.83333,-50.0,68.83333",
+    "geom:latitude":68.83333,
+    "geom:longitude":-50.0,
+    "gn:gn_country":"GL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1432,
+    "gn:population":1432,
+    "iso:country":"GL",
+    "lbl:latitude":68.83333,
+    "lbl:longitude":-50.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kal_x_preferred":[
+        "Qasigiannguit Kommuniat"
+    ],
+    "name:unk_x_variant":[
+        "K'asigi\u00e1nguit Komm\u00fbne"
+    ],
+    "qs_pg:aaroncc":"GL",
+    "qs_pg:gn_country":"GL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3420769,
+    "qs_pg:gn_pop":1432,
+    "qs_pg:name":"Qasigiannguit Kommune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95511,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420769,
+        "qs_pg:id":95511
+    },
+    "wof:country":"GL",
+    "wof:created":1497046882,
+    "wof:geomhash":"d69738305bc98c259740050dbb23353b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "localadmin_id":1125362513,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1125362513,
+    "wof:lastmodified":1509389115,
+    "wof:name":"Qasigiannguit Kommune",
+    "wof:parent_id":85684721,
+    "wof:placetype":"localadmin",
+    "wof:population":1432,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.0,
+    68.83333,
+    -50.0,
+    68.83333
+],
+  "geometry": {"coordinates":[-50.0,68.83333],"type":"Point"}
+}

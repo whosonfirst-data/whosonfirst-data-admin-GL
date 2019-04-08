@@ -1,0 +1,132 @@
+{
+  "id": 101870647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.975819,69.492218,-53.975819,69.492218",
+    "geom:latitude":69.492218,
+    "geom:longitude":-53.975819,
+    "iso:country":"GL",
+    "lbl:latitude":69.492218,
+    "lbl:longitude":-53.975819,
+    "mps:latitude":69.492218,
+    "mps:longitude":-53.975819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:cze_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:dan_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:dut_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:eng_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:fra_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:fre_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d2\u10d4\u10e0\u10da\u10e3\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:ita_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d2\u10d4\u10e0\u10da\u10e3\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:nob_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:nor_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:pol_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:por_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0433\u0435\u0440\u043b\u0443\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Kangerluk"
+    ],
+    "name:swe_x_preferred":[
+        "Kangerluk"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kangerluk",
+    "qs:loc_alt":"Kangerluk",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752648,
+        "qs:id":1,
+        "wd:id":"Q2291039"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"0077b8ba92a747a53928ca8c75546e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870647,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870647,
+    "wof:lastmodified":1544750745,
+    "wof:name":"Kangerluk",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.975819,
+    69.492218,
+    -53.975819,
+    69.492218
+],
+  "geometry": {"coordinates":[-53.975819,69.49221799999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276584097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.52399,68.62338,-53.52399,68.62338",
+    "geom:latitude":68.62338,
+    "geom:longitude":-53.52399,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vester Ejland",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3418787,
+    "gn:latitude":68.62338,
+    "gn:longitude":-53.52399,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Vester Ejland",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitdl\u00ee",
+        "Vester Ejland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418787
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"68518f5c077bf035482b28ba547b941d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276584097,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276584097,
+    "wof:lastmodified":1537623858,
+    "wof:name":"Vester Ejland",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.52399000000001,
+    68.62338000000001,
+    -53.52399000000001,
+    68.62338000000001
+],
+  "geometry": {"coordinates":[-53.52399000000001,68.62338000000001],"type":"Point"}
+}

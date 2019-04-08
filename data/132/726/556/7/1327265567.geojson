@@ -1,0 +1,70 @@
+{
+  "id": 1327265567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76722,77.5325,-67.76722,77.5325",
+    "geom:latitude":77.5325,
+    "geom:longitude":-67.76722,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Quinissut",
+    "gn:country_code":"GL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831174,
+    "gn:latitude":77.5325,
+    "gn:longitude":-67.76722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qu\u00ednissut",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinassuk",
+        "Kuinassuk",
+        "Qu\u00ednissut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831174
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"b9c0438377109a84b61afecd52ef181d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":1327265567,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":1327265567,
+    "wof:lastmodified":1537623867,
+    "wof:name":"Quinissut",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76722,
+    77.5325,
+    -67.76722,
+    77.5325
+],
+  "geometry": {"coordinates":[-67.76721999999999,77.5325],"type":"Point"}
+}

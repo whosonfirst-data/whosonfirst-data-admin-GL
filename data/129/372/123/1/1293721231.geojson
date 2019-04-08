@@ -1,0 +1,65 @@
+{
+  "id": 1293721231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.5,68.45,-53.5,68.45",
+    "geom:latitude":68.45,
+    "geom:longitude":-53.5,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Innalik",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3423081,
+    "gn:latitude":68.45,
+    "gn:longitude":-53.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Innalik",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ivnalik",
+        "Innalik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423081
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"9fccd4b65190a2f720dbf7b20741313f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293721231,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293721231,
+    "wof:lastmodified":1537623864,
+    "wof:name":"Innalik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.5,
+    68.45,
+    -53.5,
+    68.45
+],
+  "geometry": {"coordinates":[-53.5,68.45],"type":"Point"}
+}

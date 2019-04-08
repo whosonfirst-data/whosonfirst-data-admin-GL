@@ -1,0 +1,140 @@
+{
+  "id": 101870731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.354566,70.508271,-51.354566,70.508271",
+    "geom:latitude":70.508271,
+    "geom:longitude":-51.354566,
+    "gn:population":286,
+    "iso:country":"GL",
+    "lbl:latitude":70.508271,
+    "lbl:longitude":-51.354566,
+    "mps:latitude":70.508271,
+    "mps:longitude":-51.354566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:dan_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:dut_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:eng_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:fra_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:fre_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10d9\u10d4\u10e0\u10d0\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:ita_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:kal_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d9\u10d4\u10e0\u10d0\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:nor_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:pol_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:por_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043a\u0435\u0440\u0430\u0441\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:swe_x_preferred":[
+        "Ikerasak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043a\u0435\u0440\u0430\u0441\u0430\u043a"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ikerasak",
+    "qs:loc_alt":"Ikerasak",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423260,
+        "gp:id":472874,
+        "qs:id":583202,
+        "qs_pg:id":583202,
+        "wd:id":"Q747426",
+        "wk:page":"Ikerasak"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"a5c35545f97d1d612ef0785505c79c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870731,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870731,
+    "wof:lastmodified":1544750789,
+    "wof:name":"Ikerasak",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.354566,
+    70.508271,
+    -51.354566,
+    70.508271
+],
+  "geometry": {"coordinates":[-51.354566,70.50827099999999],"type":"Point"}
+}

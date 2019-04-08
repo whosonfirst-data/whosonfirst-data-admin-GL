@@ -1,0 +1,68 @@
+{
+  "id": 1209105143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.30794,76.44732,-69.30794,76.44732",
+    "geom:latitude":76.44732,
+    "geom:longitude":-69.30794,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Narsaarsuk",
+    "gn:country_code":"GL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3831279,
+    "gn:latitude":76.44732,
+    "gn:longitude":-69.30794,
+    "gn:modification_date":"2017-10-17",
+    "gn:name":"Narsaarsuk",
+    "gn:population":0,
+    "gn:timezone":"America/Thule",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Narss\u00e2rssuk",
+        "Narssurscuk",
+        "Narss\u00fbrssuk",
+        "Narsaarsuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831279,
+        "wk:page":"Narsaarsuk"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"35758ee54c99ba8df5d3525ec348a7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633217,
+            "locality_id":1209105143
+        }
+    ],
+    "wof:id":1209105143,
+    "wof:lastmodified":1537623868,
+    "wof:name":"Narsaarsuk",
+    "wof:parent_id":85633217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.30794,
+    76.44731999999998,
+    -69.30794,
+    76.44731999999998
+],
+  "geometry": {"coordinates":[-69.30794,76.44731999999998],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209206281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-37.21419,65.55348,-37.21419,65.55348",
+    "geom:latitude":65.55348,
+    "geom:longitude":-37.21419,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sivtingaleq",
+    "gn:country_code":"GL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3419835,
+    "gn:latitude":65.55348,
+    "gn:longitude":-37.21419,
+    "gn:modification_date":"2018-05-30",
+    "gn:name":"Sivtingaleq",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sivsingassoq",
+        "Sivtingaleq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3419835
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"00b0fa0839d8365fb9fd0b56a26f4859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633217,
+            "locality_id":1209206281
+        }
+    ],
+    "wof:id":1209206281,
+    "wof:lastmodified":1537623859,
+    "wof:name":"Sivtingaleq",
+    "wof:parent_id":85633217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -37.21419,
+    65.55348000000001,
+    -37.21419,
+    65.55348000000001
+],
+  "geometry": {"coordinates":[-37.21419,65.55348000000001],"type":"Point"}
+}

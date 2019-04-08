@@ -1,0 +1,146 @@
+{
+  "id": 101870701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.950001,70.016661,-51.950001,70.016661",
+    "geom:latitude":70.016661,
+    "geom:longitude":-51.950001,
+    "gn:population":169,
+    "iso:country":"GL",
+    "lbl:latitude":70.016661,
+    "lbl:longitude":-51.950001,
+    "mps:latitude":70.016661,
+    "mps:longitude":-51.950001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:cze_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:dan_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:dut_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:eng_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:fra_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:fre_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10d0\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:ita_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10d0\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:nno_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:nob_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:nor_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:pol_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:por_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u043a\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:swe_x_preferred":[
+        "Saqqaq"
+    ],
+    "name:unk_x_variant":[
+        "Sarqaq"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Qaasuitsup Kommunia",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Saqqaq",
+    "qs:loc_alt":"Saqqaq",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":351,
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3420097,
+        "gp:id":473027,
+        "qs:id":1044562,
+        "qs_pg:id":1044562,
+        "wd:id":"Q427622",
+        "wk:page":"Saqqaq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"49ed4a9964c4e4b917cb618ebf374bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870701,
+            "region_id":85684721
+        }
+    ],
+    "wof:id":101870701,
+    "wof:lastmodified":1544750775,
+    "wof:name":"Saqqaq",
+    "wof:parent_id":85684721,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.950001,
+    70.016661,
+    -51.950001,
+    70.016661
+],
+  "geometry": {"coordinates":[-51.950001,70.016661],"type":"Point"}
+}

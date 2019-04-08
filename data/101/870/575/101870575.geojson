@@ -1,0 +1,140 @@
+{
+  "id": 101870575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.632274,60.069794,-44.632274,60.069794",
+    "geom:latitude":60.069794,
+    "geom:longitude":-44.632274,
+    "gn:population":110,
+    "iso:country":"GL",
+    "lbl:latitude":60.069794,
+    "lbl:longitude":-44.632274,
+    "mps:latitude":60.069794,
+    "mps:longitude":-44.632274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:cze_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:dan_x_preferred":[
+        "Frederiksdal"
+    ],
+    "name:dut_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:eng_x_preferred":[
+        "Narsaq"
+    ],
+    "name:eng_x_variant":[
+        "Narsarmijit"
+    ],
+    "name:fre_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10e1\u10d0\u10e0\u10db\u10d8\u10d0\u10d8\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Friedrichstal"
+    ],
+    "name:ice_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:ita_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:kal_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:nob_x_preferred":[
+        "Narsamijit"
+    ],
+    "name:nor_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:pol_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:por_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0441\u0430\u043a-\u041a\u0443\u044f\u043b\u043b\u0435\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:swe_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:unk_x_variant":[
+        "Narsak"
+    ],
+    "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:a1":"*Kommune Kujalleq",
+    "qs:a1r":"0",
+    "qs:adm0":"Kalaallit Nunaat#Gr\u00f8nland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Narsarmijit",
+    "qs:loc_alt":"Narsarmijit",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633217,
+        85684711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423771,
+        "gp:id":473055,
+        "qs:id":95528,
+        "wd:id":"Q663788",
+        "wk:page":"Narsaq Kujalleq"
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"5330a47aef903a8a48f411a1ce4da9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633217,
+            "locality_id":101870575,
+            "region_id":85684711
+        }
+    ],
+    "wof:id":101870575,
+    "wof:lastmodified":1544750710,
+    "wof:name":"Narsarmijit",
+    "wof:parent_id":85684711,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -44.632274,
+    60.069794,
+    -44.632274,
+    60.069794
+],
+  "geometry": {"coordinates":[-44.632274,60.069794],"type":"Point"}
+}

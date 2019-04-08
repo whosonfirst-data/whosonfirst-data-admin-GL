@@ -1,0 +1,65 @@
+{
+  "id": 1276756021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.4,62.81667,-50.4,62.81667",
+    "geom:latitude":62.81667,
+    "geom:longitude":-50.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kangigdlermiut",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3422576,
+    "gn:latitude":62.81667,
+    "gn:longitude":-50.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kangigdlermiut",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangidlermiut",
+        "Kangigdlermiut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3422576
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"b271cccb0c36f3c605bc5836b9d98f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276756021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276756021,
+    "wof:lastmodified":1537623863,
+    "wof:name":"Kangigdlermiut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -50.4,
+    62.81667,
+    -50.4,
+    62.81667
+],
+  "geometry": {"coordinates":[-50.4,62.81667],"type":"Point"}
+}

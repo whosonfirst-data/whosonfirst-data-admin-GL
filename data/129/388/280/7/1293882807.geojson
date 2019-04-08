@@ -1,0 +1,65 @@
+{
+  "id": 1293882807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.86667,72.28333,-55.86667,72.28333",
+    "geom:latitude":72.28333,
+    "geom:longitude":-55.86667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Illorsuit",
+    "gn:country_code":"GL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3423178,
+    "gn:latitude":72.28333,
+    "gn:longitude":-55.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Illorsuit",
+    "gn:population":0,
+    "gn:timezone":"America/Godthab",
+    "iso:country":"GL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Igdlorssuit",
+        "Illorsuit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3423178
+    },
+    "wof:country":"GL",
+    "wof:geomhash":"ee5bb6296a20df8b9cb5c23929f40155",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293882807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293882807,
+    "wof:lastmodified":1537623864,
+    "wof:name":"Illorsuit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.86666999999999,
+    72.28333,
+    -55.86666999999999,
+    72.28333
+],
+  "geometry": {"coordinates":[-55.86666999999999,72.28333000000001],"type":"Point"}
+}
