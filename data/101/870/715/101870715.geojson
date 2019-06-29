@@ -17,7 +17,7 @@
     "mps:longitude":-52.853641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Niaqornaarsuk"
     ],
     "name:dan_x_preferred":[
@@ -26,22 +26,10 @@
     "name:deu_x_preferred":[
         "Niaqornaarsuk"
     ],
-    "name:dut_x_preferred":[
-        "Niaqornaarsuk"
-    ],
     "name:eng_x_preferred":[
         "Niaqornaarsuk"
     ],
     "name:fra_x_preferred":[
-        "Niaqornaarsuk"
-    ],
-    "name:fre_x_preferred":[
-        "Niaqornaarsuk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10d0\u10d9\u10dd\u10e0\u10dc\u10d0\u10d0\u10e0\u10e1\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Niaqornaarsuk"
     ],
     "name:ita_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101870715,
-    "wof:lastmodified":1544750781,
+    "wof:lastmodified":1561840669,
     "wof:name":"Niaqornaarsuk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

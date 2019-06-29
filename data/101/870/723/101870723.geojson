@@ -26,10 +26,7 @@
     "name:cat_x_preferred":[
         "Nanortalik"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u8bfa\u5854\u5229\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nanortalik"
     ],
     "name:dan_x_preferred":[
@@ -38,25 +35,10 @@
     "name:deu_x_preferred":[
         "Nanortalik"
     ],
-    "name:dut_x_preferred":[
-        "Nanortalik"
-    ],
     "name:eng_x_preferred":[
         "Nanortalik"
     ],
     "name:fra_x_preferred":[
-        "Nanortalik"
-    ],
-    "name:fre_x_preferred":[
-        "Nanortalik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10dc\u10dd\u10e0\u10e2\u10d0\u10da\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Nanortalik"
-    ],
-    "name:ice_x_preferred":[
         "Nanortalik"
     ],
     "name:isl_x_preferred":[
@@ -79,9 +61,6 @@
     ],
     "name:lat_x_preferred":[
         "Nanortalik"
-    ],
-    "name:mac_x_preferred":[
-        "\u041d\u0430\u043d\u043e\u0440\u0442\u0430\u043b\u0438\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0430\u043d\u043e\u0440\u0442\u0430\u043b\u0438\u043a"
@@ -167,7 +146,7 @@
         }
     ],
     "wof:id":101870723,
-    "wof:lastmodified":1544750785,
+    "wof:lastmodified":1561840670,
     "wof:name":"Nanortalik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

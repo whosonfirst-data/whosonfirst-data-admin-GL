@@ -24,19 +24,13 @@
     "name:cat_x_preferred":[
         "Kulusuk"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u76e7\u8607\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kulusuk"
     ],
     "name:dan_x_preferred":[
         "Kulusuk"
     ],
     "name:deu_x_preferred":[
-        "Kulusuk"
-    ],
-    "name:dut_x_preferred":[
         "Kulusuk"
     ],
     "name:eng_x_historical":[
@@ -54,25 +48,13 @@
     "name:fra_x_preferred":[
         "Kulusuk"
     ],
-    "name:fre_x_preferred":[
-        "Kulusuk"
-    ],
     "name:fry_x_preferred":[
-        "Kulusuk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10da\u10e3\u10e1\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kulusuk"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d5\u05e1\u05d5\u05e7"
     ],
     "name:hun_x_preferred":[
-        "Kulusuk"
-    ],
-    "name:ice_x_preferred":[
         "Kulusuk"
     ],
     "name:isl_x_preferred":[
@@ -116,6 +98,9 @@
     ],
     "name:unk_x_variant":[
         "Qulusuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u76e7\u8607\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greenland",
@@ -254,7 +239,7 @@
         }
     ],
     "wof:id":101870579,
-    "wof:lastmodified":1544750711,
+    "wof:lastmodified":1561840671,
     "wof:name":"Kulusuk",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

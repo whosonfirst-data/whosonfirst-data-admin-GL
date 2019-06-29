@@ -21,7 +21,7 @@
     "name:cat_x_preferred":[
         "Kullorsuaq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kullorsuaq"
     ],
     "name:dan_x_preferred":[
@@ -30,22 +30,10 @@
     "name:deu_x_preferred":[
         "Kullorsuaq"
     ],
-    "name:dut_x_preferred":[
-        "Kullorsuaq"
-    ],
     "name:eng_x_preferred":[
         "Kullorsuaq"
     ],
     "name:fra_x_preferred":[
-        "Kullorsuaq"
-    ],
-    "name:fre_x_preferred":[
-        "Kullorsuaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10da\u10dd\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kullorsuaq"
     ],
     "name:ita_x_preferred":[
@@ -224,7 +212,7 @@
         }
     ],
     "wof:id":101870675,
-    "wof:lastmodified":1544750760,
+    "wof:lastmodified":1561840669,
     "wof:name":"Kullorsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

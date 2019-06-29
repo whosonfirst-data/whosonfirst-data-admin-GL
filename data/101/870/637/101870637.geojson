@@ -23,16 +23,13 @@
     "name:cat_x_preferred":[
         "Akunnaaq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Akunnaaq"
     ],
     "name:dan_x_preferred":[
         "Akunnaaq"
     ],
     "name:deu_x_preferred":[
-        "Akunnaaq"
-    ],
-    "name:dut_x_preferred":[
         "Akunnaaq"
     ],
     "name:eng_x_historical":[
@@ -53,15 +50,6 @@
     "name:fra_x_preferred":[
         "Akunnaaq"
     ],
-    "name:fre_x_preferred":[
-        "Akunnaaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10e3\u10dc\u10d0\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Akunnaaq"
-    ],
     "name:ita_x_preferred":[
         "Akunnaaq"
     ],
@@ -76,9 +64,6 @@
     ],
     "name:nor_x_preferred":[
         "Akunnaaq"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0648\u0646\u0627\u06a9"
     ],
     "name:pol_x_preferred":[
         "Akunnaaq"
@@ -143,7 +128,7 @@
         }
     ],
     "wof:id":101870637,
-    "wof:lastmodified":1544750739,
+    "wof:lastmodified":1561840670,
     "wof:name":"Akunnaaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

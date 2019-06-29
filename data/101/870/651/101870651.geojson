@@ -29,13 +29,13 @@
     "name:cat_x_preferred":[
         "Qeqertarsuaq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:dan_x_preferred":[
         "Godhavn"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:eng_x_preferred":[
@@ -47,19 +47,13 @@
     "name:fin_x_preferred":[
         "Qeqertarsuaq"
     ],
-    "name:fre_x_preferred":[
-        "Qeqertarsuaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:hun_x_preferred":[
         "Qeqertarsuaq"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:ita_x_preferred":[
@@ -74,11 +68,11 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Qeqertarsuaq"
     ],
     "name:nno_x_preferred":[
         "Qeqertarsuaq"
@@ -95,7 +89,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:spa_x_preferred":[
@@ -158,7 +152,7 @@
         }
     ],
     "wof:id":101870651,
-    "wof:lastmodified":1553815559,
+    "wof:lastmodified":1561840669,
     "wof:name":"Qeqertarsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

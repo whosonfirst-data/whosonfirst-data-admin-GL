@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Eqalugaarsuit"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Eqalugaarsuit"
     ],
     "name:dan_x_preferred":[
@@ -28,22 +28,10 @@
     "name:deu_x_preferred":[
         "Eqalugaarsuit"
     ],
-    "name:dut_x_preferred":[
-        "Eqalugaarsuit"
-    ],
     "name:eng_x_preferred":[
         "Eqalugaarsuit"
     ],
     "name:fra_x_preferred":[
-        "Eqalugaarsuit"
-    ],
-    "name:fre_x_preferred":[
-        "Eqalugaarsuit"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d9\u10d0\u10da\u10e3\u10d2\u10d0\u10d0\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Eqalugaarsuit"
     ],
     "name:ita_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101870551,
-    "wof:lastmodified":1544750699,
+    "wof:lastmodified":1561840668,
     "wof:name":"Eqalugaarsuit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

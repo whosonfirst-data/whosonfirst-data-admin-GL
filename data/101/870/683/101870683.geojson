@@ -20,7 +20,7 @@
     "name:cat_x_preferred":[
         "Siorapaluk"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Siorapaluk"
     ],
     "name:dan_x_preferred":[
@@ -29,22 +29,10 @@
     "name:deu_x_preferred":[
         "Siorapaluk"
     ],
-    "name:dut_x_preferred":[
-        "Siorapaluk"
-    ],
     "name:eng_x_preferred":[
         "Siorapaluk"
     ],
     "name:fra_x_preferred":[
-        "Siorapaluk"
-    ],
-    "name:fre_x_preferred":[
-        "Siorapaluk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dd\u10e0\u10d0\u10de\u10d0\u10da\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Siorapaluk"
     ],
     "name:ita_x_preferred":[
@@ -77,7 +65,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043e\u0440\u0430\u043f\u0430\u043b\u0443\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Siorapaluk"
     ],
     "name:spa_x_preferred":[
@@ -134,7 +122,7 @@
         }
     ],
     "wof:id":101870683,
-    "wof:lastmodified":1544750765,
+    "wof:lastmodified":1561840670,
     "wof:name":"Siorapaluk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

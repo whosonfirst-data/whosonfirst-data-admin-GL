@@ -25,13 +25,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0438\u043b\u0438\u043d\u0433\u0443\u0438\u0442"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kangilinnguit"
     ],
     "name:dan_x_preferred":[
         "Kangilinnguit"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kangilinnguit"
     ],
     "name:eng_x_historical":[
@@ -49,19 +49,19 @@
         "Grondal",
         "Bluie West Seven"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kangilinnguit"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d2\u10d8\u10da\u10d8\u10dc\u10d2\u10e3\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kangilinnguit"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Kangilinnguit"
     ],
     "name:ita_x_preferred":[
+        "Kangilinnguit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d2\u10d8\u10da\u10d8\u10dc\u10d2\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Kangilinnguit"
     ],
     "name:nob_x_preferred":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1126038047,
-    "wof:lastmodified":1514443796,
+    "wof:lastmodified":1561840671,
     "wof:name":"Gr\u00f8nnedal",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",
