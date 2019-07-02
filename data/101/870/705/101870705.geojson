@@ -20,7 +20,7 @@
     "name:cat_x_preferred":[
         "Oqaatsut"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oqaatsut"
     ],
     "name:dan_x_preferred":[
@@ -29,22 +29,10 @@
     "name:deu_x_preferred":[
         "Oqaatsut"
     ],
-    "name:dut_x_preferred":[
-        "Oqaatsut"
-    ],
     "name:eng_x_preferred":[
         "Oqaitsut"
     ],
     "name:fra_x_preferred":[
-        "Oqaatsut"
-    ],
-    "name:fre_x_preferred":[
-        "Oqaatsut"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d9\u10d0\u10d0\u10e2\u10e1\u10e3\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Oqaatsut"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +40,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10d9\u10d0\u10d0\u10e2\u10e1\u10e3\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Oqaatsut"
     ],
     "name:nob_x_preferred":[
         "Oqaatsut"
@@ -119,7 +110,7 @@
         }
     ],
     "wof:id":101870705,
-    "wof:lastmodified":1544750776,
+    "wof:lastmodified":1561840670,
     "wof:name":"Oqaatsut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

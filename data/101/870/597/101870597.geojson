@@ -32,7 +32,7 @@
     "name:cat_x_preferred":[
         "Maniitsoq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maniitsoq"
     ],
     "name:dan_x_preferred":[
@@ -44,9 +44,6 @@
     "name:deu_x_preferred":[
         "Maniitsoq"
     ],
-    "name:dut_x_preferred":[
-        "Maniitsoq"
-    ],
     "name:eng_x_preferred":[
         "Maniitsoq"
     ],
@@ -56,23 +53,11 @@
     "name:fra_x_preferred":[
         "Maniitsoq"
     ],
-    "name:fre_x_preferred":[
-        "Maniitsoq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d8\u10d8\u10e2\u10e1\u10dd\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Maniitsoq"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e0\u05d9\u05e6\u05d5\u05e7"
     ],
     "name:heb_x_variant":[
         "\u05de\u05e0\u05d9\u05d8\u05e1\u05d5\u05e7"
-    ],
-    "name:ice_x_preferred":[
-        "Maniitsoq"
     ],
     "name:isl_x_preferred":[
         "Maniitsoq"
@@ -91,9 +76,6 @@
     ],
     "name:kom_x_preferred":[
         "\u041c\u0430\u043d\u0438\u0438\u0442\u0441\u043e\u043a"
-    ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043d\u0438\u0442\u0441\u043e\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u0438\u0442\u0441\u043e\u043a"
@@ -117,9 +99,6 @@
         "Maniitsoq"
     ],
     "name:ron_x_preferred":[
-        "Maniitsoq"
-    ],
-    "name:rum_x_preferred":[
         "Maniitsoq"
     ],
     "name:rus_x_preferred":[
@@ -185,7 +164,7 @@
         }
     ],
     "wof:id":101870597,
-    "wof:lastmodified":1544750720,
+    "wof:lastmodified":1561840670,
     "wof:name":"Maniitsoq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

@@ -27,19 +27,13 @@
     "name:bel_x_variant":[
         "\u0423\u045e\u043c\u0430\u043d\u0430\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u746a\u7d0d\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Uummannaq"
     ],
     "name:dan_x_preferred":[
         "Uummannaq"
     ],
     "name:deu_x_preferred":[
-        "Uummannaq"
-    ],
-    "name:dut_x_preferred":[
         "Uummannaq"
     ],
     "name:eng_x_preferred":[
@@ -54,20 +48,8 @@
     "name:fra_x_preferred":[
         "Uummannaq"
     ],
-    "name:fre_x_preferred":[
-        "Uummannaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e3\u10db\u10d0\u10dc\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Uummannaq"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05d0\u05e0\u05d0\u05e7"
-    ],
-    "name:ice_x_preferred":[
-        "Uummannaq"
     ],
     "name:isl_x_preferred":[
         "Uummannaq"
@@ -92,9 +74,6 @@
     ],
     "name:lit_x_preferred":[
         "Umanakas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0423\u043c\u0430\u043d\u0430\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u0423\u043c\u0430\u043d\u0430\u043a"
@@ -278,7 +257,7 @@
         }
     ],
     "wof:id":101870643,
-    "wof:lastmodified":1544750742,
+    "wof:lastmodified":1561840669,
     "wof:name":"Uummannaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

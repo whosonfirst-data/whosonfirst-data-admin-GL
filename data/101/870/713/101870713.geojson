@@ -23,7 +23,7 @@
     "name:cat_x_preferred":[
         "Kangaatsiaq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kangaatsiaq"
     ],
     "name:dan_x_preferred":[
@@ -32,25 +32,10 @@
     "name:deu_x_preferred":[
         "Kangaatsiaq"
     ],
-    "name:dut_x_preferred":[
-        "Kangaatsiaq"
-    ],
     "name:eng_x_preferred":[
         "Kangaatsiaq"
     ],
     "name:fra_x_preferred":[
-        "Kangaatsiaq"
-    ],
-    "name:fre_x_preferred":[
-        "Kangaatsiaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d2\u10d0\u10d0\u10e2\u10e1\u10d8\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kangaatsiaq"
-    ],
-    "name:ice_x_preferred":[
         "Kangaatsiaq"
     ],
     "name:isl_x_preferred":[
@@ -71,9 +56,6 @@
     "name:kor_x_preferred":[
         "\uce78\uac8c\ub97c\ub8e8\uc218\uc545"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043d\u0433\u0430\u0440\u0441\u0438\u0458\u0430\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0430\u0440\u0441\u0438\u0458\u0430\u043a"
     ],
@@ -93,9 +75,6 @@
         "Kangaatsiaq"
     ],
     "name:ron_x_preferred":[
-        "Kangaatsiaq"
-    ],
-    "name:rum_x_preferred":[
         "Kangaatsiaq"
     ],
     "name:rus_x_preferred":[
@@ -158,7 +137,7 @@
         }
     ],
     "wof:id":101870713,
-    "wof:lastmodified":1544750780,
+    "wof:lastmodified":1561840669,
     "wof:name":"Kangaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

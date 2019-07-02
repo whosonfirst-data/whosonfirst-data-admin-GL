@@ -17,28 +17,19 @@
     "mps:longitude":-51.900001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ukkusissat"
     ],
     "name:dan_x_preferred":[
         "Ukkusissat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ukkusissat"
     ],
     "name:eng_x_preferred":[
         "Ukkusissat"
     ],
     "name:fra_x_preferred":[
-        "Ukkusissat"
-    ],
-    "name:fre_x_preferred":[
-        "Ukkusissat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d9\u10e3\u10e1\u10d8\u10e1\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Ukkusissat"
     ],
     "name:ita_x_preferred":[
@@ -122,7 +113,7 @@
         }
     ],
     "wof:id":101870695,
-    "wof:lastmodified":1544750771,
+    "wof:lastmodified":1561840669,
     "wof:name":"Ukkusissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -20,14 +20,14 @@
     "name:cat_x_preferred":[
         "Narsarmijit"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Narsarmijit"
     ],
     "name:dan_x_preferred":[
         "Frederiksdal"
     ],
-    "name:dut_x_preferred":[
-        "Narsarmijit"
+    "name:deu_x_preferred":[
+        "Friedrichstal"
     ],
     "name:eng_x_preferred":[
         "Narsaq"
@@ -35,22 +35,22 @@
     "name:eng_x_variant":[
         "Narsarmijit"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Narsarmijit"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e0\u10e1\u10d0\u10e0\u10db\u10d8\u10d0\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Friedrichstal"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Narsarmijit"
     ],
     "name:ita_x_preferred":[
         "Narsarmijit"
     ],
     "name:kal_x_preferred":[
+        "Narsarmijit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10e1\u10d0\u10e0\u10db\u10d8\u10d0\u10d8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Narsarmijit"
     ],
     "name:nob_x_preferred":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":101870575,
-    "wof:lastmodified":1544750710,
+    "wof:lastmodified":1561840669,
     "wof:name":"Narsarmijit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

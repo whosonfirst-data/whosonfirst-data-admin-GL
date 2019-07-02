@@ -20,13 +20,13 @@
     "name:bar_x_preferred":[
         "Attu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Attu"
     ],
     "name:dan_x_preferred":[
         "Attu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Attu"
     ],
     "name:eng_x_preferred":[
@@ -36,15 +36,6 @@
         "Agto"
     ],
     "name:fra_x_preferred":[
-        "Attu"
-    ],
-    "name:fre_x_preferred":[
-        "Attu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "Attu"
     ],
     "name:ita_x_preferred":[
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":101870633,
-    "wof:lastmodified":1553815559,
+    "wof:lastmodified":1561840669,
     "wof:name":"Attu",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

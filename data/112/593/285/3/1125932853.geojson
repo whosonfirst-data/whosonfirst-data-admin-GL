@@ -22,40 +22,31 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0633\u0627\u0631\u0633\u0648\u0627\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Narsarsuaq"
-    ],
     "name:cat_x_preferred":[
         "Narsarsuaq"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u6c99\u65af\u74e6\u54e5"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Narsarsuaq"
     ],
     "name:dan_x_preferred":[
         "Narsarsuaq"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Narsarsuaq"
     ],
     "name:eng_x_preferred":[
         "Narsarsuaq"
     ],
+    "name:eus_x_preferred":[
+        "Narsarsuaq"
+    ],
     "name:fao_x_preferred":[
         "Narsarsuaq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Narsarsuaq"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e0\u10e1\u10d0\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Narsarsuaq"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Narsarsuaq"
     ],
     "name:ita_x_preferred":[
@@ -72,6 +63,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ub974\uc0ac\uc218\uc544\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Narsarsuaq"
     ],
     "name:nob_x_preferred":[
         "Narsarsuaq"
@@ -154,7 +148,7 @@
         }
     ],
     "wof:id":1125932853,
-    "wof:lastmodified":1514443817,
+    "wof:lastmodified":1561840671,
     "wof:name":"Narssarssuaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

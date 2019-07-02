@@ -20,7 +20,7 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0645\u064a\u0644\u064a\u062c\u0627\u0643"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sermiligaaq"
     ],
     "name:dan_x_preferred":[
@@ -29,22 +29,10 @@
     "name:deu_x_preferred":[
         "Sermiligaaq"
     ],
-    "name:dut_x_preferred":[
-        "Sermiligaaq"
-    ],
     "name:eng_x_preferred":[
         "Sermiligaaq"
     ],
     "name:fra_x_preferred":[
-        "Sermiligaaq"
-    ],
-    "name:fre_x_preferred":[
-        "Sermiligaaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10db\u10d8\u10da\u10d8\u10d2\u10d0\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Sermiligaaq"
     ],
     "name:ita_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":101870611,
-    "wof:lastmodified":1544750727,
+    "wof:lastmodified":1561840669,
     "wof:name":"Sermiligaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

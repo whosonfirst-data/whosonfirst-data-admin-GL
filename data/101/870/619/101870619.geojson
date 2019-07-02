@@ -17,23 +17,20 @@
     "mps:longitude":-38.987537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u057d\u0578\u0580\u057f\u0578\u0584"
-    ],
     "name:bar_x_preferred":[
         "Isertoq"
     ],
     "name:cat_x_preferred":[
         "Isortoq"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Isortoq"
     ],
     "name:dan_x_preferred":[
         "Isortoq"
     ],
-    "name:dut_x_preferred":[
-        "Isortoq"
+    "name:deu_x_preferred":[
+        "Isertoq"
     ],
     "name:eng_x_preferred":[
         "Isortoq"
@@ -41,23 +38,14 @@
     "name:fra_x_preferred":[
         "Isortoq"
     ],
-    "name:fre_x_preferred":[
-        "Isortoq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10dd\u10e0\u10e2\u10dd\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Isertoq"
-    ],
     "name:hye_x_preferred":[
         "\u053b\u057d\u0578\u0580\u057f\u0578\u0584"
     ],
-    "name:ice_x_preferred":[
-        "Isortoq"
-    ],
     "name:isl_x_preferred":[
         "Isertoq"
+    ],
+    "name:isl_x_variant":[
+        "Isortoq"
     ],
     "name:ita_x_preferred":[
         "Isortoq"
@@ -137,7 +125,7 @@
         }
     ],
     "wof:id":101870619,
-    "wof:lastmodified":1544750730,
+    "wof:lastmodified":1561840669,
     "wof:name":"Isortoq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

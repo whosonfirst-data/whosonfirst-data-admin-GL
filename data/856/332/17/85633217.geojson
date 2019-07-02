@@ -123,9 +123,6 @@
     "name:cze_x_colloquial":[
         "Gronsko"
     ],
-    "name:cze_x_preferred":[
-        "Gr\u00f3nsko"
-    ],
     "name:dan_x_colloquial":[
         "Gronland"
     ],
@@ -517,9 +514,6 @@
     "name:rue_x_preferred":[
         "\u0490\u0440\u043e\u043d\u0441\u044c\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Groenlanda"
-    ],
     "name:run_x_preferred":[
         "Gurunilandi"
     ],
@@ -693,7 +687,6 @@
         "\u683c\u9675\u5170"
     ],
     "name:zho_x_variant":[
-        "\u683c\u9675\u5170",
         "\u683c\u9675\u862d"
     ],
     "name:zho_yue_x_preferred":[
@@ -848,7 +841,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1544059233,
+    "wof:lastmodified":1561840666,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

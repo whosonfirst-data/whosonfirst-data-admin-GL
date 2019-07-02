@@ -23,16 +23,13 @@
     "name:bul_x_preferred":[
         "\u0410\u0442\u0430\u043c\u0438\u043a"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Atammik"
     ],
     "name:dan_x_preferred":[
         "Atammik"
     ],
     "name:deu_x_preferred":[
-        "Atammik"
-    ],
-    "name:dut_x_preferred":[
         "Atammik"
     ],
     "name:eng_x_preferred":[
@@ -42,15 +39,6 @@
         "\u0622\u062a\u0627\u0645\u06cc\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Atammik"
-    ],
-    "name:fre_x_preferred":[
-        "Atammik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10d0\u10db\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Atammik"
     ],
     "name:ita_x_preferred":[
@@ -73,9 +61,6 @@
     ],
     "name:nor_x_preferred":[
         "Atammik"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u062a\u0627\u0645\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Atammik"
@@ -140,7 +125,7 @@
         }
     ],
     "wof:id":101870607,
-    "wof:lastmodified":1544750725,
+    "wof:lastmodified":1561840671,
     "wof:name":"Atammik",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

@@ -25,31 +25,22 @@
     "name:cat_x_preferred":[
         "Kangerlussuaq"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u514b\u9b6f\u65af\u74e6\u683c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:dan_x_preferred":[
         "Kangerlussuaq"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:eng_x_preferred":[
         "Kangerlussuaq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kangerlussuaq"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d2\u10d4\u10e0\u10da\u10e3\u10e1\u10e3\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kangerlussuaq"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:ita_x_preferred":[
@@ -61,8 +52,14 @@
     "name:kal_x_preferred":[
         "Kangerlussuaq"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d2\u10d4\u10e0\u10da\u10e3\u10e1\u10e3\u10d0\u10d9\u10d8"
+    ],
     "name:kom_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0435\u0440\u043b\u0443\u0441\u0441\u0443\u0430\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Kangerlussuaq"
     ],
     "name:nob_x_preferred":[
         "Kangerlussuaq"
@@ -84,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0491\u0435\u0440\u043b\u0443\u0441\u0441\u0443\u0430\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u514b\u9b6f\u65af\u74e6\u683c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greenland",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1141908673,
-    "wof:lastmodified":1534379331,
+    "wof:lastmodified":1561840672,
     "wof:name":"Kangerlussuaq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Nuuk"
     ],
-    "name:alb_x_preferred":[
-        "Nuuk"
-    ],
     "name:amh_x_preferred":[
         "\u1291\u12ad"
     ],
@@ -33,16 +30,10 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u0582\u0578\u0582\u056f"
-    ],
     "name:ast_x_preferred":[
         "Nuuk"
     ],
     "name:aze_x_preferred":[
-        "Nuuk"
-    ],
-    "name:baq_x_preferred":[
         "Nuuk"
     ],
     "name:bel_x_preferred":[
@@ -69,9 +60,6 @@
     "name:che_x_preferred":[
         "\u041d\u0443\u0443\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u52aa\u514b"
-    ],
     "name:chv_x_preferred":[
         "\u041d\u0443\u0443\u043a"
     ],
@@ -79,9 +67,6 @@
         "Nuuk"
     ],
     "name:cym_x_preferred":[
-        "Nuuk"
-    ],
-    "name:cze_x_preferred":[
         "Nuuk"
     ],
     "name:dan_x_preferred":[
@@ -97,9 +82,6 @@
         "Nuuk"
     ],
     "name:diq_x_preferred":[
-        "Nuuk"
-    ],
-    "name:dut_x_preferred":[
         "Nuuk"
     ],
     "name:ell_x_preferred":[
@@ -141,19 +123,10 @@
     "name:fra_x_variant":[
         "Nuuk"
     ],
-    "name:fre_x_preferred":[
-        "Nuuk"
-    ],
     "name:frr_x_preferred":[
         "Nuuk"
     ],
     "name:fry_x_preferred":[
-        "Nuuk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Nuuk"
     ],
     "name:gle_x_preferred":[
@@ -164,9 +137,6 @@
     ],
     "name:glv_x_preferred":[
         "Nuuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac2\u0a95"
@@ -185,9 +155,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0582\u0578\u0582\u056f"
-    ],
-    "name:ice_x_preferred":[
-        "Nuuk"
     ],
     "name:ido_x_preferred":[
         "Godthab"
@@ -249,23 +216,20 @@
     "name:ltz_x_preferred":[
         "Nuuk"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0443\u043a"
-    ],
-    "name:mao_x_preferred":[
-        "Nuuk"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0942\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Nuuk"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0443\u043a"
     ],
     "name:mon_x_preferred":[
         "\u041d\u0443\u0443\u043a"
+    ],
+    "name:mri_x_preferred":[
+        "Nuuk"
+    ],
+    "name:msa_x_preferred":[
+        "Nuuk"
     ],
     "name:nah_x_preferred":[
         "Nuuk"
@@ -309,9 +273,6 @@
     "name:pcd_x_preferred":[
         "Nuuk"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06a9"
-    ],
     "name:pih_x_preferred":[
         "Nuuk"
     ],
@@ -328,9 +289,6 @@
         "Nuuk"
     ],
     "name:ron_x_preferred":[
-        "Nuuk"
-    ],
-    "name:rum_x_preferred":[
         "Nuuk"
     ],
     "name:rup_x_preferred":[
@@ -357,9 +315,6 @@
     "name:slk_x_preferred":[
         "Nuuk"
     ],
-    "name:slo_x_preferred":[
-        "Nuuk"
-    ],
     "name:slv_x_preferred":[
         "Nuuk"
     ],
@@ -367,6 +322,9 @@
         "Nuuk"
     ],
     "name:spa_x_preferred":[
+        "Nuuk"
+    ],
+    "name:sqi_x_preferred":[
         "Nuuk"
     ],
     "name:srp_x_preferred":[
@@ -418,9 +376,6 @@
         "Nuuk"
     ],
     "name:war_x_preferred":[
-        "Nuuk"
-    ],
-    "name:wel_x_preferred":[
         "Nuuk"
     ],
     "name:xmf_x_preferred":[
@@ -568,7 +523,7 @@
         "wk:page":"Nuuk"
     },
     "wof:country":"GL",
-    "wof:geomhash":"06e5e1d54755089719b277d037309001",
+    "wof:geomhash":"d2fb4c083dab67554756531bf0aaf6a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -578,7 +533,7 @@
         }
     ],
     "wof:id":101870623,
-    "wof:lastmodified":1552519481,
+    "wof:lastmodified":1561840670,
     "wof:megacity":0,
     "wof:name":"Nuuk",
     "wof:parent_id":85684729,
@@ -594,7 +549,7 @@
   "bbox": [
     -51.75656306126293,
     64.14420571998532,
-    -51.572236633374565,
+    -51.57223663337457,
     64.20606440832641
 ],
   "geometry": {"coordinates":[[[-51.74905075157762,64.1828536474638],[-51.74373716667825,64.18317282754768],[-51.73146095329007,64.18827920906855],[-51.73091127209358,64.19003431043714],[-51.72321573534277,64.19410252700882],[-51.72229960001529,64.19976512808084],[-51.70580916412071,64.20151950197241],[-51.70342721226927,64.1972928671598],[-51.6862038681127,64.19761188096801],[-51.67521024418298,64.20470898799546],[-51.66476630144974,64.20415085445775],[-51.65981917068137,64.20606440832641],[-51.63435060857751,64.20120053316666],[-51.62610539063021,64.20112079039123],[-51.57223663337457,64.16984393222086],[-51.58945997753113,64.16209905690238],[-51.59917101200239,64.16090120271579],[-51.60704977581869,64.15682811163586],[-51.63526674390498,64.14420571998532],[-51.68015737495136,64.14508467998272],[-51.6819896456063,64.15067740990737],[-51.69261681540504,64.15483127998479],[-51.714054382068,64.16090120271579],[-51.72010087522935,64.1619393459988],[-51.71936796696737,64.16816739002631],[-51.72504800599773,64.16345656246384],[-51.73512549459996,64.16058176619852],[-51.75656306126293,64.16888592051875],[-51.74721848092266,64.17782607632006],[-51.75198238462555,64.17910300616285],[-51.74905075157762,64.1828536474638]]],"type":"Polygon"}

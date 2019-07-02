@@ -21,25 +21,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0633\u064a\u0644\u0627\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u057d\u056b\u056b\u056c\u0561\u0584"
-    ],
     "name:bar_x_preferred":[
         "Tasiilaq"
     ],
     "name:cat_x_preferred":[
         "Tasiilaq"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u99ac\u8d6b\u590f\u5229\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tasiilaq"
     ],
     "name:dan_x_preferred":[
         "Tasiilaq"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tasiilaq"
     ],
     "name:eng_x_preferred":[
@@ -48,22 +42,13 @@
     "name:fra_x_preferred":[
         "Tasiilaq"
     ],
-    "name:fre_x_preferred":[
-        "Tasiilaq"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e1\u10d8\u10d8\u10da\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tasiilaq"
-    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05e1\u05d9\u05d0\u05d9\u05dc\u05e7"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u057d\u056b\u056b\u056c\u0561\u0584"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Tasiilaq"
     ],
     "name:ita_x_preferred":[
@@ -87,11 +72,11 @@
     "name:lit_x_preferred":[
         "Tasilakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0441\u0438\u043b\u0430\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0441\u0438\u043b\u0430\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Tasiilaq"
     ],
     "name:nob_x_preferred":[
         "Tasiilaq"
@@ -119,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Tasiilaq"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u99ac\u8d6b\u590f\u5229\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greenland",
@@ -260,7 +248,7 @@
         }
     ],
     "wof:id":101870583,
-    "wof:lastmodified":1544750714,
+    "wof:lastmodified":1561840671,
     "wof:name":"Tasiilaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

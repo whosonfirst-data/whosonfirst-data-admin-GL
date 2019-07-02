@@ -27,19 +27,16 @@
     "name:cat_x_preferred":[
         "Pituffik"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pituffik"
     ],
     "name:dan_x_preferred":[
         "Dundas"
     ],
-    "name:dut_x_preferred":[
-        "Pituffik"
-    ],
     "name:eng_x_preferred":[
         "Thule"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pituffik"
     ],
     "name:ita_x_preferred":[
@@ -53,6 +50,9 @@
     ],
     "name:kal_x_variant":[
         "Uummannaq"
+    ],
+    "name:nld_x_preferred":[
+        "Pituffik"
     ],
     "name:nob_x_preferred":[
         "Pituffik"
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125907009,
-    "wof:lastmodified":1514443795,
+    "wof:lastmodified":1561840671,
     "wof:name":"Dundas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
