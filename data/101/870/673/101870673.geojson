@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Nutaarmiut"
     ],
+    "name:iku_x_preferred":[
+        "\u14c4\u1456\u1550\u14a5\u1405\u1466"
+    ],
     "name:ita_x_preferred":[
         "Nutaarmiut"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101870673,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577501,
     "wof:name":"Nutaarmiut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -29,7 +29,13 @@
     "name:cat_x_preferred":[
         "Aasiaat"
     ],
+    "name:ceb_x_preferred":[
+        "Aasiaat"
+    ],
     "name:ces_x_preferred":[
+        "Aasiaat"
+    ],
+    "name:cym_x_preferred":[
         "Aasiaat"
     ],
     "name:dan_x_preferred":[
@@ -57,6 +63,9 @@
         "Aasiaat"
     ],
     "name:fra_x_preferred":[
+        "Aasiaat"
+    ],
+    "name:frr_x_preferred":[
         "Aasiaat"
     ],
     "name:glg_x_preferred":[
@@ -209,7 +218,7 @@
         }
     ],
     "wof:id":101870639,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577527,
     "wof:name":"Aasiaat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

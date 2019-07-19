@@ -41,6 +41,9 @@
     "name:ita_x_preferred":[
         "Qeqertat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30b1\u30bf\u30c3\u30c8"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e2\u10d8"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101870679,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577523,
     "wof:name":"Qeqertat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

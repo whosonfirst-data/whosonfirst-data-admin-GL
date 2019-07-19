@@ -18,7 +18,16 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:aar_x_preferred":[
+        "Nuuk"
+    ],
     "name:afr_x_preferred":[
+        "Nuuk"
+    ],
+    "name:aka_x_preferred":[
+        "Nuuk"
+    ],
+    "name:aln_x_preferred":[
         "Nuuk"
     ],
     "name:amh_x_preferred":[
@@ -30,10 +39,28 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0643"
     ],
+    "name:arg_x_preferred":[
+        "Nuuk"
+    ],
+    "name:arn_x_preferred":[
+        "Nuuk"
+    ],
     "name:ast_x_preferred":[
         "Nuuk"
     ],
+    "name:aym_x_preferred":[
+        "Nuuk"
+    ],
     "name:aze_x_preferred":[
+        "Nuuk"
+    ],
+    "name:bam_x_preferred":[
+        "Nuuk"
+    ],
+    "name:bar_x_preferred":[
+        "Nuuk"
+    ],
+    "name:bcl_x_preferred":[
         "Nuuk"
     ],
     "name:bel_x_preferred":[
@@ -42,10 +69,19 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u0989\u0995"
     ],
+    "name:bis_x_preferred":[
+        "Nuuk"
+    ],
+    "name:bjn_x_preferred":[
+        "Nuuk"
+    ],
     "name:bos_x_preferred":[
         "Nuuk"
     ],
     "name:bre_x_preferred":[
+        "Nuuk"
+    ],
+    "name:brh_x_preferred":[
         "Nuuk"
     ],
     "name:bul_x_preferred":[
@@ -54,16 +90,40 @@
     "name:cat_x_preferred":[
         "Nuuk"
     ],
+    "name:cdo_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ceb_x_preferred":[
+        "Nuuk"
+    ],
     "name:ces_x_preferred":[
+        "Nuuk"
+    ],
+    "name:cha_x_preferred":[
         "Nuuk"
     ],
     "name:che_x_preferred":[
         "\u041d\u0443\u0443\u043a"
     ],
+    "name:cho_x_preferred":[
+        "Nuuk"
+    ],
+    "name:chr_x_preferred":[
+        "Nuuk"
+    ],
     "name:chv_x_preferred":[
         "\u041d\u0443\u0443\u043a"
     ],
+    "name:chy_x_preferred":[
+        "Nuuk"
+    ],
     "name:cos_x_preferred":[
+        "Nuuk"
+    ],
+    "name:cre_x_preferred":[
+        "Nuuk"
+    ],
+    "name:csb_x_preferred":[
         "Nuuk"
     ],
     "name:cym_x_preferred":[
@@ -84,11 +144,20 @@
     "name:diq_x_preferred":[
         "Nuuk"
     ],
+    "name:dsb_x_preferred":[
+        "Nuuk"
+    ],
+    "name:dtp_x_preferred":[
+        "Nuuk"
+    ],
     "name:ell_x_preferred":[
         "Nuuk (Godth\u00e5b)"
     ],
     "name:ell_x_variant":[
         "\u039d\u03bf\u03c5\u03bf\u03cd\u03ba"
+    ],
+    "name:eml_x_preferred":[
+        "Nuuk"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -105,16 +174,28 @@
     "name:eus_x_preferred":[
         "Nuuk"
     ],
+    "name:ewe_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ext_x_preferred":[
+        "Nuuk"
+    ],
     "name:fao_x_preferred":[
         "Nuuk"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u06a9"
     ],
+    "name:fij_x_preferred":[
+        "Nuuk"
+    ],
     "name:fin_x_preferred":[
         "Nuuk (Godth\u00e5b)"
     ],
     "name:fin_x_variant":[
+        "Nuuk"
+    ],
+    "name:fit_x_preferred":[
         "Nuuk"
     ],
     "name:fra_x_preferred":[
@@ -123,10 +204,25 @@
     "name:fra_x_variant":[
         "Nuuk"
     ],
+    "name:frp_x_preferred":[
+        "Nuuk"
+    ],
     "name:frr_x_preferred":[
         "Nuuk"
     ],
     "name:fry_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ful_x_preferred":[
+        "Nuuk"
+    ],
+    "name:fur_x_preferred":[
+        "Nuuk"
+    ],
+    "name:gag_x_preferred":[
+        "Nuuk"
+    ],
+    "name:gla_x_preferred":[
         "Nuuk"
     ],
     "name:gle_x_preferred":[
@@ -138,16 +234,46 @@
     "name:glv_x_preferred":[
         "Nuuk"
     ],
+    "name:got_x_preferred":[
+        "Nuuk"
+    ],
+    "name:grn_x_preferred":[
+        "Nuuk"
+    ],
+    "name:gsw_x_preferred":[
+        "Nuuk"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac2\u0a95"
+    ],
+    "name:hak_x_preferred":[
+        "Nuuk"
+    ],
+    "name:hat_x_preferred":[
+        "Nuuk"
+    ],
+    "name:hau_x_preferred":[
+        "Nuuk"
+    ],
+    "name:haw_x_preferred":[
+        "Nuuk"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d0\u05d5\u05e7"
     ],
+    "name:her_x_preferred":[
+        "Nuuk"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u0941\u0915"
     ],
+    "name:hmo_x_preferred":[
+        "Nuuk"
+    ],
     "name:hrv_x_preferred":[
+        "Nuuk"
+    ],
+    "name:hsb_x_preferred":[
         "Nuuk"
     ],
     "name:hun_x_preferred":[
@@ -156,8 +282,14 @@
     "name:hye_x_preferred":[
         "\u0546\u0578\u0582\u0578\u0582\u056f"
     ],
+    "name:ibo_x_preferred":[
+        "Nuuk"
+    ],
     "name:ido_x_preferred":[
         "Godthab"
+    ],
+    "name:ido_x_variant":[
+        "Nuuk"
     ],
     "name:iku_x_preferred":[
         "\u14c5\u1483"
@@ -165,7 +297,16 @@
     "name:ile_x_preferred":[
         "Nuuk"
     ],
+    "name:ilo_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ina_x_preferred":[
+        "Nuuk"
+    ],
     "name:ind_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ipk_x_preferred":[
         "Nuuk"
     ],
     "name:isl_x_preferred":[
@@ -177,8 +318,23 @@
     "name:ita_x_variant":[
         "Nuuk"
     ],
+    "name:jam_x_preferred":[
+        "Nuuk"
+    ],
+    "name:jav_x_preferred":[
+        "Nuuk"
+    ],
+    "name:jbo_x_preferred":[
+        "Nuuk"
+    ],
     "name:jpn_x_preferred":[
         "\u30cc\u30fc\u30af"
+    ],
+    "name:kaa_x_preferred":[
+        "Nuuk"
+    ],
+    "name:kab_x_preferred":[
+        "Nuuk"
     ],
     "name:kal_x_preferred":[
         "Nuuk"
@@ -189,8 +345,17 @@
     "name:kat_x_preferred":[
         "\u10dc\u10e3\u10e3\u10d9\u10d8"
     ],
+    "name:kau_x_preferred":[
+        "Nuuk"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u0443\u0443\u043a"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04af\u04af\u043a"
+    ],
+    "name:kik_x_preferred":[
+        "Nuuk"
     ],
     "name:kin_x_preferred":[
         "Nuuk"
@@ -198,8 +363,23 @@
     "name:kom_x_preferred":[
         "\u041d\u0443\u043a"
     ],
+    "name:kon_x_preferred":[
+        "Nuuk"
+    ],
     "name:kor_x_preferred":[
         "\ub204\ud06c"
+    ],
+    "name:krj_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ksh_x_preferred":[
+        "Nuuk"
+    ],
+    "name:kua_x_preferred":[
+        "Nuuk"
+    ],
+    "name:kur_x_preferred":[
+        "Nuuk"
     ],
     "name:lad_x_preferred":[
         "Nuuk"
@@ -210,17 +390,50 @@
     "name:lav_x_preferred":[
         "N\u016bka"
     ],
+    "name:lfn_x_preferred":[
+        "Nuuk"
+    ],
+    "name:lij_x_preferred":[
+        "Nuuk"
+    ],
+    "name:lim_x_preferred":[
+        "Nuuk"
+    ],
+    "name:lin_x_preferred":[
+        "Nuuk"
+    ],
     "name:lit_x_preferred":[
         "Nukas"
     ],
+    "name:lmo_x_preferred":[
+        "Nuuk"
+    ],
+    "name:loz_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ltg_x_preferred":[
+        "Nuuk"
+    ],
     "name:ltz_x_preferred":[
+        "Nuuk"
+    ],
+    "name:lus_x_preferred":[
+        "Nuuk"
+    ],
+    "name:lzz_x_preferred":[
         "Nuuk"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0942\u0915"
     ],
+    "name:min_x_preferred":[
+        "Nuuk"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u0443\u043a"
+    ],
+    "name:mlt_x_preferred":[
+        "Nuuk"
     ],
     "name:mon_x_preferred":[
         "\u041d\u0443\u0443\u043a"
@@ -231,7 +444,28 @@
     "name:msa_x_preferred":[
         "Nuuk"
     ],
+    "name:mus_x_preferred":[
+        "Nuuk"
+    ],
+    "name:mwl_x_preferred":[
+        "Nuuk"
+    ],
     "name:nah_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nan_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nap_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nau_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nav_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ndo_x_preferred":[
         "Nuuk"
     ],
     "name:nds_x_preferred":[
@@ -255,14 +489,32 @@
     "name:nov_x_preferred":[
         "Nuuk"
     ],
+    "name:nrm_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nso_x_preferred":[
+        "Nuuk"
+    ],
+    "name:nya_x_preferred":[
+        "Nuuk"
+    ],
     "name:oci_x_preferred":[
         "Nuuk"
     ],
     "name:ori_x_preferred":[
         "\u0b28\u0b41\u0b15"
     ],
+    "name:orm_x_preferred":[
+        "Nuuk"
+    ],
     "name:oss_x_preferred":[
         "\u041d\u0443\u0443\u043a"
+    ],
+    "name:pag_x_preferred":[
+        "Nuuk"
+    ],
+    "name:pam_x_preferred":[
+        "Nuuk"
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a42\u0a15"
@@ -271,6 +523,15 @@
         "Nuuk"
     ],
     "name:pcd_x_preferred":[
+        "Nuuk"
+    ],
+    "name:pdc_x_preferred":[
+        "Nuuk"
+    ],
+    "name:pdt_x_preferred":[
+        "Nuuk"
+    ],
+    "name:pfl_x_preferred":[
         "Nuuk"
     ],
     "name:pih_x_preferred":[
@@ -288,7 +549,28 @@
     "name:por_x_preferred":[
         "Nuuk"
     ],
+    "name:prg_x_preferred":[
+        "Nuuk"
+    ],
+    "name:que_x_preferred":[
+        "Nuuk"
+    ],
+    "name:qug_x_preferred":[
+        "Nuuk"
+    ],
+    "name:rif_x_preferred":[
+        "Nuuk"
+    ],
+    "name:rmy_x_preferred":[
+        "Nuuk"
+    ],
+    "name:roh_x_preferred":[
+        "Nuuk"
+    ],
     "name:ron_x_preferred":[
+        "Nuuk"
+    ],
+    "name:run_x_preferred":[
         "Nuuk"
     ],
     "name:rup_x_preferred":[
@@ -297,13 +579,25 @@
     "name:rus_x_preferred":[
         "\u041d\u0443\u0443\u043a"
     ],
+    "name:sag_x_preferred":[
+        "Nuuk"
+    ],
     "name:sah_x_preferred":[
         "\u041d\u0443\u0443\u043a"
+    ],
+    "name:sat_x_preferred":[
+        "Nuuk"
     ],
     "name:scn_x_preferred":[
         "Nuuk"
     ],
     "name:sco_x_preferred":[
+        "Nuuk"
+    ],
+    "name:sdc_x_preferred":[
+        "Nuuk"
+    ],
+    "name:sei_x_preferred":[
         "Nuuk"
     ],
     "name:sgs_x_preferred":[
@@ -312,13 +606,31 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd6\u0d9a\u0dca"
     ],
+    "name:sli_x_preferred":[
+        "Nuuk"
+    ],
     "name:slk_x_preferred":[
         "Nuuk"
     ],
     "name:slv_x_preferred":[
         "Nuuk"
     ],
+    "name:sma_x_preferred":[
+        "Nuuk"
+    ],
     "name:sme_x_preferred":[
+        "Nuuk"
+    ],
+    "name:smo_x_preferred":[
+        "Nuuk"
+    ],
+    "name:sna_x_preferred":[
+        "Nuuk"
+    ],
+    "name:som_x_preferred":[
+        "Nuuk"
+    ],
+    "name:sot_x_preferred":[
         "Nuuk"
     ],
     "name:spa_x_preferred":[
@@ -327,8 +639,17 @@
     "name:sqi_x_preferred":[
         "Nuuk"
     ],
+    "name:srd_x_preferred":[
+        "Nuuk"
+    ],
+    "name:srn_x_preferred":[
+        "Nuuk"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0443\u043a"
+    ],
+    "name:stq_x_preferred":[
+        "Nuuk"
     ],
     "name:swa_x_preferred":[
         "Nuuk"
@@ -337,6 +658,12 @@
         "Nuuk (Godth\u00e5b)"
     ],
     "name:swe_x_variant":[
+        "Nuuk"
+    ],
+    "name:szl_x_preferred":[
+        "Nuuk"
+    ],
+    "name:tah_x_preferred":[
         "Nuuk"
     ],
     "name:tam_x_preferred":[
@@ -348,14 +675,35 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42\u0c15\u0c4d"
     ],
+    "name:tet_x_preferred":[
+        "Nuuk"
+    ],
     "name:tgl_x_preferred":[
         "Nuuk"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e38\u0e01"
     ],
+    "name:ton_x_preferred":[
+        "Nuuk"
+    ],
+    "name:tpi_x_preferred":[
+        "Nuuk"
+    ],
+    "name:tru_x_preferred":[
+        "Nuuk"
+    ],
+    "name:tsn_x_preferred":[
+        "Nuuk"
+    ],
+    "name:tso_x_preferred":[
+        "Nuuk"
+    ],
     "name:tuk_x_preferred":[
         "Nuk"
+    ],
+    "name:tum_x_preferred":[
+        "Nuuk"
     ],
     "name:tur_x_preferred":[
         "Nuuk"
@@ -372,10 +720,43 @@
     "name:uzb_x_preferred":[
         "Nuuk"
     ],
+    "name:vec_x_preferred":[
+        "Nuuk"
+    ],
+    "name:ven_x_preferred":[
+        "Nuuk"
+    ],
+    "name:vep_x_preferred":[
+        "Nuuk"
+    ],
     "name:vie_x_preferred":[
         "Nuuk"
     ],
+    "name:vls_x_preferred":[
+        "Nuuk"
+    ],
+    "name:vmf_x_preferred":[
+        "Nuuk"
+    ],
+    "name:vol_x_preferred":[
+        "Nuuk"
+    ],
+    "name:vot_x_preferred":[
+        "Nuuk"
+    ],
     "name:war_x_preferred":[
+        "Nuuk"
+    ],
+    "name:wln_x_preferred":[
+        "Nuuk"
+    ],
+    "name:wol_x_preferred":[
+        "Nuuk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u514b"
+    ],
+    "name:xho_x_preferred":[
         "Nuuk"
     ],
     "name:xmf_x_preferred":[
@@ -387,8 +768,17 @@
     "name:yue_x_preferred":[
         "\u52aa\u514b"
     ],
+    "name:zea_x_preferred":[
+        "Nuuk"
+    ],
+    "name:zha_x_preferred":[
+        "Nuuk"
+    ],
     "name:zho_x_preferred":[
         "\u52aa\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Nuuk"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greenland",
@@ -533,7 +923,7 @@
         }
     ],
     "wof:id":101870623,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577521,
     "wof:megacity":0,
     "wof:name":"Nuuk",
     "wof:parent_id":85684729,

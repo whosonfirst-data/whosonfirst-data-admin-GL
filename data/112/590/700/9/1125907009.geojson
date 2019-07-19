@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Pituffik"
     ],
+    "name:ceb_x_preferred":[
+        "Pituffik"
+    ],
     "name:ces_x_preferred":[
         "Pituffik"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Thule"
+    ],
+    "name:eng_x_variant":[
+        "Pituffik"
     ],
     "name:fra_x_preferred":[
         "Pituffik"
@@ -62,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Pituffik"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u52d2"
     ],
     "qs_pg:aaroncc":"GL",
     "qs_pg:gn_country":"GL",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1125907009,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577542,
     "wof:name":"Dundas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

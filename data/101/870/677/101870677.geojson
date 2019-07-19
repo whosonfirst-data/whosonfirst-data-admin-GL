@@ -39,6 +39,9 @@
     "name:ita_x_preferred":[
         "Savissivik"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d3\u30b7\u30d3\u30fc\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d5\u10d8\u10e1\u10d8\u10d5\u10d8\u10d9\u10d8"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Savissivik"
+    ],
+    "name:swe_x_variant":[
+        "Siorapaluk"
     ],
     "name:unk_x_variant":[
         "Sowallick Point"
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":101870677,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577524,
     "wof:name":"Savissivik",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

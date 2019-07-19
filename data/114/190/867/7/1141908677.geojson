@@ -17,13 +17,22 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0643\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u062c"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u0643\u064a\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u0643"
+    ],
     "name:ast_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
+    ],
     "name:cat_x_preferred":[
+        "Qeqertarsuaq"
+    ],
+    "name:ceb_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:ces_x_preferred":[
@@ -45,6 +54,9 @@
         "Qeqertarsuaq"
     ],
     "name:fra_x_preferred":[
+        "Qeqertarsuaq"
+    ],
+    "name:frr_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:hun_x_preferred":[
@@ -77,6 +89,9 @@
     "name:nob_x_preferred":[
         "Qeqertarsuaq"
     ],
+    "name:olo_x_preferred":[
+        "Qeqertarsuaq"
+    ],
     "name:pol_x_preferred":[
         "Qeqertarsuaq"
     ],
@@ -95,8 +110,14 @@
     "name:swe_x_preferred":[
         "Qeqertarsuaq"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e40\u0e01\u0e23\u0e4c\u0e15\u0e32\u0e23\u0e4c\u0e0b\u0e39\u0e2d\u0e32\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Qeqertarsuaq"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u51f1\u5854\u8607\u74e6\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greenland",
@@ -215,7 +236,7 @@
         }
     ],
     "wof:id":1141908677,
-    "wof:lastmodified":1561840672,
+    "wof:lastmodified":1563577555,
     "wof:name":"Qeqertasuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

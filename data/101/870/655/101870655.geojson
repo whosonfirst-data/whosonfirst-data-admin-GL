@@ -32,8 +32,14 @@
     "name:fra_x_preferred":[
         "Nuugaatsiaq"
     ],
+    "name:iku_x_preferred":[
+        "\u14c5\u1491\u1466\u14ef\u140a\u1585"
+    ],
     "name:ita_x_preferred":[
         "Nuugaatsiaq"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30fc\u30ac\u30fc\u30c8\u30b7\u30e5\u30a2\u30af"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10e3\u10e3\u10d2\u10d0\u10d0\u10e2\u10e1\u10d8\u10d0\u10d9\u10d8"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":101870655,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577524,
     "wof:name":"Nuugaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

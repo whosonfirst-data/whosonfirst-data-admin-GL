@@ -20,11 +20,17 @@
     "name:cat_x_preferred":[
         "Narsarmijit"
     ],
+    "name:ceb_x_preferred":[
+        "Narsaq"
+    ],
     "name:ces_x_preferred":[
         "Narsarmijit"
     ],
     "name:dan_x_preferred":[
         "Frederiksdal"
+    ],
+    "name:dan_x_variant":[
+        "Narsarmijit"
     ],
     "name:deu_x_preferred":[
         "Friedrichstal"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":101870575,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577510,
     "wof:name":"Narsarmijit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0633\u064a\u0633\u0648\u0627\u0631\u0633\u0648\u064a\u062a"
     ],
+    "name:ceb_x_preferred":[
+        "Kitsissuarsuit"
+    ],
     "name:ces_x_preferred":[
         "Kitsissuarsuit"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Kitsissuarsuit"
+    ],
+    "name:iku_x_preferred":[
+        "\u146d\u1466\u14ef\u1505\u14f1\u140a\u1550\u14f1\u1403\u1466"
     ],
     "name:ita_x_preferred":[
         "Kitsissuarsuit"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":101870729,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577535,
     "wof:name":"Kitsissuarsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

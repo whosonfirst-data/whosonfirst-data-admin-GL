@@ -23,6 +23,9 @@
     "name:dan_x_preferred":[
         "Kap Hope"
     ],
+    "name:dan_x_variant":[
+        "Itterajivit"
+    ],
     "name:eng_x_preferred":[
         "Itterajivit"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101870591,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577518,
     "wof:name":"Ittaajimmiit",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

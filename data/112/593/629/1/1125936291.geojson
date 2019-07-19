@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0631\u0633\u0648\u0627\u062a\u0633\u064a\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Kangersuatsiaq"
+    ],
     "name:ces_x_preferred":[
         "Kangersuatsiaq"
     ],
     "name:dan_x_preferred":[
         "Pr\u00f8ven"
+    ],
+    "name:dan_x_variant":[
+        "Kangersuatsiaq"
     ],
     "name:deu_x_preferred":[
         "Kangersuatsiaq"
@@ -35,6 +41,9 @@
         "Kangersuatsiaq"
     ],
     "name:fra_x_preferred":[
+        "Kangersuatsiaq"
+    ],
+    "name:isl_x_preferred":[
         "Kangersuatsiaq"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125936291,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577537,
     "wof:name":"Kangersuatsiaq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

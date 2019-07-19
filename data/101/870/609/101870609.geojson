@@ -21,10 +21,16 @@
     "name:ang_x_preferred":[
         "S\u016b\u00feern Str\u0113amfl\u0113ot"
     ],
+    "name:ang_x_variant":[
+        "Kangerlussuaq"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0631\u0644\u0648\u0633\u0648\u0627\u0643"
     ],
     "name:cat_x_preferred":[
+        "Kangerlussuaq"
+    ],
+    "name:ceb_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:ces_x_preferred":[
@@ -46,6 +52,9 @@
         "Kangerdlugssuaq"
     ],
     "name:eng_x_preferred":[
+        "Kangerlussuaq"
+    ],
+    "name:fin_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:fra_x_preferred":[
@@ -236,7 +245,7 @@
         }
     ],
     "wof:id":101870609,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577531,
     "wof:name":"Kangerlussuaq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

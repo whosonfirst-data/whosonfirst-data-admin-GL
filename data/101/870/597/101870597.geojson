@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Maniitsoq"
     ],
+    "name:ceb_x_preferred":[
+        "Maniitsoq"
+    ],
     "name:ces_x_preferred":[
         "Maniitsoq"
     ],
@@ -51,6 +54,9 @@
         "Maniitsoq"
     ],
     "name:fra_x_preferred":[
+        "Maniitsoq"
+    ],
+    "name:frr_x_preferred":[
         "Maniitsoq"
     ],
     "name:heb_x_preferred":[
@@ -116,6 +122,9 @@
     "name:unk_x_variant":[
         "Manitsoq"
     ],
+    "name:zho_x_preferred":[
+        "\u746a\u5c3c\u7279\u7d22\u514b"
+    ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Qeqqata Kommunia",
     "qs:a1r":"0",
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":101870597,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577516,
     "wof:name":"Maniitsoq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

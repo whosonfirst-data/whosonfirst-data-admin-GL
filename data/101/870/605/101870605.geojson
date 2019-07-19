@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Itilleq"
     ],
+    "name:ceb_x_preferred":[
+        "Itilleq"
+    ],
     "name:ces_x_preferred":[
         "Itilleq"
     ],
@@ -63,6 +66,9 @@
         "Itilleq"
     ],
     "name:nor_x_preferred":[
+        "Itilleq"
+    ],
+    "name:olo_x_preferred":[
         "Itilleq"
     ],
     "name:pol_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101870605,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577505,
     "wof:name":"Itilleq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

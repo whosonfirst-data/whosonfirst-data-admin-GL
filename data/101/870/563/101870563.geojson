@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Igaliku"
     ],
+    "name:iku_x_preferred":[
+        "\u1403\u1490\u14d5\u146f"
+    ],
     "name:isl_x_preferred":[
         "Igaliku"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101870563,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577516,
     "wof:name":"Igaliku",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

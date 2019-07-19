@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Sisimiut"
     ],
+    "name:ceb_x_preferred":[
+        "Sisimiut"
+    ],
     "name:ces_x_preferred":[
         "Sisimiut"
     ],
@@ -66,10 +69,16 @@
     "name:fra_x_preferred":[
         "Sisimiut"
     ],
+    "name:frr_x_preferred":[
+        "Sisimiut"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05e1\u05d9\u05de\u05d9\u05d5\u05d8"
     ],
     "name:hun_x_preferred":[
+        "Sisimiut"
+    ],
+    "name:ind_x_preferred":[
         "Sisimiut"
     ],
     "name:isl_x_preferred":[
@@ -80,6 +89,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30b7\u30df\u30a6\u30c8"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30b7\u30df\u30e5\u30fc\u30c8"
     ],
     "name:kal_x_preferred":[
         "Sisimiut"
@@ -96,16 +108,25 @@
     "name:lat_x_preferred":[
         "Sisimiut"
     ],
+    "name:lav_x_preferred":[
+        "Sisimiuta"
+    ],
     "name:lit_x_preferred":[
         "Sisimiutas"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0441\u0438\u043c\u0438\u0443\u0442"
     ],
+    "name:nah_x_preferred":[
+        "Sisimiut"
+    ],
     "name:nld_x_preferred":[
         "Sisimiut"
     ],
     "name:nno_x_preferred":[
+        "Sisimiut"
+    ],
+    "name:nob_x_preferred":[
         "Sisimiut"
     ],
     "name:nor_x_preferred":[
@@ -132,7 +153,13 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u0441\u0438\u043c\u0458\u0443\u0442"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u0441\u0438\u043c\u0438\u0458\u0443\u0442"
+    ],
     "name:swe_x_preferred":[
+        "Sisimiut"
+    ],
+    "name:tur_x_preferred":[
         "Sisimiut"
     ],
     "name:ukr_x_preferred":[
@@ -140,6 +167,9 @@
     ],
     "name:unk_x_variant":[
         "Amerdlok"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0633\u06cc\u0645\u06cc\u0648\u062a"
     ],
     "name:zho_x_preferred":[
         "\u897f\u897f\u7f2a\u7279"
@@ -284,7 +314,7 @@
         }
     ],
     "wof:id":101870601,
-    "wof:lastmodified":1544750722,
+    "wof:lastmodified":1563577528,
     "wof:name":"Sisimiut",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",
