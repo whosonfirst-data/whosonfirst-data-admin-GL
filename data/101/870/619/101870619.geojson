@@ -77,6 +77,9 @@
     "name:swe_x_preferred":[
         "Isortoq"
     ],
+    "name:swe_x_variant":[
+        "Isertoq"
+    ],
     "name:unk_x_variant":[
         "Isertoq"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101870619,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577500,
     "wof:name":"Isortoq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

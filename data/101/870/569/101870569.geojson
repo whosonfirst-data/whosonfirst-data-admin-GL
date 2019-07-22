@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Alluitsup Paa"
     ],
+    "name:ceb_x_preferred":[
+        "Alluitsup Paa"
+    ],
     "name:ces_x_preferred":[
         "Alluitsup Paa"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043b\u0443\u0438\u0442\u0441\u0443\u043f-\u041f\u0430\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u043b\u0443\u0438\u0442\u0441\u0443\u043f \u041f\u0430\u0430"
     ],
     "name:spa_x_preferred":[
         "Alluitsup Paa"
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":101870569,
-    "wof:lastmodified":1561840668,
+    "wof:lastmodified":1563577492,
     "wof:name":"Alluitsup Paa",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

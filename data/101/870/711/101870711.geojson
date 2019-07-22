@@ -27,6 +27,9 @@
     "name:bel_x_variant":[
         "\u041a\u0430\u0441\u044b\u0433\u0456\u044f\u043d\u0433\u0443\u0456\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Qasigiannguit"
+    ],
     "name:ces_x_preferred":[
         "Qasigiannguit"
     ],
@@ -46,6 +49,9 @@
         "Qasigiannguit"
     ],
     "name:fra_x_preferred":[
+        "Qasigiannguit"
+    ],
+    "name:frr_x_preferred":[
         "Qasigiannguit"
     ],
     "name:ind_x_preferred":[
@@ -98,6 +104,9 @@
     ],
     "name:unk_x_variant":[
         "Kasigianguit"
+    ],
+    "name:vie_x_preferred":[
+        "Qasigiannguit"
     ],
     "name:zho_x_preferred":[
         "\u5361\u897f\u6c5f\u5409\u7279"
@@ -242,7 +251,7 @@
         }
     ],
     "wof:id":101870711,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577534,
     "wof:name":"Qasigiannguit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

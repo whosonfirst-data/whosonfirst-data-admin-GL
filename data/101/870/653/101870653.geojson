@@ -41,6 +41,9 @@
     "name:ita_x_preferred":[
         "Illorsuit"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ed\u30eb\u30b9\u30a4\u30c8"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10da\u10dd\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Illorsuit"
+    ],
+    "name:swe_x_variant":[
+        "Innaarsuit"
     ],
     "name:unk_x_variant":[
         "Igdlorssuit"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":101870653,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577529,
     "wof:name":"Illorsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

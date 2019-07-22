@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Saqqaq"
     ],
+    "name:ceb_x_preferred":[
+        "Saqqaq"
+    ],
     "name:ces_x_preferred":[
         "Saqqaq"
     ],
@@ -35,8 +38,14 @@
     "name:fra_x_preferred":[
         "Saqqaq"
     ],
+    "name:iku_x_preferred":[
+        "\u14f4\u1585\u1583\u1585"
+    ],
     "name:ita_x_preferred":[
         "Saqqaq"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ab\u30c3\u30af"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d9\u10d0\u10d9\u10d8"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101870701,
-    "wof:lastmodified":1561840668,
+    "wof:lastmodified":1563577493,
     "wof:name":"Saqqaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

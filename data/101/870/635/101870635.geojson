@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Ikamiut"
     ],
+    "name:iku_x_preferred":[
+        "\u1403\u1472\u14a5\u1405\u1466"
+    ],
     "name:ita_x_preferred":[
         "Ikamiut"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101870635,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577507,
     "wof:name":"Ikamiut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

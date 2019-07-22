@@ -20,6 +20,9 @@
     "name:bar_x_preferred":[
         "Attu"
     ],
+    "name:ceb_x_preferred":[
+        "Attu"
+    ],
     "name:ces_x_preferred":[
         "Attu"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Attu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30c4"
     ],
     "name:kal_x_preferred":[
         "Attu"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":101870633,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577505,
     "wof:name":"Attu",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

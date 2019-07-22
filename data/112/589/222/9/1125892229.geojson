@@ -40,6 +40,12 @@
     "name:ita_x_preferred":[
         "Napasoq"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d1\u30bd\u30c3\u30af"
+    ],
+    "name:kal_x_preferred":[
+        "Napasoq"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10de\u10d0\u10e1\u10dd\u10d9\u10d8"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Napasoq"
+    ],
+    "name:pol_x_variant":[
+        "Diskofjord"
     ],
     "name:por_x_preferred":[
         "Napasoq"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125892229,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577540,
     "wof:name":"Napasoq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

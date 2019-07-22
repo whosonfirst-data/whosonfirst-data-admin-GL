@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Eqalugaarsuit"
     ],
+    "name:ceb_x_preferred":[
+        "Eqalugaarsuit"
+    ],
     "name:ces_x_preferred":[
         "Eqalugaarsuit"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101870551,
-    "wof:lastmodified":1561840668,
+    "wof:lastmodified":1563577491,
     "wof:name":"Eqalugaarsuit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

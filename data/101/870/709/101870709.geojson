@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Ilimanaq"
     ],
+    "name:ces_x_preferred":[
+        "Ilimanaq"
+    ],
     "name:dan_x_preferred":[
         "Ilimanaq"
     ],
@@ -35,8 +38,20 @@
     "name:ita_x_preferred":[
         "Ilimanaq"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30de\u30ca\u30af"
+    ],
+    "name:kal_x_preferred":[
+        "Ilimanaq"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10da\u10d8\u10db\u10d0\u10dc\u10d0\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ilimanaq"
+    ],
+    "name:nob_x_preferred":[
+        "Ilimanaq"
     ],
     "name:nor_x_preferred":[
         "Ilimanaq"
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":101870709,
-    "wof:lastmodified":1544750778,
+    "wof:lastmodified":1563577495,
     "wof:name":"Ilimanaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

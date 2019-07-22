@@ -48,6 +48,9 @@
     "name:fra_x_preferred":[
         "Uummannaq"
     ],
+    "name:frr_x_preferred":[
+        "Uummannaq"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05d0\u05e0\u05d0\u05e7"
     ],
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":101870643,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577498,
     "wof:name":"Uummannaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

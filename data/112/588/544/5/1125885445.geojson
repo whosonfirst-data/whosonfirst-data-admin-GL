@@ -61,6 +61,9 @@
     "name:spa_x_preferred":[
         "Kangerluk"
     ],
+    "name:spa_x_variant":[
+        "Ammassalik"
+    ],
     "name:swe_x_preferred":[
         "Kangerluk"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125885445,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577540,
     "wof:name":"Diskofjord",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

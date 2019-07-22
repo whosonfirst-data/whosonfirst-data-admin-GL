@@ -24,10 +24,16 @@
     "name:ast_x_preferred":[
         "Qaanaaq"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0430\u043d\u0430\u0430\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0430\u043d\u0430\u0430\u043a"
     ],
     "name:cat_x_preferred":[
+        "Qaanaaq"
+    ],
+    "name:ceb_x_preferred":[
         "Qaanaaq"
     ],
     "name:ces_x_preferred":[
@@ -58,6 +64,9 @@
         "Qaanaaq"
     ],
     "name:fra_x_preferred":[
+        "Qaanaaq"
+    ],
+    "name:frr_x_preferred":[
         "Qaanaaq"
     ],
     "name:hbs_x_preferred":[
@@ -95,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub099"
+    ],
+    "name:lit_x_preferred":[
+        "Kanakas"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043a"
@@ -281,7 +293,7 @@
         }
     ],
     "wof:id":101870687,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577502,
     "wof:name":"Qaanaaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Nanortalik"
     ],
+    "name:ceb_x_preferred":[
+        "Nanortalik"
+    ],
     "name:ces_x_preferred":[
         "Nanortalik"
     ],
@@ -38,7 +41,13 @@
     "name:eng_x_preferred":[
         "Nanortalik"
     ],
+    "name:fin_x_preferred":[
+        "Nanortalik"
+    ],
     "name:fra_x_preferred":[
+        "Nanortalik"
+    ],
+    "name:frr_x_preferred":[
         "Nanortalik"
     ],
     "name:isl_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101870723,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577512,
     "wof:name":"Nanortalik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

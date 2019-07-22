@@ -58,6 +58,9 @@
     "name:swe_x_preferred":[
         "Danmarkshavn"
     ],
+    "name:zho_x_preferred":[
+        "\u4e39\u9ea5\u6e2f"
+    ],
     "qs_pg:aaroncc":"GL",
     "qs_pg:gn_country":"GL",
     "qs_pg:gn_fcode":"STNM",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125820241,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577545,
     "wof:name":"Danmarkshavn",
     "wof:parent_id":85684705,
     "wof:placetype":"locality",

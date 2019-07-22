@@ -52,6 +52,9 @@
     "name:pol_x_preferred":[
         "Kangerluk"
     ],
+    "name:pol_x_variant":[
+        "Tasiusaq"
+    ],
     "name:por_x_preferred":[
         "Kangerluk"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101870647,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577519,
     "wof:name":"Kangerluk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ammassivik"
     ],
+    "name:iku_x_preferred":[
+        "\u140a\u14bb\u14aa\u1505\u14ef\u1555\u1483"
+    ],
     "name:ita_x_preferred":[
         "Ammassivik"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101870567,
-    "wof:lastmodified":1561840668,
+    "wof:lastmodified":1563577493,
     "wof:name":"Ammassivik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0645\u064a\u0644\u064a\u062c\u0627\u0643"
     ],
+    "name:cat_x_preferred":[
+        "Sermiligaaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Sermiligaaq"
+    ],
     "name:ces_x_preferred":[
         "Sermiligaaq"
     ],
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":101870611,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1563577504,
     "wof:name":"Sermiligaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

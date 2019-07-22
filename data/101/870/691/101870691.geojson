@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Nuussuaq"
     ],
+    "name:ceb_x_preferred":[
+        "Nuussuaq"
+    ],
     "name:ces_x_preferred":[
         "Nuussuaq"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Nuussuaq"
+    ],
+    "name:iku_x_preferred":[
+        "\u14c5\u1505\u14f1\u140a\u1585"
     ],
     "name:ita_x_preferred":[
         "Nuussuaq"
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":101870691,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577528,
     "wof:name":"Nuussuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

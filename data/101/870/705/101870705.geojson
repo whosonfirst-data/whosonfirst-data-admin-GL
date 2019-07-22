@@ -32,10 +32,19 @@
     "name:eng_x_preferred":[
         "Oqaitsut"
     ],
+    "name:eng_x_variant":[
+        "Oqaatsut"
+    ],
     "name:fra_x_preferred":[
         "Oqaatsut"
     ],
     "name:ita_x_preferred":[
+        "Oqaatsut"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ab\u30fc\u30c8\u30b9\u30c8"
+    ],
+    "name:kal_x_preferred":[
         "Oqaatsut"
     ],
     "name:kat_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101870705,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577514,
     "wof:name":"Oqaatsut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

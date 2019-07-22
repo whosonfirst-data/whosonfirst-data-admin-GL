@@ -26,7 +26,13 @@
     "name:ast_x_preferred":[
         "Ittoqqortoormiit"
     ],
+    "name:bak_x_preferred":[
+        "\u0418\u043b\u043b\u043e\u043a\u043a\u043e\u0440\u0442\u043e\u043e\u0440\u043c\u0438\u0443\u0442"
+    ],
     "name:cat_x_preferred":[
+        "Ittoqqortoormiit"
+    ],
+    "name:ceb_x_preferred":[
         "Ittoqqortoormiit"
     ],
     "name:ces_x_preferred":[
@@ -55,6 +61,9 @@
     ],
     "name:fra_x_variant":[
         "Ittoqqortoormiit"
+    ],
+    "name:frr_x_preferred":[
+        "Illoqqortoormiut"
     ],
     "name:glg_x_preferred":[
         "Ittoqqortoormiit"
@@ -128,6 +137,9 @@
     "name:spa_x_preferred":[
         "Ittoqqortoormiit"
     ],
+    "name:srp_x_preferred":[
+        "\u0418\u0442\u043e\u043a\u043e\u0440\u0442\u043e\u0440\u043c\u0438\u0442"
+    ],
     "name:swe_x_preferred":[
         "Ittoqqortoormiit"
     ],
@@ -136,6 +148,9 @@
     ],
     "name:unk_x_variant":[
         "Scoresby Sound"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u65af\u6bd4\u9b06"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Kommuneqarfik Sermersooq",
@@ -185,7 +200,7 @@
         }
     ],
     "wof:id":101870589,
-    "wof:lastmodified":1561840670,
+    "wof:lastmodified":1563577512,
     "wof:name":"Illoqqortoormiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Moriusaq"
     ],
+    "name:eng_x_preferred":[
+        "Moriusaq"
+    ],
     "name:fra_x_preferred":[
         "Moriusaq"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e0\u10d8\u10e3\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Moriusaq"
+    ],
+    "name:nob_x_preferred":[
+        "Moriusaq"
     ],
     "name:nor_x_preferred":[
         "Moriusaq"
@@ -53,8 +62,14 @@
     "name:spa_x_preferred":[
         "Moriusaq"
     ],
+    "name:swe_x_preferred":[
+        "Moriusaq"
+    ],
     "name:unk_x_variant":[
         "Man\u00fbssaq"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7ea6\u8d5b\u514b"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Qaasuitsup Kommunia",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":101870689,
-    "wof:lastmodified":1544750767,
+    "wof:lastmodified":1563577500,
     "wof:name":"Moriusaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

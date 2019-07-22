@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0410\u0442\u0430\u043c\u0438\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Atammik"
+    ],
+    "name:ceb_x_preferred":[
+        "Atammik"
+    ],
     "name:ces_x_preferred":[
         "Atammik"
     ],
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":101870607,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1563577530,
     "wof:name":"Atammik",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",
