@@ -25,6 +25,42 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:dan_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:deu_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:fra_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:ita_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10dd\u10e0\u10e1\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:pol_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:por_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u043b\u043e\u0440\u0441\u0443\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Illorsuit"
+    ],
+    "name:swe_x_preferred":[
+        "Illorsuit"
+    ],
     "name:und_x_variant":[
         "Igdlorssuit",
         "Illorsuit"
@@ -59,7 +95,7 @@
         }
     ],
     "wof:id":1310412113,
-    "wof:lastmodified":1537623864,
+    "wof:lastmodified":1564216124,
     "wof:name":"Illorsuit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

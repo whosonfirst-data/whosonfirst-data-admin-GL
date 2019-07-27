@@ -25,6 +25,30 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kangeq"
+    ],
+    "name:dan_x_preferred":[
+        "Kangeq"
+    ],
+    "name:deu_x_preferred":[
+        "Kangeq"
+    ],
+    "name:fin_x_preferred":[
+        "Kangeq"
+    ],
+    "name:nor_x_preferred":[
+        "Kangeq"
+    ],
+    "name:pol_x_preferred":[
+        "Kangeq"
+    ],
+    "name:por_x_preferred":[
+        "Kangeq"
+    ],
+    "name:spa_x_preferred":[
+        "Kangeq"
+    ],
     "name:und_x_variant":[
         "Kangek",
         "Kangeq"
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209606839,
-    "wof:lastmodified":1537623863,
+    "wof:lastmodified":1564216122,
     "wof:name":"Kangeq",
     "wof:parent_id":85633217,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Qullissat"
+    ],
+    "name:dan_x_preferred":[
+        "Qullissat"
+    ],
+    "name:deu_x_preferred":[
+        "Qullissat"
+    ],
+    "name:fra_x_preferred":[
+        "Qullissat"
+    ],
+    "name:ita_x_preferred":[
+        "Qullissat"
+    ],
+    "name:nor_x_preferred":[
+        "Qullissat"
+    ],
+    "name:pol_x_preferred":[
+        "Qullissat"
+    ],
+    "name:por_x_preferred":[
+        "Qullissat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u043b\u0438\u0441\u0441\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Qullissat"
+    ],
     "name:und_x_variant":[
         "Kutdligssat",
         "Qutdligssat",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293521339,
-    "wof:lastmodified":1537623860,
+    "wof:lastmodified":1564216115,
     "wof:name":"Qullissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
