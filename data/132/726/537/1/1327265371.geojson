@@ -25,6 +25,12 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ataa"
+    ],
+    "name:ita_x_preferred":[
+        "Ataa"
+    ],
     "name:und_x_variant":[
         "At\u00e2",
         "Ataa"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327265371,
-    "wof:lastmodified":1537623865,
+    "wof:lastmodified":1564216111,
     "wof:name":"Ataa",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

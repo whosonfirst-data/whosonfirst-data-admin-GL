@@ -25,6 +25,15 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Myggbukta"
+    ],
+    "name:nno_x_preferred":[
+        "Myggbukta"
+    ],
+    "name:nor_x_preferred":[
+        "Myggbukta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1293794257,
-    "wof:lastmodified":1537563066,
+    "wof:lastmodified":1564216115,
     "wof:name":"Myggbukta",
     "wof:parent_id":85684705,
     "wof:placetype":"locality",

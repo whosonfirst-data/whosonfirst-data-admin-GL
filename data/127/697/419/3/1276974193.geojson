@@ -25,11 +25,26 @@
     "iso:country":"GL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skjoldungen"
+    ],
     "name:dan_x_preferred":[
+        "Skjoldungen"
+    ],
+    "name:deu_x_preferred":[
+        "Skjoldungen"
+    ],
+    "name:ita_x_preferred":[
         "Skjoldungen"
     ],
     "name:kal_x_preferred":[
         "Saqqisikuik"
+    ],
+    "name:pol_x_preferred":[
+        "Skjoldungen"
+    ],
+    "name:swe_x_preferred":[
+        "Skjoldungen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276974193,
-    "wof:lastmodified":1537623859,
+    "wof:lastmodified":1564216120,
     "wof:name":"Skjoldungen",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",
