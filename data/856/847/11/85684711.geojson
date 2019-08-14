@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KU"
+    ],
     "lbl:latitude":61.651005,
     "lbl:longitude":-44.365572,
     "mps:latitude":61.651005,
@@ -187,7 +190,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1553550776,
+    "wof:lastmodified":1565712738,
     "wof:name":"Kommune Kujalleq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

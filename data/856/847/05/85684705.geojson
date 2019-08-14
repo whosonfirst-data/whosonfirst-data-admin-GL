@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unorganized territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UO"
+    ],
     "lbl:latitude":77.291773,
     "lbl:longitude":-37.142487,
     "mps:latitude":77.291773,
@@ -78,7 +81,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1553550793,
+    "wof:lastmodified":1565712737,
     "wof:name":"Nuna Allanngutsaaaliugaq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

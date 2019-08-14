@@ -14,6 +14,9 @@
     "itu:country_code":[
         "299"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GL"
+    ],
     "lbl:latitude":74.319379,
     "lbl:longitude":-39.335081,
     "mps:latitude":74.319379,
@@ -944,16 +947,13 @@
         }
     ],
     "wof:id":85633217,
-    "wof:lang":[
-        "dan"
-    ],
     "wof:lang_x_official":[
         "kal"
     ],
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1563577476,
+    "wof:lastmodified":1565712729,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

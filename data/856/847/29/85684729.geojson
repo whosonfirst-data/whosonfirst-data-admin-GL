@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":68.06955,
     "lbl:longitude":-40.751087,
     "mps:latitude":68.06955,
@@ -166,7 +169,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1553550798,
+    "wof:lastmodified":1565712738,
     "wof:name":"Kommuneqarfik Sermersooq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

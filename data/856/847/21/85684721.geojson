@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QS"
+    ],
     "lbl:latitude":75.421625,
     "lbl:longitude":-51.678839,
     "mps:latitude":75.421625,
@@ -175,7 +178,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1553550792,
+    "wof:lastmodified":1565712739,
     "wof:name":"Qaasuitsup Kommunia",
     "wof:parent_id":85633217,
     "wof:placetype":"region",
