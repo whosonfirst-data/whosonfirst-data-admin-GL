@@ -11,8 +11,11 @@
     "geom:longitude":-49.666669,
     "gn:population":1862,
     "iso:country":"GL",
+    "lbl:bbox":"-49.686669,61.980004,-49.646669,62.020004",
     "lbl:latitude":62.000004,
     "lbl:longitude":-49.666669,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":62.000004,
     "mps:longitude":-49.666669,
     "mz:hierarchy_label":1,
@@ -132,9 +135,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0430\u043c\u0456\u0443\u0442"
     ],
-    "name:unk_x_variant":[
-        "Frederiksh\u00e5b"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u7f2a\u7279"
     ],
@@ -247,7 +247,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.995556,
     "wd:longitude":-49.663611,
@@ -262,7 +262,6 @@
     "wof:concordances":{
         "gn:id":3421193,
         "gp:id":472852,
-        "qs:id":1044560,
         "qs_pg:id":1044560,
         "wd:id":"Q545767",
         "wk:page":"Paamiut"
@@ -278,7 +277,7 @@
         }
     ],
     "wof:id":101870625,
-    "wof:lastmodified":1563577518,
+    "wof:lastmodified":1566638829,
     "wof:name":"Paamiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

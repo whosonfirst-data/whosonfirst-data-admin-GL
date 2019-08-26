@@ -11,12 +11,16 @@
     "geom:longitude":-51.900001,
     "gn:population":195,
     "iso:country":"GL",
+    "lbl:bbox":"-51.920001,71.030003,-51.880001,71.070003",
     "lbl:latitude":71.050003,
     "lbl:longitude":-51.900001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":71.050003,
     "mps:longitude":-51.900001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ukkusissat"
     ],
@@ -71,7 +75,7 @@
     "name:swe_x_preferred":[
         "Ukkusissat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uvkusigssat"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":461,
     "wof:belongsto":[
@@ -103,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3418991,
         "gp:id":473092,
-        "qs:id":583128,
         "qs_pg:id":583128,
         "wd:id":"Q2086912",
         "wk:page":"Ukkusissat"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101870695,
-    "wof:lastmodified":1563577508,
+    "wof:lastmodified":1566638827,
     "wof:name":"Ukkusissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"-37.66667,65.63333,-37.66667,65.63333",
     "geom:latitude":65.63333,
     "geom:longitude":-37.66667,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3068,
+    "gn:country":"GL",
+    "gn:fcode":"ADM3",
     "gn:population":3068,
     "iso:country":"GL",
+    "lbl:bbox":"-37.76667,65.53333,-37.56667,65.73333",
     "lbl:latitude":65.63333,
     "lbl:longitude":-37.66667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Ammassalik Kommune"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tasiilap Kommunia"
     ],
     "qs_pg:aaroncc":"GL",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":95532,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125421849,
-    "wof:lastmodified":1509390497,
+    "wof:lastmodified":1566638836,
     "wof:name":"Ammassallip Kommunia",
     "wof:parent_id":85684729,
     "wof:placetype":"localadmin",

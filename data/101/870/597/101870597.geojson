@@ -11,12 +11,16 @@
     "geom:longitude":-52.899998,
     "gn:population":2866,
     "iso:country":"GL",
+    "lbl:bbox":"-52.919998,65.396664,-52.879998,65.436664",
     "lbl:latitude":65.416664,
     "lbl:longitude":-52.899998,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.416664,
     "mps:longitude":-52.899998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u062a\u0633\u0648\u0643"
     ],
@@ -119,7 +123,7 @@
     "name:swe_x_preferred":[
         "Maniitsoq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manitsoq"
     ],
     "name:zho_x_preferred":[
@@ -142,7 +146,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":65.416667,
     "wd:longitude":-52.9,
@@ -157,7 +161,6 @@
     "wof:concordances":{
         "gn:id":3421982,
         "gp:id":472940,
-        "qs:id":53870,
         "qs_pg:id":53870,
         "wd:id":"Q847691",
         "wk:page":"Maniitsoq"
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101870597,
-    "wof:lastmodified":1563577516,
+    "wof:lastmodified":1566638829,
     "wof:name":"Maniitsoq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

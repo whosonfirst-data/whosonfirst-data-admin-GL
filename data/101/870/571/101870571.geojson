@@ -11,12 +11,16 @@
     "geom:longitude":-44.820558,
     "gn:population":90,
     "iso:country":"GL",
+    "lbl:bbox":"-44.840558,60.19112,-44.800558,60.23112",
     "lbl:latitude":60.21112,
     "lbl:longitude":-44.820558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":60.21112,
     "mps:longitude":-44.820558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Tasiusaq"
     ],
@@ -59,7 +63,7 @@
     "name:spa_x_preferred":[
         "Tasiusaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tasiussaq"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -90,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3419379,
         "gp:id":473055,
-        "qs:id":1044555,
         "qs_pg:id":1044555,
         "wd:id":"Q736994",
         "wk:page":"Tasiusaq, Kujalleq"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101870571,
-    "wof:lastmodified":1561840671,
+    "wof:lastmodified":1566638833,
     "wof:name":"Tasiusaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

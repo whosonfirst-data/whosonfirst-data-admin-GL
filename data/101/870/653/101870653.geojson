@@ -11,12 +11,16 @@
     "geom:longitude":-53.56667,
     "gn:population":97,
     "iso:country":"GL",
+    "lbl:bbox":"-53.58667,71.213338,-53.54667,71.253338",
     "lbl:latitude":71.233338,
     "lbl:longitude":-53.56667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":71.233338,
     "mps:longitude":-53.56667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Illorsuit"
     ],
@@ -74,7 +78,7 @@
     "name:swe_x_variant":[
         "Innaarsuit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Igdlorssuit"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -106,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3423179,
         "gp:id":472884,
-        "qs:id":583175,
         "qs_pg:id":583175,
         "wd:id":"Q2336616",
         "wk:page":"Illorsuit"
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101870653,
-    "wof:lastmodified":1563577529,
+    "wof:lastmodified":1566638832,
     "wof:name":"Illorsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

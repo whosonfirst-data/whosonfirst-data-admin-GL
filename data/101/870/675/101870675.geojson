@@ -11,8 +11,11 @@
     "geom:longitude":-57.16583,
     "gn:population":408,
     "iso:country":"GL",
+    "lbl:bbox":"-57.18583,74.557945,-57.14583,74.597945",
     "lbl:latitude":74.577945,
     "lbl:longitude":-57.16583,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":74.577945,
     "mps:longitude":-57.16583,
     "mz:hierarchy_label":1,
@@ -81,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u043b\u043e\u0440\u0441\u0443\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuvdlorssuak"
     ],
     "ne:ADM0CAP":0.0,
@@ -193,7 +196,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":793,
     "wof:belongsto":[
@@ -205,7 +208,6 @@
     "wof:concordances":{
         "gn:id":3422228,
         "gp:id":472932,
-        "qs:id":1044577,
         "qs_pg:id":1044577,
         "wd:id":"Q669016",
         "wk:page":"Kullorsuaq"
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":101870675,
-    "wof:lastmodified":1563577497,
+    "wof:lastmodified":1566638824,
     "wof:name":"Kullorsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-51.116665,
     "gn:population":4413,
     "iso:country":"GL",
+    "lbl:bbox":"-51.136665,69.196667,-51.096665,69.236667",
     "lbl:latitude":69.216667,
     "lbl:longitude":-51.116665,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":69.216667,
     "mps:longitude":-51.116665,
     "mz:hierarchy_label":1,
@@ -168,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0443\u043b\u0456\u0441\u0441\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilulisat"
     ],
     "name:xmf_x_preferred":[
@@ -286,7 +289,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":69.216667,
     "wd:longitude":-51.1,
@@ -301,10 +304,12 @@
     "wof:concordances":{
         "gn:id":3423146,
         "gp:id":472886,
-        "qs:id":274301,
-        "qs_pg:id":421916,
+        "qs_pg:id":274301,
         "wd:id":"Q191047",
         "wk:page":"Ilulissat"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":421916
     },
     "wof:country":"GL",
     "wof:geomhash":"901b63adb036817ba7541355c7072310",
@@ -317,7 +322,7 @@
         }
     ],
     "wof:id":101870707,
-    "wof:lastmodified":1563577497,
+    "wof:lastmodified":1566638824,
     "wof:name":"Ilulissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

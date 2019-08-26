@@ -11,12 +11,16 @@
     "geom:longitude":-51.354566,
     "gn:population":286,
     "iso:country":"GL",
+    "lbl:bbox":"-51.374566,70.488271,-51.334566,70.528271",
     "lbl:latitude":70.508271,
     "lbl:longitude":-51.354566,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":70.508271,
     "mps:longitude":-51.354566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ikerasak"
     ],
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
     "wof:belongsto":[
@@ -103,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3423260,
         "gp:id":472874,
-        "qs:id":583202,
         "qs_pg:id":583202,
         "wd:id":"Q747426",
         "wk:page":"Ikerasak"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101870731,
-    "wof:lastmodified":1563577496,
+    "wof:lastmodified":1566638824,
     "wof:name":"Ikerasak",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

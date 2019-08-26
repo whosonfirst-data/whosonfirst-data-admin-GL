@@ -9,20 +9,23 @@
     "geom:bbox":"-48.0,69.5,-48.0,69.5",
     "geom:latitude":69.5,
     "geom:longitude":-48.0,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4842,
+    "gn:country":"GL",
+    "gn:fcode":"ADM3",
     "gn:population":4842,
     "iso:country":"GL",
+    "lbl:bbox":"-48.1,69.4,-47.9,69.6",
     "lbl:latitude":69.5,
     "lbl:longitude":-48.0,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Ilulissat Kommune"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jakobshavn"
     ],
     "qs_pg:aaroncc":"GL",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":95522,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125371393,
-    "wof:lastmodified":1509389328,
+    "wof:lastmodified":1566638837,
     "wof:name":"Ilulissat Kommuniat",
     "wof:parent_id":85684721,
     "wof:placetype":"localadmin",

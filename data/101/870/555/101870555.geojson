@@ -11,8 +11,11 @@
     "geom:longitude":-45.416668,
     "gn:population":154,
     "iso:country":"GL",
+    "lbl:bbox":"-45.436668,61.163335,-45.396668,61.203335",
     "lbl:latitude":61.183335,
     "lbl:longitude":-45.416668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":61.183335,
     "mps:longitude":-45.416668,
     "mz:hierarchy_label":1,
@@ -99,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0441\u0441\u0430\u0440\u0441\u0441\u0443\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Narsarssuak"
     ],
     "name:zho_x_preferred":[
@@ -214,7 +217,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":624,
     "wof:belongsto":[
@@ -226,10 +229,12 @@
     "wof:concordances":{
         "gn:id":3421711,
         "gp:id":472955,
-        "qs:id":228708,
         "qs_pg:id":219147,
         "wd:id":"Q59168",
         "wk:page":"Narsarsuaq"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":228708
     },
     "wof:country":"GL",
     "wof:geomhash":"081c98b2b1ceb3cd1837b4ff9fe03198",
@@ -242,7 +247,7 @@
         }
     ],
     "wof:id":101870555,
-    "wof:lastmodified":1563577515,
+    "wof:lastmodified":1566638828,
     "wof:name":"Narsarsuaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

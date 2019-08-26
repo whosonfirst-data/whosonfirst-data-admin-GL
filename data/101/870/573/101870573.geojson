@@ -10,12 +10,16 @@
     "geom:latitude":60.169574,
     "geom:longitude":-44.324753,
     "iso:country":"GL",
+    "lbl:bbox":"-44.344753,60.149574,-44.304753,60.189574",
     "lbl:latitude":60.169574,
     "lbl:longitude":-44.324753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.169574,
     "mps:longitude":-44.324753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aappilattoq"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0430\u043f\u043f\u0456\u043b\u0430\u0442\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Augpilagtoq"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":445,
     "wof:belongsto":[
         102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":101870573,
-    "wof:lastmodified":1563577514,
+    "wof:lastmodified":1566638828,
     "wof:name":"Aappilattoq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

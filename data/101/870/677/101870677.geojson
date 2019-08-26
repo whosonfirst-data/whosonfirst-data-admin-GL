@@ -11,8 +11,11 @@
     "geom:longitude":-65.083328,
     "gn:population":82,
     "iso:country":"GL",
+    "lbl:bbox":"-65.103328,75.996661,-65.063328,76.036661",
     "lbl:latitude":76.016661,
     "lbl:longitude":-65.083328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":76.016661,
     "mps:longitude":-65.083328,
     "mz:hierarchy_label":1,
@@ -72,7 +75,7 @@
     "name:swe_x_variant":[
         "Siorapaluk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sowallick Point"
     ],
     "ne:ADM0CAP":0.0,
@@ -184,7 +187,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -196,7 +199,6 @@
     "wof:concordances":{
         "gn:id":3831146,
         "gp:id":473035,
-        "qs:id":585444,
         "qs_pg:id":585444,
         "wd:id":"Q740795",
         "wk:page":"Savissivik"
@@ -212,7 +214,7 @@
         }
     ],
     "wof:id":101870677,
-    "wof:lastmodified":1563577524,
+    "wof:lastmodified":1566638831,
     "wof:name":"Savissivik",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

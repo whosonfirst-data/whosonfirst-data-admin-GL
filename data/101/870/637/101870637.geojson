@@ -11,12 +11,16 @@
     "geom:longitude":-52.360993,
     "gn:population":107,
     "iso:country":"GL",
+    "lbl:bbox":"-52.380993,68.723872,-52.340993,68.763872",
     "lbl:latitude":68.743872,
     "lbl:longitude":-52.360993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":68.743872,
     "mps:longitude":-52.360993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u0443\u043d\u0430\u0430\u043a"
     ],
@@ -89,7 +93,7 @@
     "name:swe_x_preferred":[
         "Akunnaaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ak\u00fan\u00e2q"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -109,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -121,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3424720,
         "gp:id":472816,
-        "qs:id":1044585,
         "qs_pg:id":1044585,
         "wd:id":"Q2068708",
         "wk:page":"Akunnaaq"
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101870637,
-    "wof:lastmodified":1563577526,
+    "wof:lastmodified":1566638831,
     "wof:name":"Akunnaaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

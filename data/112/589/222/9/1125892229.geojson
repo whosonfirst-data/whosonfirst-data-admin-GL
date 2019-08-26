@@ -9,15 +9,18 @@
     "geom:bbox":"-52.4,65.05,-52.4,65.05",
     "geom:latitude":65.05,
     "geom:longitude":-52.4,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":99,
+    "gn:country":"GL",
+    "gn:fcode":"PPL",
     "gn:population":99,
     "iso:country":"GL",
+    "lbl:bbox":"-52.42,65.03,-52.38,65.07",
     "lbl:latitude":65.05,
     "lbl:longitude":-52.4,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Napasoq"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Napasoq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Napassoq"
     ],
     "qs_pg:aaroncc":"GL",
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":1044575,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125892229,
-    "wof:lastmodified":1563577540,
+    "wof:lastmodified":1566638836,
     "wof:name":"Napasoq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

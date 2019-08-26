@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Godthab",
     "iso:country":"GL",
+    "lbl:bbox":"-37.93667,65.73,-37.89667,65.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243384979,
-    "wof:lastmodified":1536894011,
+    "wof:lastmodified":1566638842,
     "wof:name":"Ukiverajik",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

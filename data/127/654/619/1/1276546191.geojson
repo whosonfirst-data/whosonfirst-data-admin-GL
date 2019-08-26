@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Godthab",
     "iso:country":"GL",
+    "lbl:bbox":"-52.78667,69.36333,-52.74667,69.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kitdlusat",
         "Qigdl\u00fbssat",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276546191,
-    "wof:lastmodified":1537623863,
+    "wof:lastmodified":1566638819,
     "wof:name":"Kigdlussat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

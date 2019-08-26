@@ -11,8 +11,11 @@
     "geom:longitude":-37.183335,
     "gn:population":312,
     "iso:country":"GL",
+    "lbl:bbox":"-37.203335,65.546665,-37.163335,65.586665",
     "lbl:latitude":65.566665,
     "lbl:longitude":-37.183335,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":65.566665,
     "mps:longitude":-37.183335,
     "mz:hierarchy_label":1,
@@ -101,9 +104,6 @@
     ],
     "name:swe_x_preferred":[
         "Kulusuk"
-    ],
-    "name:unk_x_variant":[
-        "Qulusuk"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u76e7\u8607\u514b"
@@ -217,7 +217,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1449,
     "wof:belongsto":[
@@ -229,10 +229,12 @@
     "wof:concordances":{
         "gn:id":3422225,
         "gp:id":472933,
-        "qs:id":1044576,
         "qs_pg:id":421917,
         "wd:id":"Q588549",
         "wk:page":"Kulusuk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044576
     },
     "wof:country":"GL",
     "wof:geomhash":"cfef0e459ef4c2e92760054cc660fc92",
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":101870579,
-    "wof:lastmodified":1563577533,
+    "wof:lastmodified":1566638833,
     "wof:name":"Kulusuk",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

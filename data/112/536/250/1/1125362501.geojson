@@ -9,20 +9,23 @@
     "geom:bbox":"-53.75,69.96667,-53.75,69.96667",
     "geom:latitude":69.96667,
     "geom:longitude":-53.75,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1025,
+    "gn:country":"GL",
+    "gn:fcode":"ADM3",
     "gn:population":1025,
     "iso:country":"GL",
+    "lbl:bbox":"-53.85,69.86667,-53.65,70.06667",
     "lbl:latitude":69.96667,
     "lbl:longitude":-53.75,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:kal_x_preferred":[
         "Qeqertarsuup Kommunia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Godhavn District"
     ],
     "qs_pg:aaroncc":"GL",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":95509,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125362501,
-    "wof:lastmodified":1509389115,
+    "wof:lastmodified":1566638838,
     "wof:name":"Qeqertarsuaq Kommune",
     "wof:parent_id":85684721,
     "wof:placetype":"localadmin",

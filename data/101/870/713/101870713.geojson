@@ -11,12 +11,16 @@
     "geom:longitude":-53.466664,
     "gn:population":680,
     "iso:country":"GL",
+    "lbl:bbox":"-53.486664,68.296666,-53.446664,68.336666",
     "lbl:latitude":68.316666,
     "lbl:longitude":-53.466664,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":68.316666,
     "mps:longitude":-53.466664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kangaatsiaq"
     ],
@@ -92,7 +96,7 @@
     "name:swe_x_preferred":[
         "Kangaatsiaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kangatsiak"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -112,7 +116,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":68.306944,
     "wd:longitude":-53.463611,
@@ -127,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3422683,
         "gp:id":472905,
-        "qs:id":211219,
         "qs_pg:id":211219,
         "wd:id":"Q612160",
         "wk:page":"Kangaatsiaq"
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101870713,
-    "wof:lastmodified":1563577510,
+    "wof:lastmodified":1566638827,
     "wof:name":"Kangaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

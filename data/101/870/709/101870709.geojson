@@ -11,12 +11,16 @@
     "geom:longitude":-51.116665,
     "gn:population":84,
     "iso:country":"GL",
+    "lbl:bbox":"-51.136665,69.063328,-51.096665,69.103328",
     "lbl:latitude":69.083328,
     "lbl:longitude":-51.116665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":69.083328,
     "mps:longitude":-51.116665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ilimanaq"
     ],
@@ -71,7 +75,7 @@
     "name:swe_x_preferred":[
         "Ilimanaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilulisat"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":277,
     "wof:belongsto":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3424108,
         "gp:id":472840,
-        "qs:id":1044582,
+        "qs_pg:id":1044582,
         "wd:id":"Q1020305",
         "wk:page":"Ilimanaq"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101870709,
-    "wof:lastmodified":1563577495,
+    "wof:lastmodified":1566638824,
     "wof:name":"Ilimanaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

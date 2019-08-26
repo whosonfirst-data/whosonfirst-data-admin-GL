@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Godthab",
     "iso:country":"GL",
+    "lbl:bbox":"-52.30333,65.16333,-52.26333,65.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ikerasak"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1310698991,
-    "wof:lastmodified":1564216126,
+    "wof:lastmodified":1566638822,
     "wof:name":"Ikerasak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
