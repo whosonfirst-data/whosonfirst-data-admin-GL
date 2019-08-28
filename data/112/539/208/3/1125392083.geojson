@@ -9,20 +9,23 @@
     "geom:bbox":"-52.75,68.66667,-52.75,68.66667",
     "geom:latitude":68.66667,
     "geom:longitude":-52.75,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3330,
+    "gn:country":"GL",
+    "gn:fcode":"ADM3",
     "gn:population":3330,
     "iso:country":"GL",
+    "lbl:bbox":"-52.85,68.56667,-52.65,68.76667",
     "lbl:latitude":68.66667,
     "lbl:longitude":-52.75,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Aasiaat Kommune"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aasiaat"
     ],
     "qs_pg:aaroncc":"GL",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":95533,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125392083,
-    "wof:lastmodified":1509389844,
+    "wof:lastmodified":1566638837,
     "wof:name":"Aasiaat Kommuniat",
     "wof:parent_id":85684721,
     "wof:placetype":"localadmin",

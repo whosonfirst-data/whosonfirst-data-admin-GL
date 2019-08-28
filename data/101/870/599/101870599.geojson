@@ -11,12 +11,16 @@
     "geom:longitude":-53.350003,
     "gn:population":396,
     "iso:country":"GL",
+    "lbl:bbox":"-53.370003,65.813336,-53.330003,65.853336",
     "lbl:latitude":65.833336,
     "lbl:longitude":-53.350003,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":65.833336,
     "mps:longitude":-53.350003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0627\u0645\u064a\u0648\u062a"
     ],
@@ -77,7 +81,7 @@
     "name:swe_x_preferred":[
         "Kangaamiut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Old Sukkertoppen"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":206,
     "wof:belongsto":[
@@ -109,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3422700,
         "gp:id":472903,
-        "qs:id":147769,
         "qs_pg:id":147769,
         "wd:id":"Q251714",
         "wk:page":"Kangaamiut"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101870599,
-    "wof:lastmodified":1563577515,
+    "wof:lastmodified":1566638829,
     "wof:name":"Kangaamiut",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

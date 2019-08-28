@@ -11,12 +11,16 @@
     "geom:longitude":-53.183334,
     "gn:population":103,
     "iso:country":"GL",
+    "lbl:bbox":"-53.203334,68.130002,-53.163334,68.170002",
     "lbl:latitude":68.150002,
     "lbl:longitude":-53.183334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":68.150002,
     "mps:longitude":-53.183334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Iginniarfik"
     ],
@@ -65,7 +69,7 @@
     "name:swe_x_preferred":[
         "Iginniarfik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ig\u00edniarfik"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -85,7 +89,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -97,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3423337,
         "gp:id":472863,
-        "qs:id":1044580,
         "qs_pg:id":1044580,
         "wd:id":"Q2291045",
         "wk:page":"Iginniarfik"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101870719,
-    "wof:lastmodified":1563577532,
+    "wof:lastmodified":1566638833,
     "wof:name":"Iginniarfik",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

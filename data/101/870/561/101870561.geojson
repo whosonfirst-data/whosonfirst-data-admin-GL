@@ -11,12 +11,16 @@
     "geom:longitude":-46.048855,
     "gn:population":1633,
     "iso:country":"GL",
+    "lbl:bbox":"-46.068855,60.934487,-46.028855,60.974487",
     "lbl:latitude":60.954487,
     "lbl:longitude":-46.048855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.954487,
     "mps:longitude":-46.048855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0633\u0627\u0643"
     ],
@@ -110,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0441\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Narsak"
     ],
     "name:zho_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.912222,
     "wd:longitude":-46.048611,
@@ -148,10 +152,12 @@
     "wof:concordances":{
         "gn:id":3423771,
         "gp:id":472952,
-        "qs:id":95518,
-        "qs_pg:id":95528,
+        "qs_pg:id":95518,
         "wd:id":"Q432397",
         "wk:page":"Narsaq"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":95528
     },
     "wof:country":"GL",
     "wof:geomhash":"e60025359321e652642902f5f65d0d6a",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":101870561,
-    "wof:lastmodified":1563577494,
+    "wof:lastmodified":1566638823,
     "wof:name":"Narsaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

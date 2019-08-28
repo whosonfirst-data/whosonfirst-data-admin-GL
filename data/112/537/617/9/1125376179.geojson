@@ -9,20 +9,23 @@
     "geom:bbox":"-51.75,65.5,-51.75,65.5",
     "geom:latitude":65.5,
     "geom:longitude":-51.75,
-    "gn:gn_country":"GL",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3587,
+    "gn:country":"GL",
+    "gn:fcode":"ADM3",
     "gn:population":3587,
     "iso:country":"GL",
+    "lbl:bbox":"-51.85,65.4,-51.65,65.6",
     "lbl:latitude":65.5,
     "lbl:longitude":-51.75,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:kal_x_preferred":[
         "Maniitsup Kommunia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sukkertoppen District"
     ],
     "qs_pg:aaroncc":"GL",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":583167,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125376179,
-    "wof:lastmodified":1509389464,
+    "wof:lastmodified":1566638837,
     "wof:name":"Maniitsoq Kommune",
     "wof:parent_id":85684717,
     "wof:placetype":"localadmin",

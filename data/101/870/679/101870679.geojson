@@ -11,12 +11,16 @@
     "geom:longitude":-66.694611,
     "gn:population":18,
     "iso:country":"GL",
+    "lbl:bbox":"-66.714611,77.478512,-66.674611,77.518512",
     "lbl:latitude":77.498512,
     "lbl:longitude":-66.694611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":77.498512,
     "mps:longitude":-66.694611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0643\u064a\u0631\u062a\u0627\u062a"
     ],
@@ -68,7 +72,7 @@
     "name:swe_x_preferred":[
         "Qeqertat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kekertat"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -100,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3831180,
         "gp:id":473011,
-        "qs:id":585465,
         "qs_pg:id":585465,
         "wd:id":"Q1020284",
         "wk:page":"Qeqertat"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101870679,
-    "wof:lastmodified":1563577523,
+    "wof:lastmodified":1566638830,
     "wof:name":"Qeqertat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

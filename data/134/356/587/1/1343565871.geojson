@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Godthab",
     "iso:country":"GL",
+    "lbl:bbox":"-51.70333,70.54667,-51.66333,70.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00dbm\u00e1natsiaq",
         "Umanatsiak",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1343565871,
-    "wof:lastmodified":1537623858,
+    "wof:lastmodified":1566638806,
     "wof:name":"Uummannatsiaq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

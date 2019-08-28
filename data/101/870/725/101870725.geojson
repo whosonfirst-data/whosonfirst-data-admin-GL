@@ -11,12 +11,16 @@
     "geom:longitude":-46.05,
     "gn:population":48,
     "iso:country":"GL",
+    "lbl:bbox":"-46.07,60.513337,-46.03,60.553337",
     "lbl:latitude":60.533337,
     "lbl:longitude":-46.05,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":60.533337,
     "mps:longitude":-46.05,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Saarloq"
     ],
@@ -68,7 +72,7 @@
     "name:swe_x_preferred":[
         "Saarloq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e2rdloq"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":307,
     "wof:belongsto":[
@@ -103,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3420217,
         "gp:id":472845,
-        "qs:id":95505,
         "qs_pg:id":95505,
         "wd:id":"Q2325431",
         "wk:page":"Saarloq"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101870725,
-    "wof:lastmodified":1561840669,
+    "wof:lastmodified":1566638827,
     "wof:name":"Saarloq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

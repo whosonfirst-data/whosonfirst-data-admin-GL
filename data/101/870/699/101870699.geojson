@@ -11,12 +11,16 @@
     "geom:longitude":-52.649998,
     "gn:population":204,
     "iso:country":"GL",
+    "lbl:bbox":"-52.669998,70.713331,-52.629998,70.753331",
     "lbl:latitude":70.733331,
     "lbl:longitude":-52.649998,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":70.733331,
     "mps:longitude":-52.649998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0633\u0648\u062a"
     ],
@@ -80,7 +84,7 @@
     "name:swe_x_preferred":[
         "Qaarsut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaersut"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -115,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3420937,
         "gp:id":472990,
-        "qs:id":1044569,
         "qs_pg:id":1044569,
         "wd:id":"Q205781",
         "wk:page":"Qaarsut"
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101870699,
-    "wof:lastmodified":1563577525,
+    "wof:lastmodified":1566638831,
     "wof:name":"Qaarsut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

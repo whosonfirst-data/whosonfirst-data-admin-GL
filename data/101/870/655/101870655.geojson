@@ -11,12 +11,16 @@
     "geom:longitude":-53.223445,
     "gn:population":99,
     "iso:country":"GL",
+    "lbl:bbox":"-53.243445,71.517484,-53.203445,71.557484",
     "lbl:latitude":71.537484,
     "lbl:longitude":-53.223445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":71.537484,
     "mps:longitude":-53.223445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Nuugaatsiaq"
     ],
@@ -68,7 +72,7 @@
     "name:swe_x_preferred":[
         "Nuugaatsiaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00fbg\u00e2tsiaq"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -100,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3421327,
         "gp:id":472884,
-        "qs:id":95516,
         "qs_pg:id":95516,
         "wd:id":"Q663104",
         "wk:page":"Nuugaatsiaq"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101870655,
-    "wof:lastmodified":1563577524,
+    "wof:lastmodified":1566638831,
     "wof:name":"Nuugaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

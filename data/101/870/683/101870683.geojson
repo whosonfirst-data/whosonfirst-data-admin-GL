@@ -11,12 +11,16 @@
     "geom:longitude":-70.716675,
     "gn:population":75,
     "iso:country":"GL",
+    "lbl:bbox":"-70.736675,77.763333,-70.696675,77.803333",
     "lbl:latitude":77.783333,
     "lbl:longitude":-70.716675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":77.783333,
     "mps:longitude":-70.716675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Siorapaluk"
     ],
@@ -77,7 +81,7 @@
     "name:swe_x_preferred":[
         "Siorapaluk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Igdluluarssuit"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -109,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3831128,
         "gp:id":473042,
-        "qs:id":585443,
         "qs_pg:id":585443,
         "wd:id":"Q1001361",
         "wk:page":"Siorapaluk"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101870683,
-    "wof:lastmodified":1563577523,
+    "wof:lastmodified":1566638830,
     "wof:name":"Siorapaluk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-51.183335,
     "gn:population":1341,
     "iso:country":"GL",
+    "lbl:bbox":"-51.203335,68.796667,-51.163335,68.836667",
     "lbl:latitude":68.816667,
     "lbl:longitude":-51.183335,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":68.816667,
     "mps:longitude":-51.183335,
     "mz:hierarchy_label":1,
@@ -102,7 +105,7 @@
     "name:swe_x_preferred":[
         "Qasigiannguit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kasigianguit"
     ],
     "name:vie_x_preferred":[
@@ -220,7 +223,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":68.820144,
     "wd:longitude":-51.193242,
@@ -235,7 +238,6 @@
     "wof:concordances":{
         "gn:id":3420768,
         "gp:id":472839,
-        "qs:id":1044558,
         "qs_pg:id":1044558,
         "wd:id":"Q950991",
         "wk:page":"Qasigiannguit"
@@ -251,7 +253,7 @@
         }
     ],
     "wof:id":101870711,
-    "wof:lastmodified":1563577534,
+    "wof:lastmodified":1566638833,
     "wof:name":"Qasigiannguit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

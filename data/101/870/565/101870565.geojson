@@ -11,8 +11,11 @@
     "geom:longitude":-46.044166,
     "gn:population":3224,
     "iso:country":"GL",
+    "lbl:bbox":"-46.064166,60.709364,-46.024166,60.749364",
     "lbl:latitude":60.729364,
     "lbl:longitude":-46.044166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.729364,
     "mps:longitude":-46.044166,
     "mz:hierarchy_label":1,
@@ -150,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043a\u043e\u0440\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Julianehaab"
     ],
     "name:zho_x_preferred":[
@@ -265,7 +268,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.716667,
     "wd:longitude":-46.033333,
@@ -280,10 +283,12 @@
     "wof:concordances":{
         "gn:id":3420846,
         "gp:id":472998,
-        "qs:id":1044559,
         "qs_pg:id":219148,
         "wd:id":"Q221203",
         "wk:page":"Qaqortoq"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044559
     },
     "wof:country":"GL",
     "wof:geomhash":"f4c710a97b5b91777d713abbf13f79bd",
@@ -296,7 +301,7 @@
         }
     ],
     "wof:id":101870565,
-    "wof:lastmodified":1563577517,
+    "wof:lastmodified":1566638829,
     "wof:name":"Qaqortoq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

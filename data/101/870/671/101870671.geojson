@@ -11,8 +11,11 @@
     "geom:longitude":-56.066666,
     "gn:population":247,
     "iso:country":"GL",
+    "lbl:bbox":"-56.086666,73.346667,-56.046666,73.386667",
     "lbl:latitude":73.366667,
     "lbl:longitude":-56.066666,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":73.366667,
     "mps:longitude":-56.066666,
     "mz:hierarchy_label":1,
@@ -72,7 +75,7 @@
     "name:swe_x_preferred":[
         "Tasiusaq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tasiusak"
     ],
     "ne:ADM0CAP":0.0,
@@ -184,7 +187,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -195,7 +198,6 @@
     "wof:concordances":{
         "gn:id":3419378,
         "gp:id":473056,
-        "qs:id":1044554,
         "qs_pg:id":1044554,
         "wd:id":"Q2086866",
         "wk:page":"Tasiusaq, Qaasuitsup"
@@ -211,7 +213,7 @@
         }
     ],
     "wof:id":101870671,
-    "wof:lastmodified":1563577519,
+    "wof:lastmodified":1566638829,
     "wof:name":"Tasiusaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

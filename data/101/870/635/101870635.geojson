@@ -11,12 +11,16 @@
     "geom:longitude":-51.885316,
     "gn:population":92,
     "iso:country":"GL",
+    "lbl:bbox":"-51.905316,68.6098,-51.865316,68.6498",
     "lbl:latitude":68.6298,
     "lbl:longitude":-51.885316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":68.6298,
     "mps:longitude":-51.885316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Ikamiut"
     ],
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -93,7 +97,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3423313,
-        "qs:id":95525,
         "qs_pg:id":95525,
         "wd:id":"Q2336629",
         "wk:page":"Ikamiut"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101870635,
-    "wof:lastmodified":1563577507,
+    "wof:lastmodified":1566638827,
     "wof:name":"Ikamiut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-50.693178,
     "gn:population":556,
     "iso:country":"GL",
+    "lbl:bbox":"-50.713178,66.981796,-50.673178,67.021796",
     "lbl:latitude":67.001796,
     "lbl:longitude":-50.693178,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":67.001796,
     "mps:longitude":-50.693178,
     "mz:hierarchy_label":1,
@@ -217,7 +220,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1133,
     "wof:belongsto":[
@@ -229,7 +232,6 @@
     "wof:concordances":{
         "gn:id":3419714,
         "gp:id":28752649,
-        "qs:id":1238642,
         "qs_pg:id":1238642,
         "wd:id":"Q1007098",
         "wk:page":"Kangerlussuaq"
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":101870609,
-    "wof:lastmodified":1563577531,
+    "wof:lastmodified":1566638833,
     "wof:name":"Kangerlussuaq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",
