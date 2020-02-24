@@ -214,6 +214,10 @@
         "wk:page":"Nuussuaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"5e2a14acb4ec45f37ac1496f7f958891",
     "wof:hierarchy":[
         {
@@ -224,7 +228,7 @@
         }
     ],
     "wof:id":101870691,
-    "wof:lastmodified":1566638832,
+    "wof:lastmodified":1582358139,
     "wof:name":"Nuussuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

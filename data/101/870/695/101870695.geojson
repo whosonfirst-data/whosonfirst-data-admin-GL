@@ -112,6 +112,10 @@
         "wk:page":"Ukkusissat"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9278ce3a92904e3bb666d2f59de46ba",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101870695,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Ukkusissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

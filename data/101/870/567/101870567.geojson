@@ -115,6 +115,9 @@
         "wk:page":"Ammassivik"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53168f4b891bd93479e8f82f29031e0e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101870567,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Ammassivik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

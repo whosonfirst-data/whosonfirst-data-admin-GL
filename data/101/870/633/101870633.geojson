@@ -115,6 +115,10 @@
         "wk:page":"Attu, Greenland"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"24cbfd145349c627c544c4fe03fe1db4",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101870633,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358138,
     "wof:name":"Attu",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

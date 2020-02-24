@@ -109,6 +109,10 @@
         "wk:page":"Tiilerilaaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c3df81dab92a570754ba35772b43112",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101870617,
-    "wof:lastmodified":1566638824,
+    "wof:lastmodified":1582358137,
     "wof:name":"Tiniteqilaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

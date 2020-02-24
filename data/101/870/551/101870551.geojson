@@ -106,6 +106,9 @@
         "wk:page":"Eqalugaarsuit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45fd99d5b37975e60b4ed08d7b18f946",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101870551,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Eqalugaarsuit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

@@ -127,6 +127,10 @@
         "wk:page":"Alluitsup Paa"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d403b1c8b097314bccf91fc0ed22239a",
     "wof:hierarchy":[
         {
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":101870569,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Alluitsup Paa",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

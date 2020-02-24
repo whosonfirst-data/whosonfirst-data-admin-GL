@@ -101,6 +101,9 @@
         "wd:id":"Q2291039"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0077b8ba92a747a53928ca8c75546e86",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101870647,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358138,
     "wof:name":"Kangerluk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

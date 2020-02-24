@@ -169,6 +169,10 @@
         "wk:page":"Qeqertarsuaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab089768cc501c5c0e4d7a7faf256bfd",
     "wof:hierarchy":[
         {
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":101870651,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358138,
     "wof:name":"Qeqertarsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

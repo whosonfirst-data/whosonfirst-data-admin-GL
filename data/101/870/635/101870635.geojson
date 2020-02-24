@@ -102,6 +102,10 @@
         "wk:page":"Ikamiut"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"52abc3f7733cae27f1596a0603addb3c",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":101870635,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Ikamiut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

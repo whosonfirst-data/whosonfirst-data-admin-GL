@@ -110,6 +110,9 @@
         "wd:id":"Q2045888"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c42577ab9ea057664d0a16d6e5a23e6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101870665,
-    "wof:lastmodified":1566638832,
+    "wof:lastmodified":1582358139,
     "wof:name":"Innaarsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

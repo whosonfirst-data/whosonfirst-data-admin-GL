@@ -124,6 +124,10 @@
         "wk:page":"Arsuk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1628f8eadb7b4371440ef283d0342659",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101870627,
-    "wof:lastmodified":1566638825,
+    "wof:lastmodified":1582358137,
     "wof:name":"Arsuk",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

@@ -129,6 +129,10 @@
         "wk:page":"Itilleq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4ed9950dc96fdafc0e6cedf3ebd8a07",
     "wof:hierarchy":[
         {
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":101870605,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358138,
     "wof:name":"Itilleq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

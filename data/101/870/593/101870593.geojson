@@ -117,6 +117,9 @@
         "wd:id":"Q2527977"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c308f44fba4ac7aeb11148ca40f7a09",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101870593,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Uunarteq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

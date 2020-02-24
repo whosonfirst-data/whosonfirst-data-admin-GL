@@ -267,6 +267,10 @@
         "wk:page":"Paamiut"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e765c37950f3b9dcafaae04fd0c83bb",
     "wof:hierarchy":[
         {
@@ -277,7 +281,7 @@
         }
     ],
     "wof:id":101870625,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Paamiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

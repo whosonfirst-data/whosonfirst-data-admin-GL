@@ -124,6 +124,10 @@
         "wk:page":"Atammik"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dfcf04c7d0b182f5032ffe882f5ae6a3",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101870607,
-    "wof:lastmodified":1566638832,
+    "wof:lastmodified":1582358139,
     "wof:name":"Atammik",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

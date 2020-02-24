@@ -118,6 +118,10 @@
         "wk:page":"Igaliku"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6727e359a4a853f348b476e0b584a75",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870563,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Igaliku",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

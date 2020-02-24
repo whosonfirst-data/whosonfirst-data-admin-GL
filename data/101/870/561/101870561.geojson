@@ -160,6 +160,10 @@
         "qs_pg:id":95528
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e60025359321e652642902f5f65d0d6a",
     "wof:hierarchy":[
         {
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":101870561,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Narsaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

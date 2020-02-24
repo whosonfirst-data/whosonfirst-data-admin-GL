@@ -118,6 +118,10 @@
         "wk:page":"Saqqaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"49ed4a9964c4e4b917cb618ebf374bba",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870701,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Saqqaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

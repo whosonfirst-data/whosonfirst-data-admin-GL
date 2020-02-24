@@ -113,6 +113,9 @@
         "wd:id":"Q1020079"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1deb4f52290afc5219b87ce08dcc058",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101870705,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Oqaatsut",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

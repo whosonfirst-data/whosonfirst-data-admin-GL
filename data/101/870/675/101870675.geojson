@@ -192,8 +192,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -213,6 +214,11 @@
         "wk:page":"Kullorsuaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9d7ffefd70cf34e6d90f625b476b01a",
     "wof:hierarchy":[
         {
@@ -223,7 +229,7 @@
         }
     ],
     "wof:id":101870675,
-    "wof:lastmodified":1566638824,
+    "wof:lastmodified":1582358137,
     "wof:name":"Kullorsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

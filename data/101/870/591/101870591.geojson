@@ -86,6 +86,9 @@
         "wk:page":"Itterajivit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4fb9d47707be0ebdc56e38314b85eb65",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101870591,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Ittaajimmiit",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

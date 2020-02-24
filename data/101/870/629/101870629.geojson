@@ -136,6 +136,10 @@
         "wk:page":"Ivittuut"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7511a25c5c3caf6e8b918dcdee91fcbf",
     "wof:hierarchy":[
         {
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":101870629,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358137,
     "wof:name":"Ivittuut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

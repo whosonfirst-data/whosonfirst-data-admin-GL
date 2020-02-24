@@ -112,6 +112,10 @@
         "wk:page":"Ikerasak"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5c35545f97d1d612ef0785505c79c2c",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101870731,
-    "wof:lastmodified":1566638824,
+    "wof:lastmodified":1582358137,
     "wof:name":"Ikerasak",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
