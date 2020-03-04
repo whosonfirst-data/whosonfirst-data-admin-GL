@@ -881,8 +881,7 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes",
-        "naturalearth"
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -954,7 +953,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1582358133,
+    "wof:lastmodified":1583239405,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
