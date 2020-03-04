@@ -109,6 +109,10 @@
         "wk:page":"Qeqertat"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"960f6222f6b27c340dae6baae64da373",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101870679,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358139,
     "wof:name":"Qeqertat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

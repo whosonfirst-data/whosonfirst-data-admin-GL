@@ -249,6 +249,10 @@
         "wk:page":"Tasiilaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"beab3167c0e620fb89ab22bb0279699a",
     "wof:hierarchy":[
         {
@@ -259,7 +263,7 @@
         }
     ],
     "wof:id":101870583,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Tasiilaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

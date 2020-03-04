@@ -148,6 +148,10 @@
         "wk:page":"Nanortalik"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e619b36b968127c3db76df18ab3b29ca",
     "wof:hierarchy":[
         {
@@ -158,7 +162,7 @@
         }
     ],
     "wof:id":101870723,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Nanortalik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

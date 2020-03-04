@@ -193,6 +193,10 @@
         "wk:page":"Ittoqqortoormiit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dacacb6fd6c78a3a3173f4d6fc7b0532",
     "wof:hierarchy":[
         {
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":101870589,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Illoqqortoormiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

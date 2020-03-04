@@ -119,6 +119,9 @@
         "wk:page":"Narsaq Kujalleq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5330a47aef903a8a48f411a1ce4da9b5",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101870575,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Narsarmijit",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

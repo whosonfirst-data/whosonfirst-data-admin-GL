@@ -228,6 +228,7 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg",
         "quattroshapes"
     ],
@@ -252,6 +253,11 @@
         "wk:page":"Uummannaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7dd453cfe4f0ae92529c2edf7d1b8a39",
     "wof:hierarchy":[
         {
@@ -262,7 +268,7 @@
         }
     ],
     "wof:id":101870643,
-    "wof:lastmodified":1566638824,
+    "wof:lastmodified":1582358137,
     "wof:name":"Uummannaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

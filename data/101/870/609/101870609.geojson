@@ -217,6 +217,7 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
+        "naturalearth",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -237,6 +238,11 @@
         "wk:page":"Kangerlussuaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbca1ee26a9759b8a70918ca1b6744d6",
     "wof:hierarchy":[
         {
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":101870609,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Kangerlussuaq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

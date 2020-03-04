@@ -107,6 +107,9 @@
         "wd:id":"Q2337295"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f6b2cda217db56d5a2d8f26b059bc06",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101870729,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Kitsissuarsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

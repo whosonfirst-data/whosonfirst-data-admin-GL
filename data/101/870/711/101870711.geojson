@@ -243,6 +243,10 @@
         "wk:page":"Qasigiannguit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"231ae2dd985cb8e895521a4b6db4fe2e",
     "wof:hierarchy":[
         {
@@ -253,7 +257,7 @@
         }
     ],
     "wof:id":101870711,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Qasigiannguit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

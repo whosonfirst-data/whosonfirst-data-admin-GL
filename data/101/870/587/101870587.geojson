@@ -118,6 +118,10 @@
         "wk:page":"Qeqertarsuatsiaat"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2400f00646972e9e9ae1cad6d1f41e73",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870587,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Qeqertarsuatsiaat",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

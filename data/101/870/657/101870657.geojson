@@ -115,6 +115,10 @@
         "wk:page":"Upernavik Kujalleq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"baffaba4f9ede9528457b2cd8f406bc8",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101870657,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Upernavik Kujalleq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

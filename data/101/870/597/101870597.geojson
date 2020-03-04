@@ -166,6 +166,10 @@
         "wk:page":"Maniitsoq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82fe7e53c1df1991688990fb05e79b04",
     "wof:hierarchy":[
         {
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":101870597,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Maniitsoq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

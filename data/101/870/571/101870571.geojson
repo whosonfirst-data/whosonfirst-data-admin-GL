@@ -99,6 +99,10 @@
         "wk:page":"Tasiusaq, Kujalleq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c707b3088ed1f682ee06f8c129df0f78",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101870571,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Tasiusaq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

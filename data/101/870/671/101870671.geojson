@@ -184,6 +184,7 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
+        "naturalearth",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -203,6 +204,11 @@
         "wk:page":"Tasiusaq, Qaasuitsup"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a21524837ce2d6ef08897416a8aba711",
     "wof:hierarchy":[
         {
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":101870671,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Tasiusaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

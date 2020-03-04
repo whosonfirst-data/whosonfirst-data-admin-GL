@@ -109,6 +109,10 @@
         "wk:page":"Ikerasaarsuk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61014b7773ffa959204ab665a33582b8",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101870717,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Ikerasaarsuk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

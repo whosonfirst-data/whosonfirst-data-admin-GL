@@ -83,6 +83,9 @@
         "wd:id":"Q1019108"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19c205265fff488f2786f0d460ce54ff",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101870581,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Ikkatteq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

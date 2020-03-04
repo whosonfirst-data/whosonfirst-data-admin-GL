@@ -118,6 +118,10 @@
         "wk:page":"Kangaamiut"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b996fd1e50e2b25d98ac04ffbd57ba99",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870599,
-    "wof:lastmodified":1566638829,
+    "wof:lastmodified":1582358138,
     "wof:name":"Kangaamiut",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

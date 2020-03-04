@@ -52,6 +52,9 @@
         "qs_pg:id":7
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bb79bba2b64c4a84656b54b0b284c50",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101870585,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Narsalik",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

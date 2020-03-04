@@ -112,6 +112,10 @@
         "wk:page":"Niaqornaarsuk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82fce93b75e3f1a947fadebd5cca7b1b",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101870715,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Niaqornaarsuk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

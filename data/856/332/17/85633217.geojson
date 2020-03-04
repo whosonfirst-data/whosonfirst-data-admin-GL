@@ -880,8 +880,8 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -933,6 +933,11 @@
     },
     "wof:country":"GL",
     "wof:country_alpha3":"GRL",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"7861b5cc81631b72cbc04c2e1222e009",
     "wof:hierarchy":[
         {
@@ -948,7 +953,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1566638807,
+    "wof:lastmodified":1583239405,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -118,6 +118,10 @@
         "wk:page":"Qeqertaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a6b46adddcf33492ba79e9c79cafdb0",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870641,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358138,
     "wof:name":"Qeqertaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -914,6 +914,11 @@
         "wk:page":"Nuuk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "whosonfirst"
+    ],
     "wof:geomhash":"d2fb4c083dab67554756531bf0aaf6a4",
     "wof:hierarchy":[
         {
@@ -924,7 +929,7 @@
         }
     ],
     "wof:id":101870623,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358138,
     "wof:megacity":0,
     "wof:name":"Nuuk",
     "wof:parent_id":85684729,

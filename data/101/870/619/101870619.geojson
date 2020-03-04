@@ -118,6 +118,10 @@
         "wk:page":"Isertoq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0de3074aa8b18bcc05dfc6052911318",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870619,
-    "wof:lastmodified":1566638825,
+    "wof:lastmodified":1582358137,
     "wof:name":"Isortoq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

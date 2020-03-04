@@ -117,6 +117,9 @@
         "wk:page":"Qassiarsuk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"212ab216fb9efc57431b3991a5681e67",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101870557,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1582358137,
     "wof:name":"Qassiarsuk",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

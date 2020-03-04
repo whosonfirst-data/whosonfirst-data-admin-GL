@@ -285,6 +285,10 @@
         "wk:page":"Qaanaaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9169d7739153650704021ff585cf058a",
     "wof:hierarchy":[
         {
@@ -295,7 +299,7 @@
         }
     ],
     "wof:id":101870687,
-    "wof:lastmodified":1566638825,
+    "wof:lastmodified":1582358137,
     "wof:name":"Qaanaaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

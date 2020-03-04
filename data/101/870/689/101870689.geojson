@@ -109,6 +109,10 @@
         "wk:page":"Moriusaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6991bf45a7f09684931a5da17cc17823",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101870689,
-    "wof:lastmodified":1566638825,
+    "wof:lastmodified":1582358137,
     "wof:name":"Moriusaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

@@ -183,8 +183,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -204,6 +205,11 @@
         "wk:page":"Savissivik"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"a60e79d501efd10e1d09b6778999dda1",
     "wof:hierarchy":[
         {
@@ -214,7 +220,7 @@
         }
     ],
     "wof:id":101870677,
-    "wof:lastmodified":1566638831,
+    "wof:lastmodified":1582358139,
     "wof:name":"Savissivik",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

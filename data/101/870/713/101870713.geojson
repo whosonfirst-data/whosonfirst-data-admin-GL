@@ -136,6 +136,10 @@
         "wk:page":"Kangaatsiaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c946d14551bddde1b34ccadea495f21e",
     "wof:hierarchy":[
         {
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":101870713,
-    "wof:lastmodified":1566638827,
+    "wof:lastmodified":1582358138,
     "wof:name":"Kangaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

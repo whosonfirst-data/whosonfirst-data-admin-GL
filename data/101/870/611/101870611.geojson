@@ -115,6 +115,10 @@
         "wk:page":"Sermiligaaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"26169fafc1dde41f264a028893656996",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101870611,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358138,
     "wof:name":"Sermiligaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

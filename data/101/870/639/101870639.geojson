@@ -211,6 +211,10 @@
         "wk:page":"Aasiaat"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"671c0438769396679aee087ec8088adc",
     "wof:hierarchy":[
         {
@@ -221,7 +225,7 @@
         }
     ],
     "wof:id":101870639,
-    "wof:lastmodified":1566638832,
+    "wof:lastmodified":1582358139,
     "wof:name":"Aasiaat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

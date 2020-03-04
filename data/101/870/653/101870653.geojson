@@ -115,6 +115,10 @@
         "wk:page":"Illorsuit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62fac27b88edaae6720112ea2a2f721b",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101870653,
-    "wof:lastmodified":1566638832,
+    "wof:lastmodified":1582358139,
     "wof:name":"Illorsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

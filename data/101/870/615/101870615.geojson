@@ -121,6 +121,10 @@
         "wk:page":"Kuummiit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"694c9b482d16a2cd94a3516c013c9400",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101870615,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358138,
     "wof:name":"Kuummiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

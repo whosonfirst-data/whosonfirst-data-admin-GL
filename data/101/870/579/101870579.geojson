@@ -213,8 +213,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -237,6 +238,11 @@
         "qs_pg:id":1044576
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"cfef0e459ef4c2e92760054cc660fc92",
     "wof:hierarchy":[
         {
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":101870579,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1582358139,
     "wof:name":"Kulusuk",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

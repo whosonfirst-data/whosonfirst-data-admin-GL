@@ -111,6 +111,9 @@
         "wk:page":"Ilimanaq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8b05b7744e173c4818ffe92af4ffc07",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101870709,
-    "wof:lastmodified":1566638824,
+    "wof:lastmodified":1582358137,
     "wof:name":"Ilimanaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

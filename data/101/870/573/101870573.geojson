@@ -136,6 +136,9 @@
         "wk:page":"Aappilattoq, Kujalleq"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bac5be02ec7a12604332ddfc4425561",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101870573,
-    "wof:lastmodified":1566638828,
+    "wof:lastmodified":1582358138,
     "wof:name":"Aappilattoq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

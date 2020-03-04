@@ -124,6 +124,10 @@
         "wk:page":"Sarfannguit"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b40323ea6e1a96f18502b1f925e45c19",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101870603,
-    "wof:lastmodified":1566638826,
+    "wof:lastmodified":1582358138,
     "wof:name":"Sarfannguit",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

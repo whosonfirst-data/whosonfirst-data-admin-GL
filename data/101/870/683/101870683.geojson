@@ -118,6 +118,10 @@
         "wk:page":"Siorapaluk"
     },
     "wof:country":"GL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f5ec689c0a66585cd24167692cd3828",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101870683,
-    "wof:lastmodified":1566638830,
+    "wof:lastmodified":1582358139,
     "wof:name":"Siorapaluk",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
