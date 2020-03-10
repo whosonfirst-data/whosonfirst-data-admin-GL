@@ -910,9 +910,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Greenland",
-        "digitalenvoy:country_code":[
-            304
-        ],
+        "digitalenvoy:country_code":304,
         "fb:id":"en.greenland",
         "fifa:id":"GRL",
         "fips:code":"GL",
@@ -956,7 +954,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1583529139,
+    "wof:lastmodified":1583797345,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
