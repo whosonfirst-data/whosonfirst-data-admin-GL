@@ -932,7 +932,9 @@
         85684729
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633217,
+    "wof:capital_of":[
+        85633217
+    ],
     "wof:concordances":{
         "gn:id":3421319,
         "gp:id":472856,
@@ -956,7 +958,7 @@
         }
     ],
     "wof:id":101870623,
-    "wof:lastmodified":1587427336,
+    "wof:lastmodified":1607390879,
     "wof:megacity":0,
     "wof:name":"Nuuk",
     "wof:parent_id":85684729,
