@@ -975,7 +975,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1032,7 +1033,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"a12205f559320c4be521ec6faa90344e",
     "wof:hierarchy":[
@@ -1049,7 +1051,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1617827737,
+    "wof:lastmodified":1618362692,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
