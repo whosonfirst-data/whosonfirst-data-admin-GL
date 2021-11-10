@@ -30,6 +30,9 @@
     "name:bel_x_variant":[
         "\u041a\u0430\u0441\u044b\u0433\u0456\u044f\u043d\u0433\u0443\u0456\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09df\u09be\u09b8\u09bf\u0997\u09bf\u09df\u09be\u09a8\u09cd\u09a8\u0997\u09c1\u0987\u09a4"
+    ],
     "name:ceb_x_preferred":[
         "Qasigiannguit"
     ],
@@ -45,8 +48,14 @@
     "name:deu_x_preferred":[
         "Qasigiannguit"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03b9\u03b3\u03b9\u03b1\u03bd\u03b3\u03ba\u03bf\u03c5\u03af\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Qasigiannguit"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0633\u06cc\u06af\u06cc\u0627\u0646\u0646\u06af\u0648\u06cc\u062a"
     ],
     "name:fin_x_preferred":[
         "Qasigiannguit"
@@ -55,6 +64,15 @@
         "Qasigiannguit"
     ],
     "name:frr_x_preferred":[
+        "Qasigiannguit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05d2\u05d9\u05d0\u05e0\u05d2\u05d5\u05d0\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0938\u093f\u0917\u093f\u092f\u0902\u0917\u094d\u0935\u093f\u0924"
+    ],
+    "name:hun_x_preferred":[
         "Qasigiannguit"
     ],
     "name:ind_x_preferred":[
@@ -74,6 +92,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e1\u10d8\u10d2\u10d8\u10d0\u10dc\u10d2\u10e3\u10d8\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc2dc\uae30\uc559\uad6c\uc774\ud2b8"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0441\u0438\u0433\u0438\u0458\u0430\u043d\u0433\u0443\u0438\u0442"
@@ -105,8 +126,17 @@
     "name:swe_x_preferred":[
         "Qasigiannguit"
     ],
+    "name:tur_x_preferred":[
+        "Qasigiannguit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0456\u0433\u0456\u0430\u043d\u043d\u0433\u0443\u0457\u0442"
+    ],
     "name:und_x_variant":[
         "Kasigianguit"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0627\u0633\u06cc\u06af\u06cc\u0627\u0646\u06af\u0679"
     ],
     "name:vie_x_preferred":[
         "Qasigiannguit"
@@ -257,7 +287,7 @@
         }
     ],
     "wof:id":101870711,
-    "wof:lastmodified":1582358139,
+    "wof:lastmodified":1636502627,
     "wof:name":"Qasigiannguit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

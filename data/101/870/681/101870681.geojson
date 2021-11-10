@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
+        "\u0643\u064a\u0643\u0631\u062a\u0631\u0633\u0648\u0627\u0643"
+    ],
+    "name:ara_x_variant":[
         "\u0643\u064a\u0643\u064a\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u0643"
     ],
     "name:ast_x_preferred":[
@@ -29,6 +32,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09df\u09c7\u0995\u09c7\u09b0\u09a4\u09be\u09b0\u09b8\u09c1\u09df\u09be\u0995"
     ],
     "name:cat_x_preferred":[
         "Qeqertarsuaq"
@@ -42,8 +48,14 @@
     "name:deu_x_preferred":[
         "Qeqertarsuaq"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03ba\u03b5\u03c1\u03c4\u03b1\u03c1\u03c3\u03bf\u03c5\u03ac\u03ba"
+    ],
     "name:epo_x_preferred":[
         "Qeqertarsuaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06a9\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u06a9"
     ],
     "name:fin_x_preferred":[
         "Qeqertarsuaq"
@@ -52,6 +64,15 @@
         "Qeqertarsuaq"
     ],
     "name:frr_x_preferred":[
+        "Qeqertarsuaq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e7\u05e7\u05e8\u05d8\u05d0\u05e7\u05e1\u05d5\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0915\u0947\u0930\u094d\u091f\u0930\u094d\u0938\u0941\u0915"
+    ],
+    "name:ind_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:isl_x_preferred":[
@@ -65,6 +86,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ucf00\ub974\ud0c0\ub974\uc218\uc545"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
@@ -107,6 +131,12 @@
     ],
     "name:und_x_variant":[
         "Kekertarssuak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u0642\u0631\u062a\u0627\u0631\u0633\u0648\u0627\u0642"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Qeqertarsuaq"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Qaasuitsup Kommunia",
@@ -160,7 +190,7 @@
         }
     ],
     "wof:id":101870681,
-    "wof:lastmodified":1582358137,
+    "wof:lastmodified":1636502625,
     "wof:name":"Qeqertarsuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

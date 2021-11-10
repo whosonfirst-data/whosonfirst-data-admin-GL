@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-53.565238538,69.2441639058,-53.565238538,69.2441639058",
+    "geom:bbox":"-53.565239,69.244164,-53.565239,69.244164",
     "geom:latitude":69.244164,
     "geom:longitude":-53.565239,
     "iso:country":"GL",
@@ -33,6 +33,9 @@
     "name:bel_x_variant":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09df\u09c7\u0995\u09c7\u09b0\u09a4\u09be\u09b8\u09c1\u09df\u09be\u0995"
+    ],
     "name:cat_x_preferred":[
         "Qeqertarsuaq"
     ],
@@ -48,11 +51,17 @@
     "name:deu_x_preferred":[
         "Qeqertarsuaq"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03ba\u03b5\u03c1\u03c4\u03b1\u03c3\u03bf\u03c5\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Qeqertarsuaq"
     ],
     "name:epo_x_preferred":[
         "Qeqertarsuaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0631\u062a\u0627\u0633\u0648\u0627\u0642"
     ],
     "name:fin_x_preferred":[
         "Qeqertarsuaq"
@@ -63,8 +72,17 @@
     "name:frr_x_preferred":[
         "Qeqertarsuaq"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e7\u05d8\u05e1\u05d5\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u092a\u0930\u091f\u093e\u0938\u0941\u0906\u0915"
+    ],
     "name:hun_x_preferred":[
         "Qeqertarsuaq"
+    ],
+    "name:ind_x_preferred":[
+        "Qeqertasuaq"
     ],
     "name:isl_x_preferred":[
         "Qeqertarsuaq"
@@ -80,6 +98,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10d9\u10d4\u10e0\u10e2\u10d0\u10e0\u10e1\u10e3\u10d0\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ucf00\ub974\ud0c0\uc218\uc545"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0435\u043a\u0435\u0440\u0442\u0430\u0440\u0441\u0443\u0430\u043a"
@@ -119,6 +140,12 @@
     ],
     "name:tur_x_preferred":[
         "Qeqertarsuaq"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u0642\u0631\u0679\u0627\u0633\u0648\u0627\u0642"
+    ],
+    "name:vie_x_preferred":[
+        "Qeqertasuaq"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u51f1\u5854\u8607\u74e6\u514b"
@@ -230,7 +257,7 @@
     },
     "wof:country":"GL",
     "wof:created":1499130957,
-    "wof:geomhash":"2bf21c6a648dfe03ccbae3a268c053d6",
+    "wof:geomhash":"431d1acee88112cc38dfacb4f2fbe4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +267,7 @@
         }
     ],
     "wof:id":1141908677,
-    "wof:lastmodified":1566638847,
+    "wof:lastmodified":1636502628,
     "wof:name":"Qeqertasuaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
@@ -250,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -53.56523853801355,
-    69.24416390582036,
-    -53.56523853801355,
-    69.24416390582036
+    -53.565239,
+    69.244164,
+    -53.565239,
+    69.244164
 ],
-  "geometry": {"coordinates":[-53.56523853801355,69.24416390582036],"type":"Point"}
+  "geometry": {"coordinates":[-53.565239,69.244164],"type":"Point"}
 }

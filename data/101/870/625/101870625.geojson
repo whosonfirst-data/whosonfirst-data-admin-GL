@@ -30,6 +30,9 @@
     "name:bel_x_variant":[
         "\u041f\u0430\u0430\u043c\u0456\u044e\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09ae\u09bf\u0989\u09a4"
+    ],
     "name:cat_x_preferred":[
         "Paamiut"
     ],
@@ -63,6 +66,9 @@
     "name:eng_x_variant":[
         "Frederikshaab"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0645\u06cc\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Paamiut"
     ],
@@ -77,6 +83,12 @@
     ],
     "name:heb_x_variant":[
         "\u05e4\u05d0\u05d0\u05de\u05d9\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u092e\u0940\u0909\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Paamiut"
     ],
     "name:ind_x_preferred":[
         "Paamiut"
@@ -98,6 +110,9 @@
     ],
     "name:kom_x_preferred":[
         "\u041f\u0430\u0430\u043c\u0438\u0443\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ubbf8\uc6b0\ud2b8"
     ],
     "name:lit_x_preferred":[
         "Pamiutas"
@@ -134,6 +149,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0430\u043c\u0456\u0443\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0645\u06cc\u0648\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Paamiut"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u7f2a\u7279"
@@ -281,7 +302,7 @@
         }
     ],
     "wof:id":101870625,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1636502626,
     "wof:name":"Paamiut",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

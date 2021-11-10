@@ -33,6 +33,9 @@
     "name:bel_x_variant":[
         "\u041a\u0430\u043a\u043e\u0440\u0442\u0430\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0995\u09cb\u09b0\u09a4\u0995"
+    ],
     "name:cat_x_preferred":[
         "Qaqortoq"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Qaqortoq"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03ba\u03bf\u03c1\u03c4\u03bf\u03ba"
     ],
     "name:eng_x_preferred":[
         "Qaqortoq"
@@ -77,6 +83,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e7\u05d5\u05d0\u05e7\u05d5\u05e8\u05d8\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0915\u094b\u0930\u094d\u091f\u094b\u0915"
     ],
     "name:hun_x_preferred":[
         "Qaqortoq"
@@ -155,6 +164,9 @@
     ],
     "name:und_x_variant":[
         "Julianehaab"
+    ],
+    "name:vie_x_preferred":[
+        "Qaqortoq"
     ],
     "name:zho_x_preferred":[
         "\u5361\u79d1\u5c14\u6258\u514b"
@@ -305,7 +317,7 @@
         }
     ],
     "wof:id":101870565,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1636502626,
     "wof:name":"Qaqortoq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

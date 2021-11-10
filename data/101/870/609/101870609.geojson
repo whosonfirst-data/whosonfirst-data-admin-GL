@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0631\u0644\u0648\u0633\u0648\u0627\u0643"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0982\u0997\u09c7\u09b0\u09b2\u09c1\u09b8\u09b8\u09c1\u0995"
+    ],
     "name:cat_x_preferred":[
         "Kangerlussuaq"
     ],
@@ -54,13 +57,31 @@
     "name:deu_x_variant":[
         "Kangerdlugssuaq"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b3\u03ba\u03b5\u03c1\u03bb\u03bf\u03cd\u03c3\u03bf\u03c5\u03b1\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Kangerlussuaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u06af\u0631\u0644\u0648\u0633\u0648\u0627\u0642"
     ],
     "name:fin_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:fra_x_preferred":[
+        "Kangerlussuaq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d2\u05e8\u05dc\u05d5\u05e1\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0902\u0917\u0930\u0932\u0942\u0938\u0941\u0906\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Kangerlussuaq"
+    ],
+    "name:ind_x_preferred":[
         "Kangerlussuaq"
     ],
     "name:isl_x_preferred":[
@@ -105,8 +126,17 @@
     "name:swe_x_preferred":[
         "Kangerlussuaq"
     ],
+    "name:tur_x_preferred":[
+        "Kangerlussuaq"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0491\u0435\u0440\u043b\u0443\u0441\u0441\u0443\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0646\u06af\u0631\u0644\u0648\u0633\u0648\u0627\u0642"
+    ],
+    "name:vie_x_preferred":[
+        "Kangerlussuaq"
     ],
     "name:zho_x_preferred":[
         "\u5eb7\u514b\u9b6f\u65af\u74e6\u683c"
@@ -253,7 +283,7 @@
         }
     ],
     "wof:id":101870609,
-    "wof:lastmodified":1582358139,
+    "wof:lastmodified":1636502627,
     "wof:name":"Kangerlussuaq",
     "wof:parent_id":85684717,
     "wof:placetype":"locality",

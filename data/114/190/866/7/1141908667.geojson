@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-21.9666542984,70.4833579704,-21.9666542984,70.4833579704",
+    "geom:bbox":"-21.966654,70.483358,-21.966654,70.483358",
     "geom:latitude":70.483358,
     "geom:longitude":-21.966654,
     "iso:country":"GL",
@@ -30,6 +30,9 @@
     "name:bak_x_preferred":[
         "\u0418\u043b\u043b\u043e\u043a\u043a\u043e\u0440\u0442\u043e\u043e\u0440\u043c\u0438\u0443\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09a4\u09cd\u09a4\u09cb\u0995\u09cd\u0995\u09cb\u09b0\u09a4\u09c1\u09b0\u09ae\u09bf\u09a4"
+    ],
     "name:cat_x_preferred":[
         "Ittoqqortoormiit"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Ittoqqortoormiit"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03bf\u03ba\u03bf\u03c1\u03c4\u03cc\u03c1\u03bc\u03b9\u03c4"
     ],
     "name:eng_x_preferred":[
         "Ittoqqortoormiit"
@@ -65,6 +71,12 @@
     ],
     "name:glg_x_preferred":[
         "Ittoqqortoormiit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d5\u05e7\u05d5\u05e8\u05d8\u05d5\u05e8\u05de\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0924\u094b\u0915\u094b\u0930\u094d\u091f\u094b\u092e\u093f\u091f"
     ],
     "name:hun_x_preferred":[
         "Ittoqqortoormiit"
@@ -132,8 +144,17 @@
     "name:swe_x_preferred":[
         "Ittoqqortoormiit"
     ],
+    "name:tur_x_preferred":[
+        "Ittoqqortoormiit"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0442\u043e\u043a\u043a\u043e\u0440\u0442\u043e\u043e\u0440\u043c\u0456\u0443\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0679\u0648\u06a9\u0648\u0631\u0679\u0648\u0645\u06cc\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Ittoqqortoormiit"
     ],
     "name:zho_x_preferred":[
         "\u65af\u79d1\u65af\u6bd4\u9b06"
@@ -245,7 +266,7 @@
     },
     "wof:country":"GL",
     "wof:created":1499130950,
-    "wof:geomhash":"278fc05c23f979317bbb1f6592ce9a8a",
+    "wof:geomhash":"36d532005e084e2657e673608d41f4d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -255,7 +276,7 @@
         }
     ],
     "wof:id":1141908667,
-    "wof:lastmodified":1566638847,
+    "wof:lastmodified":1636502628,
     "wof:name":"Ittoqqortoormiit",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",
@@ -265,10 +286,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.96665429837753,
-    70.48335797035048,
-    -21.96665429837753,
-    70.48335797035048
+    -21.966654,
+    70.483358,
+    -21.966654,
+    70.483358
 ],
-  "geometry": {"coordinates":[-21.96665429837753,70.48335797035048],"type":"Point"}
+  "geometry": {"coordinates":[-21.966654,70.483358],"type":"Point"}
 }
