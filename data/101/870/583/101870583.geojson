@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0633\u064a\u0644\u0627\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0633\u064a\u0644\u0627\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Tasiilaq"
+    ],
     "name:bar_x_preferred":[
         "Tasiilaq"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0433\u043c\u0430\u0433\u0441\u0430\u043b\u0456\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b8\u09bf\u09b2\u09be\u0995"
@@ -75,6 +84,9 @@
     "name:hye_x_preferred":[
         "\u054f\u0561\u057d\u056b\u056b\u056c\u0561\u0584"
     ],
+    "name:ind_x_preferred":[
+        "Tasiilaq"
+    ],
     "name:isl_x_preferred":[
         "Tasiilaq"
     ],
@@ -98,6 +110,9 @@
     ],
     "name:lit_x_preferred":[
         "Tasilakas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0430\u0441\u0438\u0438\u043b\u0430\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0441\u0438\u043b\u0430\u043a"
@@ -126,6 +141,9 @@
     "name:swe_x_preferred":[
         "Tasiilaq"
     ],
+    "name:tur_x_preferred":[
+        "Tasiilaq"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0441\u0456\u0456\u043b\u0430\u043a"
     ],
@@ -137,6 +155,9 @@
     ],
     "name:vie_x_preferred":[
         "Tasiilaq"
+    ],
+    "name:yue_x_preferred":[
+        "\u5854\u65af\u62c9\u514b"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u99ac\u8d6b\u590f\u5229\u514b"
@@ -284,7 +305,7 @@
         }
     ],
     "wof:id":101870583,
-    "wof:lastmodified":1636502627,
+    "wof:lastmodified":1690921807,
     "wof:name":"Tasiilaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0633\u064a\u0633\u0648\u0627\u0631\u0633\u0648\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u062a\u0633\u064a\u0633\u0648\u0627\u0631\u0633\u0648\u064a\u062a"
+    ],
     "name:ceb_x_preferred":[
         "Kitsissuarsuit"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125848377,
-    "wof:lastmodified":1566638841,
+    "wof:lastmodified":1690921814,
     "wof:name":"Hunde Ejland",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

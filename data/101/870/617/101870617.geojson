@@ -39,6 +39,12 @@
     "name:eng_x_preferred":[
         "Tiniteqilaaq"
     ],
+    "name:eng_x_variant":[
+        "Tiilerilaaq"
+    ],
+    "name:fin_x_preferred":[
+        "Tiilerilaaq"
+    ],
     "name:fra_x_preferred":[
         "Tiniteqilaaq"
     ],
@@ -51,8 +57,14 @@
     "name:nld_x_preferred":[
         "Tiniteqilaaq"
     ],
+    "name:nno_x_preferred":[
+        "Tiilerilaaq"
+    ],
     "name:nob_x_preferred":[
         "Tiniteqilaaq"
+    ],
+    "name:nob_x_variant":[
+        "Tiilerilaaq"
     ],
     "name:nor_x_preferred":[
         "Tiniteqilaaq"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":101870617,
-    "wof:lastmodified":1582358137,
+    "wof:lastmodified":1690921782,
     "wof:name":"Tiniteqilaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

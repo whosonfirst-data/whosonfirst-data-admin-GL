@@ -60,11 +60,17 @@
     "name:iku_x_preferred":[
         "\u140a\u146f\u14d0\u14c8\u1585"
     ],
+    "name:ind_x_preferred":[
+        "Akunnaaq"
+    ],
     "name:ita_x_preferred":[
         "Akunnaaq"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30af\u30ca\u30fc\u30af"
+    ],
+    "name:kal_x_preferred":[
+        "Akunnaaq"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d9\u10e3\u10dc\u10d0\u10d0\u10d9\u10d8"
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":101870637,
-    "wof:lastmodified":1582358139,
+    "wof:lastmodified":1690921801,
     "wof:name":"Akunnaaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

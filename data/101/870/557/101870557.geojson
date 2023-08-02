@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0633\u064a\u0627\u0631\u0633\u0648\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0627\u0633\u064a\u0627\u0631\u0633\u0648\u0643"
+    ],
     "name:cat_x_preferred":[
         "Qassiarsuk"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:ita_x_preferred":[
         "Qassiarsuk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c3\u30b7\u30a2\u30fc\u30b9\u30c3\u30af"
     ],
     "name:kal_x_preferred":[
         "Qassiarsuk"
@@ -83,6 +89,9 @@
     ],
     "name:und_x_variant":[
         "Kagssiarssuk"
+    ],
+    "name:vie_x_preferred":[
+        "Qassiarsuk"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Kommune Kujalleq",
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":101870557,
-    "wof:lastmodified":1582358137,
+    "wof:lastmodified":1690921780,
     "wof:name":"Qassiarsuk",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0631\u0644\u0648\u0643"
+    ],
     "name:cat_x_preferred":[
         "Saarloq"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101870725,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921789,
     "wof:name":"Saarloq",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0648\u0641\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u0648\u0641\u064a\u0643"
+    ],
     "name:ast_x_preferred":[
         "Pituffik"
     ],
@@ -91,6 +94,9 @@
     "name:por_x_preferred":[
         "Pituffik"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0442\u0443\u0444\u0444\u0438\u043a"
+    ],
     "name:spa_x_preferred":[
         "Pituffik"
     ],
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1126038185,
-    "wof:lastmodified":1636502628,
+    "wof:lastmodified":1690921810,
     "wof:name":"Pituffik",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

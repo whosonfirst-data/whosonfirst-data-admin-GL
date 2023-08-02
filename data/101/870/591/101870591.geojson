@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0627\u062a\u0631\u0627\u062c\u064a\u0641\u064a\u062a"
+    ],
     "name:ces_x_preferred":[
         "Itterajivit"
     ],
@@ -28,6 +31,9 @@
         "Kap Hope"
     ],
     "name:dan_x_variant":[
+        "Itterajivit"
+    ],
+    "name:deu_x_preferred":[
         "Itterajivit"
     ],
     "name:eng_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101870591,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921796,
     "wof:name":"Ittaajimmiit",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

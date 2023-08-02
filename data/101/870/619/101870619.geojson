@@ -39,6 +39,12 @@
     "name:eng_x_preferred":[
         "Isortoq"
     ],
+    "name:eng_x_variant":[
+        "Isertoq"
+    ],
+    "name:fin_x_preferred":[
+        "Isertoq"
+    ],
     "name:fra_x_preferred":[
         "Isortoq"
     ],
@@ -60,8 +66,14 @@
     "name:nld_x_preferred":[
         "Isortoq"
     ],
+    "name:nno_x_preferred":[
+        "Isertoq"
+    ],
     "name:nob_x_preferred":[
         "Isortoq"
+    ],
+    "name:nob_x_variant":[
+        "Isertoq"
     ],
     "name:nor_x_preferred":[
         "Isortoq"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":101870619,
-    "wof:lastmodified":1582358137,
+    "wof:lastmodified":1690921783,
     "wof:name":"Isortoq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

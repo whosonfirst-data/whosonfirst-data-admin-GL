@@ -54,6 +54,9 @@
     "name:frr_x_preferred":[
         "Nanortalik"
     ],
+    "name:ind_x_preferred":[
+        "Nanortalik"
+    ],
     "name:isl_x_preferred":[
         "Nanortalik"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:swe_x_preferred":[
         "Nanortalik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043d\u043e\u0440\u0442\u0430\u043b\u0456\u043a"
     ],
     "name:und_x_variant":[
         "Ilivileq"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":101870723,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921792,
     "wof:name":"Nanortalik",
     "wof:parent_id":85684711,
     "wof:placetype":"locality",

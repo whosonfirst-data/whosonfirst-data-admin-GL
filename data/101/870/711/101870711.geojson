@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0632\u064a\u063a\u064a\u0627\u0646\u063a\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0632\u064a\u062c\u064a\u0627\u0646\u062c\u0648\u062a"
+    ],
     "name:ast_x_preferred":[
         "Qasigiannguit"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0441\u0456\u0433\u0456\u044f\u043d\u0433\u0443\u0456\u0442"
     ],
     "name:bel_x_variant":[
         "\u041a\u0430\u0441\u044b\u0433\u0456\u044f\u043d\u0433\u0443\u0456\u0442"
@@ -287,7 +293,7 @@
         }
     ],
     "wof:id":101870711,
-    "wof:lastmodified":1636502627,
+    "wof:lastmodified":1690921807,
     "wof:name":"Qasigiannguit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
