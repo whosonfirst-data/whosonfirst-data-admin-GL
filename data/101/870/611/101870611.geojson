@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0645\u064a\u0644\u064a\u062c\u0627\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0631\u0645\u064a\u0644\u064a\u062c\u0627\u0643"
+    ],
     "name:cat_x_preferred":[
         "Sermiligaaq"
     ],
@@ -43,6 +46,9 @@
         "Sermiligaaq"
     ],
     "name:fra_x_preferred":[
+        "Sermiligaaq"
+    ],
+    "name:ind_x_preferred":[
         "Sermiligaaq"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Sermiligaaq"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u043c\u0456\u043b\u0456\u0491\u0430\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Utorqarmiut"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":101870611,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921786,
     "wof:name":"Sermiligaaq",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

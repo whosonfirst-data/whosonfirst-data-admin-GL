@@ -64,6 +64,9 @@
     "name:swe_x_preferred":[
         "Mestersvig"
     ],
+    "name:zho_x_preferred":[
+        "\u6885\u65af\u7279\u65af\u7ef4"
+    ],
     "qs_pg:aaroncc":"GL",
     "qs_pg:gn_country":"GL",
     "qs_pg:gn_fcode":"STNB",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125834179,
-    "wof:lastmodified":1566638842,
+    "wof:lastmodified":1690921815,
     "wof:name":"Mestersvig",
     "wof:parent_id":85684705,
     "wof:placetype":"locality",

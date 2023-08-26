@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u0633\u0648\u064a\u062a"
+    ],
     "name:bar_x_preferred":[
         "Illorsuit"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101870653,
-    "wof:lastmodified":1582358139,
+    "wof:lastmodified":1690921804,
     "wof:name":"Illorsuit",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

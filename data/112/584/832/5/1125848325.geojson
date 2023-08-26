@@ -79,6 +79,9 @@
     "name:swe_x_preferred":[
         "Qassimiut"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0456\u043c\u0456\u0443\u0442"
+    ],
     "name:und_x_variant":[
         "Kagsimiut"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125848325,
-    "wof:lastmodified":1566638841,
+    "wof:lastmodified":1690921813,
     "wof:name":"Qassimiut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
     "name:und_x_variant":[
         "Uvkusigssat"
     ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5eab\u85a9\u85a9\u7279"
+    ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Qaasuitsup Kommunia",
     "qs:a1r":"0",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101870695,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921789,
     "wof:name":"Ukkusissat",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

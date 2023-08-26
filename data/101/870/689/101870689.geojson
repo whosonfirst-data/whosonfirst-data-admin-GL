@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u0633\u0627\u0643"
+    ],
     "name:cat_x_preferred":[
         "Moriusaq"
     ],
@@ -75,6 +78,9 @@
     "name:zho_x_preferred":[
         "\u83ab\u7ea6\u8d5b\u514b"
     ],
+    "name:zho_x_variant":[
+        "\u83ab\u91cc\u4e4c\u8428\u514b"
+    ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
     "qs:a1":"*Qaasuitsup Kommunia",
     "qs:a1r":"0",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101870689,
-    "wof:lastmodified":1582358137,
+    "wof:lastmodified":1690921784,
     "wof:name":"Moriusaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",

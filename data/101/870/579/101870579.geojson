@@ -78,6 +78,9 @@
     "name:hun_x_preferred":[
         "Kulusuk"
     ],
+    "name:ind_x_preferred":[
+        "Kulusuk"
+    ],
     "name:isl_x_preferred":[
         "Kulusuk"
     ],
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":101870579,
-    "wof:lastmodified":1636502627,
+    "wof:lastmodified":1690921806,
     "wof:name":"Kulusuk",
     "wof:parent_id":85684729,
     "wof:placetype":"locality",

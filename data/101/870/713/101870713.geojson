@@ -48,6 +48,9 @@
     "name:frr_x_preferred":[
         "Kangaatsiaq"
     ],
+    "name:ind_x_preferred":[
+        "Kangaatsiaq"
+    ],
     "name:isl_x_preferred":[
         "Kangaatsiaq"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce78\uac8c\ub97c\ub8e8\uc218\uc545"
+    ],
+    "name:kor_x_variant":[
+        "\uce89\uc637\uc2dc\uc544\ud06c"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0430\u0440\u0441\u0438\u0458\u0430\u043a"
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":101870713,
-    "wof:lastmodified":1582358138,
+    "wof:lastmodified":1690921790,
     "wof:name":"Kangaatsiaq",
     "wof:parent_id":85684721,
     "wof:placetype":"locality",
