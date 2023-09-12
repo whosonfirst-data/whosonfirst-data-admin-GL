@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":664.191422,
-    "geom:area_square_m":2149201297805.845215,
+    "geom:area_square_m":2149203123929.601318,
     "geom:bbox":"-73.237213,59.781037,-11.413386,83.653984",
     "geom:latitude":74.75577,
     "geom:longitude":-41.318807,
@@ -13,6 +13,9 @@
     "iso:country":"GL",
     "itu:country_code":[
         "299"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GL"
@@ -1044,7 +1047,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"299",
     "statoids:ds":"DK",
     "statoids:fifa":"GRL",
@@ -1100,7 +1104,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"a12205f559320c4be521ec6faa90344e",
+    "wof:geomhash":"990a6faaec7f6e94b2a75a87c380df99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1115,12 +1119,12 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1690921775,
+    "wof:lastmodified":1694492188,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":56375,
-    "wof:population_rank":8,
+    "wof:population":56225,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gl",
     "wof:shortcode":"GL",
     "wof:superseded_by":[],
