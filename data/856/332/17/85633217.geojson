@@ -1048,7 +1048,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"299",
     "statoids:ds":"DK",
     "statoids:fifa":"GRL",
@@ -1119,7 +1119,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1694492188,
+    "wof:lastmodified":1694639639,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
