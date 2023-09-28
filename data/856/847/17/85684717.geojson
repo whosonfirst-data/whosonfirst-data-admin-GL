@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.264598,
-    "geom:area_square_m":105123135376.236618,
+    "geom:area_square_m":105123140279.039688,
     "geom:bbox":"-53.975849,64.577408,-44.026074,67.776223",
     "geom:latitude":66.432584,
     "geom:longitude":-48.844948,
@@ -178,11 +178,17 @@
         "gn:id":7602006,
         "gp:id":20069858,
         "hasc:id":"GL.QT",
+        "iso:code":"GL-QE",
         "iso:id":"GL-QE",
+        "qs:local_id":"9057",
         "unlc:id":"GL-QE"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GL",
-    "wof:geomhash":"546f081e38a65aeef4983714931d26e2",
+    "wof:geomhash":"c0b248fa52c894dbd84cf31f5ce904d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -197,7 +203,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1636502624,
+    "wof:lastmodified":1695884939,
     "wof:name":"Qeqqata Kommunia",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

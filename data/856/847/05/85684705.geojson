@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":340.277856,
-    "geom:area_square_m":883276969967.579468,
+    "geom:area_square_m":883276987225.039062,
     "geom:bbox":"-62.034577,71.0,-11.413386,83.653984",
     "geom:latitude":77.87484,
     "geom:longitude":-34.921802,
@@ -67,10 +67,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"GL.UO"
+        "hasc:id":"GL.UO",
+        "iso:code":"GL-AV",
+        "qs:local_id":"9061"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GL",
-    "wof:geomhash":"9fd14ef64ffacf6d5438cc085b9054f4",
+    "wof:geomhash":"3fd576f5908dbad9a8320c73536c70c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +91,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1695884754,
     "wof:name":"Nuna Allanngutsaaaliugaq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",
