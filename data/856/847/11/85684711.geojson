@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.565995,
-    "geom:area_square_m":50568493980.424469,
+    "geom:area_square_m":50568500226.901367,
     "geom:bbox":"-48.258972,59.781037,-42.064607,62.793377",
     "geom:latitude":61.376259,
     "geom:longitude":-44.441105,
@@ -175,11 +175,17 @@
         "gn:id":7602005,
         "gp:id":-99,
         "hasc:id":"GL.KU",
+        "iso:code":"GL-KU",
         "iso:id":"GL-KU",
+        "qs:local_id":"9055",
         "unlc:id":"GL-KU"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GL",
-    "wof:geomhash":"c485173d20523c239d70ac0c4aa16e96",
+    "wof:geomhash":"1b601a2947c1cad9d51389785592c8cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -194,7 +200,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1636502623,
+    "wof:lastmodified":1695884938,
     "wof:name":"Kommune Kujalleq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

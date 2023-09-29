@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":179.661998,
-    "geom:area_square_m":566973859455.635376,
+    "geom:area_square_m":566973858525.390015,
     "geom:bbox":"-73.237213,67.483429,-44.039101,81.200287",
     "geom:latitude":75.155695,
     "geom:longitude":-54.106539,
@@ -169,11 +169,17 @@
         "gn:id":7602003,
         "gp:id":-99,
         "hasc:id":"GL.QS",
+        "iso:code":"GL-QA",
         "iso:id":"GL-QA",
+        "qs:local_id":"9058",
         "unlc:id":"GL-QA"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GL",
-    "wof:geomhash":"f7f0504850a13639acb4e99eed04ae71",
+    "wof:geomhash":"56d92530b4f5a437a4f56a44f93bdbf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +194,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1636502624,
+    "wof:lastmodified":1695884939,
     "wof:name":"Qaasuitsup Kommunia",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

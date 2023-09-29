@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":114.420045,
-    "geom:area_square_m":543258798399.808472,
+    "geom:area_square_m":543258802065.879272,
     "geom:bbox":"-52.164646,60.967731,-21.46186,71.942802",
     "geom:latitude":67.400332,
     "geom:longitude":-38.631169,
@@ -154,11 +154,17 @@
         "gn:id":7602007,
         "gp:id":20069859,
         "hasc:id":"GL.SE",
+        "iso:code":"GL-SM",
         "iso:id":"GL-SM",
+        "qs:local_id":"9056",
         "unlc:id":"GL-SM"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GL",
-    "wof:geomhash":"495f1c5df1eaaa786ee2ab772d992d31",
+    "wof:geomhash":"c121c2813e102979201062e75a0e4245",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +179,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1636502623,
+    "wof:lastmodified":1695884938,
     "wof:name":"Kommuneqarfik Sermersooq",
     "wof:parent_id":85633217,
     "wof:placetype":"region",

@@ -1083,6 +1083,7 @@
         "hasc:id":"GL",
         "icao:code":"OY",
         "ioc:id":"GRL",
+        "iso:code":"GL",
         "itu:id":"GRL",
         "loc:id":"n79059221",
         "m49:code":"304",
@@ -1096,6 +1097,7 @@
         "wd:id":"Q223",
         "wmo:id":"GL"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GL",
     "wof:country_alpha3":"GRL",
     "wof:geom_alt":[
@@ -1119,7 +1121,7 @@
     "wof:lang_x_spoken":[
         "kal"
     ],
-    "wof:lastmodified":1694639639,
+    "wof:lastmodified":1695881301,
     "wof:name":"Greenland",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
